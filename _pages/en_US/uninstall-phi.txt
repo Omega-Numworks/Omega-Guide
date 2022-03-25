@@ -1,0 +1,7 @@
+---
+title: "Unistall phi"
+---
+
+If you have installed the Phi bootloader, and want to get rid of it to get back to
+stock Epsilon 17, you can launch the hwloader (hold 6 while pressing reset), go on
+Numworks' website and do the recovery procedure.

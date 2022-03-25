@@ -1,0 +1,51 @@
+<!-- start custom head snippets -->
+<!-- insert favicons. use http://realfavicongenerator.net/ -->
+
+<link rel="apple-touch-icon" sizes="180x180" href="{{{ '/images/apple-touch-icon.png?v=PYEmwKvQAx' | absolute_url}}">
+<link rel="icon" type="image/png" href="{{{ '/images/favicon-32x32.png?v=PYEmwKvQAx' | absolute_url}}" sizes="32x32">
+<link rel="icon" type="image/png" href="{{ '/images/favicon-194x194.png?v=PYEmwKvQAx' | absolute_url}}" sizes="194x194">
+<link rel="icon" type="image/png" href="{{{ '/images/android-chrome-192x192.png?v=PYEmwKvQAx' | absolute_url}}" sizes="192x192">
+<link rel="icon" type="image/png" href="{{{ '/images/favicon-16x16.png?v=PYEmwKvQAx' | absolute_url}}" sizes="16x16">
+<link rel="manifest" href="{{{ '/images/manifest.json?v=PYEmwKvQAx' | absolute_url}}">
+<link rel="mask-icon" href="{{{ '/images/safari-pinned-tab.svg?v=PYEmwKvQAx' | absolute_url}}" color="#35402e">
+<link rel="shortcut icon" href="{{{ '/images/favicon.ico?v=PYEmwKvQAx' | absolute_url}}">
+<meta name="apple-mobile-web-app-title" content="Guide">
+<meta name="application-name" content="Guide">
+<meta name="msapplication-TileColor" content="#35402e">
+<meta name="msapplication-TileImage" content="{{{ '/images/mstile-144x144.png?v=PYEmwKvQAx' | absolute_url}}">
+<meta name="msapplication-config" content="{{{ '/images/browserconfig.xml?v=PYEmwKvQAx' | absolute_url}}">
+<meta name="theme-color" content="#35402e">
+
+
+{% assign split_path = page.path | split: "/" %}
+{% assign locale = split_path[1] %}
+{% if locale == 'en_US' %}
+  {% assign locale_var = '/' %}
+{% else %}
+  {% assign locale_var = locale | prepend:'/' | append:'/' %}
+{% endif %}
+{% assign top = site.data.navigation[locale].top %}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" integrity="sha512-LQ97camar/lOliT/MqjcQs5kWgy6Qz/cCRzzRzUCfv0fotsCTC9ZHXaPQmJV8Xu/PVALfJZ7BDezl5lW3/qBxg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js" integrity="sha512-yXXqOFjdjHNH1GND+1EO0jbvvebABpzGKD66djnUfiKlYME5HGMUJHoCaeE4D5PTG2YsSJf6dwqyUUvQvS0vaA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#35402e"
+    },
+    "button": {
+      "background": "#60818f"
+    }
+  },
+  "theme": "edgeless",
+  "position": "top",
+  "static": true,
+  "content": {
+    "message": "{{ top[0].title }}"
+  }
+})});
+</script>
+
+<!-- end custom head snippets -->
