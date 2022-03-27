@@ -14,8 +14,8 @@ You now have multiple choices. You can:
 
 If you wish to use Epsilon >= 16 while still being able to install a custom firmware,
 you can install a patched bootloader :
-1. Download [this file](https://phi.getomega.dev/bootloader.bin)
-2. Open [this page](https://phi.getomega.dev/webdfu/) in a chromium-based browser
+1. Download [this file](https://phi.getomega.dev/install/bootloader.bin)
+2. Open [this page](https://ti-planet.github.io/webdfu_numworks/n0110/) in a chromium-based browser
 3. While holding the 6 key, press the reset button on the back of your device
 4. Plug your calculator to your computer
 5. Click "Connect to the Numworks calculator" and select the STM32 bootloader.
