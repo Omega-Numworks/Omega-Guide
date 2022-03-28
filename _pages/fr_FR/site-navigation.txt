@@ -1,0 +1,21 @@
+---
+title: "Navigation sur le site" #
+sitemap: false
+---
+
+{% capture notice-2 %}
+**Tout**
+
++ [Contribuer](contribute)
++ [Crédits](credits)
++ [FAQ](faq)
++ [Vérifications finales](final-checks)
++ [Get started](get-started)
++ [Menu](/)
++ [Et maintenant (N0100)?](n0100-now-what)
++ [Et maintenant (N0110)?](n0110-now-what)
++ [Et maintenant (Phi)?](phi-now-what)
++ [Phi](phi)
++ [Désinstaller Phi](uninstall-phi)
+{% endcapture %}
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>

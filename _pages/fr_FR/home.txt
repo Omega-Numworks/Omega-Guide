@@ -1,0 +1,42 @@
+---
+layout: splash
+title: "Numworks Hacks Guide" #
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: /images/home-page-feature.jpg
+  overlay_filter: 0.5
+  caption:
+excerpt: "Un guide complet du custom firmware Numworks, <br /> du stock au CFW.<br />"
+---
+
+Lisez attentivement toutes les pages d'introduction (y compris celle-ci !) Avant de continuer.
+{: .notice--info}
+
+## CFW?
+
+**Les Custom firmwares** (CFW) sont des modifications logicielles pour les Numworks. Ils vous permettent de faire tout ce que Numworks est physiquement capable de faire, plutôt que d'être limité par ce que Numworks vous autorise à faire.
+
+Les utilisations courantes du CFW incluent :
+
+* Exécution de logiciels et de jeux homebrew conçus pour ou portés sur Numworks
+* Installation d'[émulateurs](https://external.getomega.dev/)
+* Installation de [KhiCAS](https://www-fourier.univ-grenoble-alpes.fr/~parisse/numworks/khicasnw.html), un logiciel de calcul formel très puissant
+* Installer d'autres CFW, comme [Omega](https://getomega.dev), [Upsilon](https://lolocomotive.github.io/Upsilon-website/) ou [Khi](https://www-fourier.univ-grenoble-alpes.fr/~parisse/nws.html)
+
+## Qu'est-ce que ce guide installe ?
+
+Ce guide va :
+  + Vous aider à décider si vous devez ou non installer Phi
+  + Installez le programme d'installation Phi en tant qu'application externe
+  + Installez le bootloader personnalisé de Phi
+  + Vous aider à installer l'un des CFW cités
+
+## Que dois-je savoir avant de commencer ?
+
+* Les techniques décrites dans ce guide n'en sont qu'à leurs balbutiements. **Nous ne sommes pas responsables de tout ce qui ne va pas avec votre appareil**. Il y a une petite chance que vous briquiez votre appareil.
+* Ce guide est compatible avec tous les appareils vendus au détail de la gamme de calculatrices Numworks.
+
+___
+
+## Continuer vers [Démarrer](get-started)
+{: .notice--primary}
