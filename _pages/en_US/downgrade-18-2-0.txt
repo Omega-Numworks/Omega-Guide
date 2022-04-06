@@ -11,7 +11,7 @@ We will now downgrate to Epsilon 18.2.0
 ### What You Need
 
 - A chromium-based browser (we recommend using [chromium](https://www.chromium.org/chromium-projects/) directly)
-- [Epsilon 18.2.0](https://my.numworks.com/firmwares/n0110/18-2-0.dfu)
+- Epsilon 18.2.0 `18-2-0.dfu` (since Numworks deleted this file from their website because of Phi, we cannot give you a link here)
 - [This python script](images/unpack.py)
 
 ### Section I - Extracting the external binary
