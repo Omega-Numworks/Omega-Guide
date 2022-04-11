@@ -78,21 +78,28 @@ def unpack(fw):
             addr, size, data = read_element(fw)
 
             if (addr >= internal_addr and addr + size <= internal_addr + internal_size):
-                print("      Element", j, ": Address:", hex(addr), "Size:", hex(size), "<internal>")
+                print("      Element", j, ": Address:", hex(
+                    addr), "Size:", hex(size), "<internal>")
                 for k in range(size):
                     internal[k + addr - internal_addr] = data[k]
             elif (addr >= external_addr and addr + size <= external_addr + external_size):
-                print("      Element", j, ": Address:", hex(addr), "Size:", hex(size), "<external>")
+                print("      Element", j, ": Address:", hex(
+                    addr), "Size:", hex(size), "<external>")
                 for k in range(size):
                     external[k + addr - external_addr] = data[k]
             else:
-                print("      Element", j, ": Address:", hex(addr), "Size:", hex(size), "<unknown>")
+                print("      Element", j, ": Address:", hex(
+                    addr), "Size:", hex(size), "<unknown>")
     return internal, external
 
-with open("18-2-0.dfu", "rb") as f:
+
+# Get current script directory
+script_dir = sys.path[0]
+print("Script directory:", script_dir)
+with open(script_dir + "/18-2-0.dfu", "rb") as f:
     internal, external = unpack(f)
 
-    with open("internal.bin", "wb") as fi:
+    with open(script_dir+"/internal.bin", "wb") as fi:
         fi.write(internal)
-    with open("external.bin", "wb") as fe:
+    with open(script_dir+"/external.bin", "wb") as fe:
         fe.write(external)
