@@ -1,0 +1,5 @@
+---
+title: "Désinstaller phi"
+---
+
+Si vous avez installé le bootloader Phi et que vous souhaitez vous en débarrasser pour revenir à Epsilon 17 stock, vous pouvez lancer le hwloader (maintenez 6 tout en appuyant sur reset), allez sur le Site Web de Numworks et effectuez la procédure de récupération.

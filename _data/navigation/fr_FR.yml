@@ -1,0 +1,46 @@
+---
+main:
+  -
+    title: Accueil
+    url: /
+  -
+    title: FAQ
+    url: faq
+  -
+    title: Contribuer
+    url: contribute
+  -
+    title: Désinstaller Phi
+    url: uninstall-phi
+  -
+    title: Crédits
+    url: credits
+  -
+    title: Navigation du site
+    url: site-navigation
+top:
+  -
+    title: Ce site utilise des cookies pour afficher la progression du guide sur la barre latérale, et par ailleurs améliorer le site.
+bottom:
+  -
+    title: For support in English, ask for help on the <a href="https://discord.gg/X2TWhh9">Omega Discord</a>.
+footer:
+  -
+    title: Source
+  -
+    title: Navigation du site
+  -
+    title: Politique de confidentialité
+sidebar_title:
+  -
+    title: Progrès d'ensemble
+sidebar_pages:
+  -
+    title: Accueil
+    url: /
+  -
+    title: Commencer
+    url: get-started
+  -
+    title: Finalisation de la configuration
+    url: phi-now-what
