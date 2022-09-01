@@ -39,7 +39,7 @@ The LED of the calculator should have turned red.
 If it'"s not the case, please join the [Omega Discord](https://discord.gg/X2TWhh9) and ask for help.
 {: .notice--warning}
 
-You can now go on the [Omega installer](https://getomega.dev/install/latest) with a chromium-base webbrowser.
+You can now go on the [Omega installer](https://getomega.dev/install/latest) with a chromium-base web browser.
 Click on the "Recovery" button, then select "STM32 Bootloader". Your calculator's screen should turn white with some text saying "Recovery mode". You can now click on "Install" and wait. The calculator should reboot into Omega.
 
 ### Continue to [Final checks](final-checks)

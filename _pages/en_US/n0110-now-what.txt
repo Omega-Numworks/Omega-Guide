@@ -22,7 +22,7 @@ you can install a patched bootloader :
 6. Click "Chose file" and pick the bootloader.bin that you just downloaded
 7. Click Flash internal
 
-You can now hold 4 and reset. You'll boot into the soft bootloader. From there, you can install Epailon from [Numworks' website](https://my.numworks.com/devices/upgrade).
+You can now hold 4 and reset. You'll boot into the soft bootloader. From there, you can install Epsilon from [Numworks' website](https://my.numworks.com/devices/upgrade).
 
 Continue to [Final checks](final-checks)
 {: .notice--primary}
@@ -31,7 +31,7 @@ Continue to [Final checks](final-checks)
 
 We are going to take Omega as an example here, but it should work the same with any custom firmware.
 
-Go on the [Omega installer](https://getomega.dev/install/latest) with a chromium-base webbrowser. Plus your calulator in your computer and click on "Install" and wait. The calculator should reboot into Omega.
+Go on the [Omega installer](https://getomega.dev/install/latest) with a chromium-base web browser. Plus your calculator in your computer and click on "Install" and wait. The calculator should reboot into Omega.
 
 ### Continue to [Final checks](final-checks)
 {: .notice--primary}

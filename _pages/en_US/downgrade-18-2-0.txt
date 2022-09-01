@@ -6,7 +6,7 @@ title: "Downgrading to 18.2.0"
 
 ### Required Reading
 
-We will now downgrate to Epsilon 18.2.0
+We will now downgrade to Epsilon 18.2.0
 
 ### What You Need
 
@@ -35,7 +35,7 @@ You should now have an internal.bin and an external.bin file
 3. You should now see the Epsilon bootloader interface
 4. Select `external.bin` in WebDFU
 5. Click "flash external"
-6. Once flahsing is done, press the reset button on your Numworks
+6. Once flashing is done, press the reset button on your Numworks
 
 You should now see version 18.2.0 in Settings > About.
 

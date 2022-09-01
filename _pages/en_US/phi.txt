@@ -28,7 +28,7 @@ The exploit used at the moment is compatible with Epsilon 16.3.0 trough 18.0.0.
 1. Press Back
 2. Scroll down in the apps list and select "Phi Installer"
 3. Press OK
-4. The screen should blink and you should see a screen simmilar to this one:
+4. The screen should blink and you should see a screen similar to this one:
 
 ![Phi launch screen](images/screenshots/phi-launch.png)
 

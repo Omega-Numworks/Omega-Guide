@@ -1,5 +1,5 @@
 ---
-title: "Unistall phi"
+title: "Uninstall phi"
 ---
 
 If you have installed the Phi bootloader, and want to get rid of it to get back to
