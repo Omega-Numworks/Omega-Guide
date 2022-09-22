@@ -12,7 +12,7 @@ We will now downgrate to Epsilon 18.2.0
 
 - A chromium-based browser (we recommend using [chromium](https://www.chromium.org/chromium-projects/) directly)
 - Epsilon 18.2.0 `18-2-0.dfu` (since Numworks deleted this file from their website because of Phi, we cannot give you a link here)
-- [This python script](images/unpack.py)
+- This python script: [Linux and macOS version](images/unpack.py), [Windows version](images/unpack-win.py)
 
 ### Section I - Extracting the external binary
 
