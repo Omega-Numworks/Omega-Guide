@@ -30,7 +30,7 @@ You should now have an internal.bin and an external.bin file
 
 ### Section II - Downgrade
 
-1. Open WebDFU in a chromium-based browser
+1. Open [WebDFU](https://ti-planet.github.io/webdfu_numworks/n0110/) in a chromium-based browser
 2. Hold the 6 key on your numworks and press the reset button
 3. You should now see the Epsilon bootloader interface
 4. Select `external.bin` in WebDFU
