@@ -8,7 +8,7 @@ Before starting this guide, we will check the model and the current Epsilon vers
 
 #### Section I - Model check
 
-1. Turn your calculator arround
+1. Turn your calculator around
 2. On its back, there should be a little writing, either N0110 or N0100. This is your model number.
 3. If you can't read that:
     1. Turn the calculator on
@@ -35,7 +35,7 @@ If you have a N0100, STOP - your calculator is already unlocked! Continue from [
 2. Press the "6" key
 3. While pressing the "6" key, press the reset button at the back of the device.
 
-If you see a screen like this one, you can proceede :
+If you see a screen like this one, you can proceed :
 ![Epsilon 16 bootloader](images/screenshots/e16bl.png)
 
 If the screen stays black and the LED turns red, STOP - your calculator is already unlocked! Continue from [here](n0110-now-what).
@@ -87,4 +87,4 @@ If possible, you should follow one of the software methods listed above.
 
 Otherwise, methods that work on all versions are available, but require additional hardware:
 
-1. [Debug port](https://tiplanet.org/forum/viewtopic.php?f=113&t=25191&p=263495#p263495) - requires a Raspbery PI or a STLink
+1. [Debug port](https://tiplanet.org/forum/viewtopic.php?f=113&t=25191&p=263495#p263495) - requires a Raspberry PI or a STLink

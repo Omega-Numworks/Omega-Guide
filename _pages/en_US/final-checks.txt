@@ -27,5 +27,5 @@ with your own money. If you want, you can join the [Omega Discord](https://disco
 If you have installed the Phi bootloader, here is some piece of info you might need.
 
 - You can access the STM32 DFU bootloader (called "hwloader") by holding 6 while pressing reset.
-- You can access Phi's DFU bootloader (callsed "softloader") by holding 4 while pressing reset.
+- You can access Phi's DFU bootloader (called "softloader") by holding 4 while pressing reset.
 - You can use the softloader to update Epsilon, just launch it and go on Numworks' website and click update.
