@@ -28,3 +28,8 @@ If you have installed the Phi bootloader, here is some piece of info you might n
 
 - You can access the STM32 DFU bootloader (called "hwloader") by holding 6 while pressing reset.
 - You can access Phi's DFU bootloader (called "softloader") by holding 4 while pressing reset.
+
+__
+
+If you want to use install Epsilon with the new bootloader, continue to [Install Epsilon from softloader](install-epsilon-from-softloader)
+{: .notice--info}
