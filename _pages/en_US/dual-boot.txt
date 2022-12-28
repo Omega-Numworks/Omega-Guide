@@ -23,7 +23,7 @@ We will now install Omega to have Omega and Epsilon at the same time
 6. The calculator should connect automatically, if not click `Detect Calculator`
 7. Click `Install Omega`
 8. Wait for Omega to install
-9. Omega should start normally, if not try to hold 1 ans press the reset button
+9. Omega should start normally, if not try to hold 1 and press the reset button
 
 Your calculator should now be running Omega
 
