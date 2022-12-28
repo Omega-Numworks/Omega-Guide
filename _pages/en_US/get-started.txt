@@ -9,7 +9,7 @@ Before starting this guide, we will check the model and the current Epsilon vers
 #### Section I - Model check
 
 1. Turn your calculator around
-2. On its back, there should be a little writing, either N0110 or N0100. This is your model number.
+2. On its back, there should be a little writing, either N0120, N0110 or N0100. This is your model number.
 3. If you can't read that:
     1. Turn the calculator on
     2. Go in the settings app
@@ -17,6 +17,9 @@ Before starting this guide, we will check the model and the current Epsilon vers
     4. Look at the FCC ID. It should end with N0110 or N0100
 
 If you have a N0100, STOP - your calculator is already unlocked! Continue from [here](n0100-now-what).
+{: .notice--warning}
+
+If you have a N0120, STOP - nothing here will work for you!
 {: .notice--warning}
 
 
@@ -31,9 +34,8 @@ If you have a N0100, STOP - your calculator is already unlocked! Continue from [
 
 #### Section III - Flash lock check
 
-1. Power off your calculator
-2. Press the "6" key
-3. While pressing the "6" key, press the reset button at the back of the device.
+1. Press the "6" key
+2. While pressing the "6" key, press the reset button at the back of the device.
 
 If you see a screen like this one, you can proceed :
 ![Epsilon 16 bootloader](images/screenshots/e16bl.png)

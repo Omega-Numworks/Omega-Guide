@@ -24,4 +24,5 @@ phones can be used with an USB OTG cable.
 Epsilon, so yes.
 
 To update Epsilon after installing the Phi bootloader, you can just hold 4 while pressing reset to access the
-softloader and go on Numworks' website. From there, just update Epsilon normally.
+softloader and flash the external.bin of which version you want with WebDFU. We won't be providing links to
+any versions on this site since Epsilon is now proprietary. You shouldn't use Numworks' site to update.
