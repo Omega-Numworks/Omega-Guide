@@ -6,7 +6,7 @@ title: "See if you are eligible to downgrade"
 
 To determine if your calculator can be downgraded to 18.2.0 or not, you have to know the version before you updated.
 
-### If your system version was between 16.3.0 and 18.2.3
+### If your system version was between 16.3.0 and 18.2.3 except 16.4.3
 
 Then you are eligible to [Downgrade to 18.2.0](downgrade-18-2-0)
 {: .notice--primary}
