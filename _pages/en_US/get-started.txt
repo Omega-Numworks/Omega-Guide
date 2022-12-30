@@ -65,7 +65,7 @@ Use the version table below to select a method. A few things to note:
   <tbody>
     <tr>
       <td style="text-align: center; font-weight: bold;">20.0.0 and later</td>
-      <td style="text-align: center; font-weight: bold;">Use an alternate method below</td>
+      <td style="text-align: center; font-weight: bold;"><a href="get-started#alternate-methods">Use an alternate method below</a></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">19.0.0-19.5.0</td>
