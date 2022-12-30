@@ -64,7 +64,11 @@ Use the version table below to select a method. A few things to note:
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; font-weight: bold;">19.0.0 and later</td>
+      <td style="text-align: center; font-weight: bold;">20.0.0 and later</td>
+      <td style="text-align: center; font-weight: bold;">Use an alternate method below</td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">19.0.0-19.5.0</td>
       <td style="text-align: center; font-weight: bold;"><a href="see-if-you-are-eligible-to-downgrade">See if you are eligible to downgrade</a></td>
     </tr>
     <tr>
