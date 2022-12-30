@@ -13,7 +13,7 @@ Then you are eligible to [Downgrade to 18.2.0](downgrade-18-2-0)
 
 ### If your system version was before 16.3.0, 16.4.3, or an unofficial one (Like Omega)
 
-You are not eligible to downgrade, please join the [Omega Discord](https://discord.gg/X2TWhh9).
+You are not eligible to downgrade, you can only use an [alternate method](get-started#alternate-methods).
 {: .notice--warning}
 
 ### If you don't know
