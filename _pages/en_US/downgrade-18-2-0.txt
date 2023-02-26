@@ -8,6 +8,10 @@ title: "Downgrading to 18.2.0"
 
 We will now downgrade to Epsilon 18.2.0
 
+If you are not sure if you are eligible to downgrade, go check [this page](check-downgrade-eligibility)
+{: .notice--info}
+
+
 ### What You Need
 
 - A chromium-based browser (we recommend using [chromium](https://www.chromium.org/chromium-projects/) directly)
