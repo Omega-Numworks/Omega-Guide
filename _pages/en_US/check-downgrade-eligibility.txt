@@ -10,7 +10,7 @@ There are some cases where you can downgrade and some you can't, this page expla
 
 You don't need to downgrade, just go to [Now What ?](n0110-now-what)
 
-### If you have Epsilon 16 to 18.2.2 (but not 16.4.3)
+### If you have Epsilon 16 to 18.2.0 (but not 16.4.3)
 
 You don't need to downgrade, just go to [Phi](phi)
 
