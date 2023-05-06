@@ -15,6 +15,7 @@ sitemap: false
 
 **Modding**
 
++ [Check Downgrade Eligibility](check-downgrade-eligibility)
 + [Downgrade to 18.2.0](downgrade-18-2-0)
 + [Phi](phi)
 + [Now What (N0100)?](n0100-now-what)

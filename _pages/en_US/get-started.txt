@@ -64,6 +64,10 @@ Use the version table below to select a method. A few things to note:
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: center; font-weight: bold;">19.0.0-20.4.0</td>
+      <td style="text-align: center; font-weight: bold;"><a href="check-downgrade-eligibility">Check Downgrade Eligibility</a></td>
+    </tr>
+    <tr>
       <td style="text-align: center; font-weight: bold;">18.2.3</td>
       <td style="text-align: center; font-weight: bold;"><a href="downgrade-18-2-0">Downgrade to 18.2.0</a></td>
     </tr>
@@ -72,7 +76,7 @@ Use the version table below to select a method. A few things to note:
       <td style="text-align: center; font-weight: bold;"><a href="downgrade-18-2-0">Upgrade to 18.2.0</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">16.3.0-18.2.0</td>
+      <td style="text-align: center; font-weight: bold;">16.3.0-18.2.0 (not 16.4.3)</td>
       <td style="text-align: center; font-weight: bold;"><a href="phi">Phi</a></td>
     </tr>
     <tr>

@@ -8,6 +8,10 @@ title: "Downgrading to 18.2.0"
 
 We will now downgrade to Epsilon 18.2.0
 
+If you are not sure if you are eligible to downgrade, go check [this page](check-downgrade-eligibility)
+{: .notice--info}
+
+
 ### What You Need
 
 - A chromium-based browser (we recommend using [chromium](https://www.chromium.org/chromium-projects/) directly)
@@ -40,7 +44,7 @@ You should now have an internal.bin and an external.bin file
 
 You should now see version 18.2.0 in Settings > About.
 
-If it is not the case or your Numworks doesn't boot, please join the [Omega Discord](https://discord.gg/X2TWhh9).
+If it is not the case or your Numworks doesn't boot, you can only use an [alternate method](get-started#alternate-methods).
 {: .notice--warning}
 
 ___
