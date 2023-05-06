@@ -41,3 +41,8 @@ You should now see version 18.2.0 in Settings > About.
 
 If it is not the case or your Numworks doesn't boot, please join the [Omega Discord](https://discord.gg/X2TWhh9).
 {: .notice--warning}
+
+___
+
+If you want to have Omega and Epsilon at the same time, continue to [Dual Boot](dual-boot)
+{: .notice--info}
