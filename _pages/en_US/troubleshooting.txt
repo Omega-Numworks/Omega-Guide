@@ -1,0 +1,26 @@
+---
+title: "Troubleshooting"
+---
+
+{% include toc title="Table of Contents" %}
+
+### Required Reading
+
+This section will list multiple issue you can encounter while modding your calculato
+
+### Huge battery consumption
+
+This can happen if you enable the clock in the settings, some custom firmwares include it.
+The clock consumes a lot of battery and it's highly recommended to disable it.
+
+### "Unable to claim interface"
+
+This error is displayed when you try to connect your calculator but it's already used by another tab or software. It usually happens when you try to install external apps but the tab you used to install your custom firmware is still open.
+This can easily be fixed if you close the tab or software already connected to it.
+
+### "Could not detect the calculator model" / "N????"
+
+This means your calculator is locked and you need to unlock it.
+Follow [this guide](get-started) to unlock it
+
+### 
