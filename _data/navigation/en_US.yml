@@ -13,6 +13,9 @@ main:
     title: Uninstall Phi
     url: uninstall-phi
   -
+    title: Troubleshooting
+    url: troubleshooting
+  -
     title: Credits
     url: credits
   -
