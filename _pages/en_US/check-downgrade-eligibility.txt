@@ -26,7 +26,7 @@ It depends on the version you had before updating
 - If you had 16 to 18.2.3 (but not 16.4.3): You can downgrade
 - If you had 16.4.3, 19 or higher: You can't downgrade
 
-#### And If you don't know
+### And If you don't know
 
 Don't worry, trying to downgrade won't break your calculator.
 If you were not eligible to downgrade, after downgrading the calculator will be stuck on Numworks recovery screen and you will be able to update from Numworks website and your calculator will work normally.
