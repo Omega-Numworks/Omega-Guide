@@ -24,5 +24,10 @@ sitemap: false
 + [Final checks](final-checks)
 + [Install Epsilon From Softloader](install-epsilon-from-softloader)
 + [Uninstall Phi](uninstall-phi)
+
+**Customizing**
+
++ [Dual Boot](dual-boot)
+
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
