@@ -13,6 +13,16 @@ This section will list multiple issue you can encounter while modding your calcu
 This can happen if you enable the clock in the settings, some custom firmwares include it.
 The clock consumes a lot of battery and it's highly recommended to disable it.
 
+### Calculator not detected
+
+it means the driver or config file isn't installed on Windows or Linux.
+Open the [Update page](https://numworks.com/update/) on Numworks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it**
+
+### "CommandName is not defines"
+
+You are trying to do something with the calculator but the calculator isn't in the right mode, like trying to install apps with the calculator in Recovery Mode or on n0100.
+Try to use the right mode, for external apps just run it in normal mode.
+
 ### "Unable to claim interface"
 
 This error is displayed when you try to connect your calculator but it's already used by another tab or software. It usually happens when you try to install external apps but the tab you used to install your custom firmware is still open.
@@ -59,11 +69,20 @@ Make sure you are in the right mode and no other app or tab is using the calcula
 
 ### "DFU DOWNLOAD FAILED"
 
-You may not be using the right WebDFU, make sure you are using TI-Plat
+You may not be using the right WebDFU, make sure you are using [TI-Planet's WebDFU](https://ti-planet.github.io/webdfu_numworks/n0110/)
 
 ### "Access Denied" when trying to connect the calculator in Recovery mode
 
-
+This can happen on Windows and Linux:
+- On Linux it means you haven't installed the config file, [Numworks' update page](https://numworks.com/update/) will give it to you.
+- On Windows it means you are in recovery mode and the wrong driver is selected, there are a few steps you can follow to fix this
+  1. If it's not installed, install the driver from [Numworks' update page](https://numworks.com/update/)
+  2. Open Device manager, press Win+R, type `devmgmt.msc`, and press enter
+  3. Search for a device with STM in the name
+  4. Right click on it, and press "Update Driver"
+  5. Dont search automatically for drivers, Search for it manually. Then decide to choose in a list.
+  6. Select the Numworks driver, then press next
+  7. The driver should be correctly installed, you can now connect in recovery mode and it should work.
 
 ___
 
