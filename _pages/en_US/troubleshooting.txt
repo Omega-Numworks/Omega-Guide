@@ -87,4 +87,4 @@ This can happen on Windows and Linux:
 ___
 
 ### Is you error not listed ? The provided solution didn't fix your problem ? Don't hesitate to ask on the [Omega Discord](https://discord.gg/X2TWhh9)
-{: .notice--primary}
+{: .notice--info}
