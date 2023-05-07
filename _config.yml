@@ -296,7 +296,7 @@ defaults:
       permalink: /:basename:output_ext
       lang: en
   - scope:
-      path: "_pages/en_US/home.txt"
+      path: "_pages/en_US/home.md"
       type: pages
     values:
       permalink: /index:output_ext
