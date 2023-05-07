@@ -21,6 +21,51 @@ This can easily be fixed if you close the tab or software already connected to i
 ### "Could not detect the calculator model" / "N????"
 
 This means your calculator is locked and you need to unlock it.
-Follow [this guide](get-started) to unlock it
+Follow [this guide](get-started) to unlock it.
 
-### 
+### Recovery mode (Black Screen + Red Led), calculator not recognized
+
+Your calculator looks like it's in recovery mode but it isn't.
+Hold 6 and click reset to start it in recovery mode, it will look the same but this time, it will be recognized.
+
+### "Memory is corrupted" when adding python scripts
+
+It can happen when the custom bootloader is too old. To update it go to your custom firmware's website then reinstall it from recovery mode by holding 6 and clicking reset on the calculator.
+
+### Screen and led blinking
+
+You are trying to run Epsilon 19 with an old custom bootloader.
+Update the bootloader by going to your custom firmware's website and reinstalling it from recovery mode by holding 6 and clicking reset on the calculator.
+
+### Installation takes infinite amout of time
+
+This can happen on Omega's website and on Numworks' website. Unless your calculator is locked, the system is already installed but the website is trying to boot the calculator and it can't.
+Just click reset on the calculator and it should be fixed
+
+### "Address 0x90000000 outside of memory map"
+
+You are trying to flash the external partition while in recovery mode. This can't work.
+You need to flash while in the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when instlling Omega in Recovery mode)
+
+### Calculator restarts when trying to install custom firmware
+
+Your calculator is running Epsilon 19, it can happen when the calculator is locked or when you are running it from custom bootloader.
+Just restart the calculator in bootloader or any other firmware that isn't Epsilon 19 or higher
+
+### "ControlTransferIn" / "ControlTransferOut"
+
+Something interrupted the connection with the calculator.
+Make sure you are in the right mode and no other app or tab is using the calculator.
+
+### "DFU DOWNLOAD FAILED"
+
+You may not be using the right WebDFU, make sure you are using TI-Plat
+
+### "Access Denied" when trying to connect the calculator in Recovery mode
+
+
+
+___
+
+### Is you error not listed ? The provided solution didn't fix your problem ? Don't hesitate to ask on the [Omega Discord](https://discord.gg/X2TWhh9)
+{: .notice--primary}
