@@ -9,6 +9,7 @@ sitemap: false
 + [Home](/)
 + [Get started](get-started)
 + [FAQ](faq)
++ [Troubleshooting](troubleshooting)
 + [Contribute](contribute)
 + [Privacy Policy](privacy-policy)
 + [Credits](credits)
