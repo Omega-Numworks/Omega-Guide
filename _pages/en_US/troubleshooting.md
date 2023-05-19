@@ -4,10 +4,6 @@ title: "Troubleshooting"
 
 {% include toc title="Table of Contents" %}
 
-### Required Reading
-
-This section will list multiple issue you can encounter while modding your calculato
-
 ### Huge battery consumption
 
 This can happen if you enable the clock in the settings, some custom firmwares include it.
