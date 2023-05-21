@@ -17,7 +17,7 @@ Before starting this guide, we will check the model and the current Epsilon vers
     1. Turn the calculator on
     2. Go in the settings app
     3. Go in "about"
-    4. Look at the FCC ID. It should end with N0110 or N0100
+    4. Look at the FCC ID. It should end with N0120, N0110 or N0100
 
 If you have a N0100, STOP - your calculator is already unlocked! Continue from [here](n0100-now-what).
 {: .notice--warning}
