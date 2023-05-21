@@ -4,6 +4,9 @@ title: "Get Started"
 
 {% include toc title="Table of Contents" %}
 
+When this guide refers to Epsilon, it refers to Numworks' official firmware, the goal is to replace it
+{: .notice--warning}
+
 Before starting this guide, we will check the model and the current Epsilon version of your device.
 
 #### Section I - Model check
