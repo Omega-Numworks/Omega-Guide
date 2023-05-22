@@ -10,7 +10,7 @@ Before starting this guide, you need to understand some words you will see in th
 
 This guide will refer to some names, before starting you have to know what these names refer to:
 
-1. Epsilon: This is the system originally sold with the calculator, made by Numworks. After version 16, they started to lock the calculator to prevent any CFW installation.
+1. Epsilon: This is the system originally sold with the calculator, made by Numworks. After version 16, they started to lock the calculator to prevent any CFW installation ([see why here](https://tiplanet.org/forum/viewtopic.php?f=97&t=24968)).
 2. CFW: Custom firmware, a system that is made to replace Epsilon. A common one is Omega
 3. Phi: This is an app that is made to unlock locked calculators.
 4. Recovery mode ("STM32 DFU bootloader" or "hwloader"): This is a mode on the calculator that allows to change anything, and the one that Numworks locked. It's usually accessed when pressing "reset" on the back of the calculator while holding the "6" key and it can be recognized when you get a black screen with the led turned on red. This is what you need to get at the end to be able to install anything you want.
