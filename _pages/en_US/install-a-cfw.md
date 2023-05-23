@@ -43,7 +43,7 @@ There are multiple CFWs you can install on your calculator, most of them install
   <tbody>
     <tr>
       <td style="text-align: center; font-weight: bold;"><a href="omega">Omega</a></td>
-      <td style="text-align: center; font-weight: bold;">The most popular CFW for Numworks, it bings back symbolic calculation, allows installing external apps, and more python libraries</td>
+      <td style="text-align: center; font-weight: bold;">The most popular CFW for Numworks, forked from Epsilon 15.5.0. It bings back symbolic calculation, allows installing external apps, and more python libraries</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;"><a href="upsilon">Upsilon</a></td>
