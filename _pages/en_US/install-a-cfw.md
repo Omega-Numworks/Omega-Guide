@@ -27,7 +27,7 @@ You can get out of recovery mode by just pressing "reset" on the back
 
 #### Section II - Choose your CFW
 
-There are multiple CFWs you can install on your calculator, here are a few of them
+There are multiple CFWs you can install on your calculator, most of them install in the same way. Here are a few of them
 
 <table>
   <colgroup>
