@@ -41,11 +41,11 @@ There are multiple CFWs you can install on your calculator, here are a few of th
   <tbody>
     <tr>
       <td style="text-align: center; font-weight: bold;"><a href="omega">Omega</td>
-      <td style="text-align: center; font-weight: bold;"><a href="check-downgrade-eligibility">The most popular CFW for Numworks, it bings back symbolic calculation, allows installing external apps, and more python libraries</a></td>
+      <td style="text-align: center; font-weight: bold;">The most popular CFW for Numworks, it bings back symbolic calculation, allows installing external apps, and more python libraries</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;"><a href="upsilon">Upsilon</td>
-      <td style="text-align: center; font-weight: bold;"><a href="downgrade-18-2-0"Forked from Omega, Upsilon brings more features and conveience compared to Omega, like a LaTeX reader, more storage for python scripts, and a better bootloader</a></td>
+      <td style="text-align: center; font-weight: bold;">Forked from Omega, Upsilon brings more features and conveience compared to Omega, like a LaTeX reader, more storage for python scripts, and a better bootloader</td>
     </tr>
   </tbody>
 </table>
