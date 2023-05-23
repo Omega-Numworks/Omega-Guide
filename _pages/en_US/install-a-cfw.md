@@ -5,7 +5,7 @@ title: "Install a CFW"
 {% include toc title="Table of Contents" %}
 
 You need an unlocked calculator. [To unlock it go here](get-started)
-{: .notice--primary}
+{: .notice--info}
 
 This page will explain how to install a CFW on your calculator, assuming it's unlocked
 
