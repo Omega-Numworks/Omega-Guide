@@ -29,9 +29,5 @@ Continue to [Final checks](final-checks)
 
 ### Choice II - Install a CFW
 
-We are going to take Omega as an example here, but it should work the same with any custom firmware.
-
-Go on the [Omega installer](https://getomega.dev/install/latest) with a chromium-base web browser. Plus your calculator in your computer and click on "Install" and wait. The calculator should reboot into Omega.
-
-### Continue to [Final checks](final-checks)
-{: .notice--primary}
+Go to [install a CFW](install-a-cfw)
+{: .notice--info}
