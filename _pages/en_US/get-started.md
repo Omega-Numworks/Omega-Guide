@@ -55,7 +55,13 @@ If the screen stays black and the LED turns red, STOP - your calculator is alrea
 
 Press the reset button at the back of the calculator to return to the firmware.
 
-#### Section IV - Select a Method
+#### Section IV - Install the driver
+
+Your PC needs a driver to communicate to the calculator.
+- If you have macOS, you don't need to install anything
+- If you have Windows or Linux, open the [Update page](https://numworks.com/update) on Numworks’ website and it will give it and tell you how to install it. **Don’t plug in your calculator to make sure you don’t lock it**
+
+#### Section V - Select a Method
 
 Use the version table below to select a method. A few things to note:
   + The version table below is *inclusive*. For example, "from 16.3.0 to 18.0.0" includes 16.3.0, 18.0.0, and all versions in between.
