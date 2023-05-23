@@ -4,7 +4,7 @@ title: "Get Started"
 
 {% include toc title="Table of Contents" %}
 
-Before starting this guide, you need to understand some words you will see in this guide.
+Before starting this guide, you need to a few but mantatory things.
 
 #### Definitions
 
