@@ -3,7 +3,7 @@ title: "Site Navigation" #
 sitemap: false
 ---
 
-{% capture notice-2 %}
+{% capture site %}
 **Site**
 
 + [Home](/)
@@ -14,6 +14,10 @@ sitemap: false
 + [Privacy Policy](privacy-policy)
 + [Credits](credits)
 
+{% endcapture %}
+<div class="notice--info">{{ site | markdownify }}</div>
+
+{% capture unlocking %}
 **Unlocking**
 
 + [Check Downgrade Eligibility](check-downgrade-eligibility)
@@ -24,11 +28,18 @@ sitemap: false
 + [Now What (Phi)?](phi-now-what)
 + [Final checks](final-checks)
 
+{% endcapture %}
+<div class="notice--primary">{{ unlocking | markdownify }}</div>
+
+{% capture customizing %}
 **Customizing**
 
++ [Choose a CFW](choose-a-cfw)
++ [Omega](omega)
++ [Upsilon](upsilon)
 + [Install Epsilon From Softloader](install-epsilon-from-softloader)
 + [Dual Boot](dual-boot)
 + [Uninstall Phi](uninstall-phi)
 
 {% endcapture %}
-<div class="notice--primary">{{ notice-2 | markdownify }}</div>
+<div class="notice--primary">{{ customizing | markdownify }}</div>
