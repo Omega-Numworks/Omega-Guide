@@ -28,19 +28,5 @@ If you don't boot back into Epsilon, please join the [Omega Discord](https://dis
 
 ## Choice II - Install a CFW
 
-We are going to take Omega as an example here, but it should work the same with any custom firmware.
-
-1. Press 4 to reset
-2. Hold 6
-3. While holding 6, press OK to confirm
-
-The LED of the calculator should have turned red.
-
-If it'"s not the case, please join the [Omega Discord](https://discord.gg/X2TWhh9) and ask for help.
-{: .notice--warning}
-
-You can now go on the [Omega installer](https://getomega.dev/install/latest) with a chromium-base web browser.
-Click on the "Recovery" button, then select "STM32 Bootloader". Your calculator's screen should turn white with some text saying "Recovery mode". You can now click on "Install" and wait. The calculator should reboot into Omega.
-
-### Continue to [Final checks](final-checks)
-{: .notice--primary}
+Go to [install a CFW](install-a-cfw)
+{: .notice--info}
