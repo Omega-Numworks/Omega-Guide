@@ -30,4 +30,4 @@ Continue to [Final checks](final-checks)
 ### Choice II - Install a CFW
 
 Go to [install a CFW](install-a-cfw)
-{: .notice--info}
+{: .notice--primary}
