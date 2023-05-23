@@ -28,5 +28,5 @@ If you don't boot back into Epsilon, please join the [Omega Discord](https://dis
 
 ## Choice II - Install a CFW
 
-Go to [install a CFW](install-a-cfw)
+Go to [choose a CFW](choose-a-cfw)
 {: .notice--primary}
