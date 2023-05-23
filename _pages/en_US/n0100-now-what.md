@@ -10,4 +10,4 @@ You are already the proud owner of an unlocked Numworks. More specifically, the 
 Due to technical limitations on the hardware of this model, Numworks decided not to lock it.
 
 You can now [install a CFW](install-a-cfw)
-{: .notice--info}
+{: .notice--primary}
