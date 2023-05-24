@@ -62,4 +62,4 @@ See [Install Epsilon from softloader](install-epsilon-from-softloader)
 
 #### Create your own version
 
-Upsilon is open-source, you can get the code and use it however you want. You will find everything on [Upsilon's github repo](https://github.com/Upsilon-Numworks/Upsilon)
+Upsilon is open-source, you can get the code and use it however you want. You will find everything on [Upsilon's github repo](https://github.com/UpsilonNumworks/Upsilon)
