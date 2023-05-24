@@ -27,6 +27,32 @@ if your model is n0100, you don't need recovery mode, it works normally.
 4. If the calculator doesn't get automatically connected, click "Detect Calculator" and select "Numworks Calculator"
 5. Now you can click "Install Omega" and in a few seconds Omega should be installed on your calculator.
 
-#### Optional Steps
+#### Section III - How to use your new calculator
 
-Now that Omega is installed, there 
+There are new features to your calculator now, you need to know them
+There is a new "Slot" system. Your calculator has 2 slots and can store 2 systems, they can't run at the same time but by using reset you can switch between them:
+- Hold 1 and press reset to start Slot A (containing Omega by default)
+- Hold 2 and press reset to start Slot B (may be empty or contains Epsilon)
+- Hold 4 and press reset to open the bootloader, you will be able to see which slot contain which system and also be able to install any system without locking the calculator.
+- You can’t start another system if you enable exam mode, you have to disable it to do so
+
+#### Optional features
+
+Now that Omega is installed, there are a few steps you can take:
+
+##### External apps
+
+Omega support external apps, there are a few but they are useful. Here is how to install them:
+1. Open [External apps page](https://external.getomega.dev/)
+2. Select the apps you want to install
+
+##### Installing Epsilon
+
+You can install Epsilon on the bootloader without locking the calculator.
+
+See [Install Epsilon from softloader](install-epsilon-from-softloader)
+{: .notice--primary}
+
+##### Create your own version
+
+Omega is open-source, you can get the code and use it however you want. You will find everything on [Omega's github repo](https://github.com/Omega-Numworks/Omega)
