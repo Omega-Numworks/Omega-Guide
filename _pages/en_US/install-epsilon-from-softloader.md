@@ -15,7 +15,7 @@ This page is irrelevant if you have an n0100, because you can switch between any
 
 ### Required Reading
 
-We will now install Epsilon on one slot of your calculator, assuming you have a bootloader
+We will now install Epsilon on one slot of your calculator, assuming you have a bootloader that allows it
 
 ### What You Need
 
