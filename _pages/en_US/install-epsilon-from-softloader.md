@@ -10,7 +10,7 @@ Following this guide may put your calculator at risk. Installing Epsilon on your
 The latest Epsilon version may not be safe, check the latest version [for n0110](https://my.numworks.com/firmwares/n0110/stable.json). Latest known safe version: **20.4.0**
 {: .notice--warning}
 
-This page is irrelevant if you have an n0100, because you can switch between any CFW and Epsilon without locking your calculator.
+This page is irrelevant if you have an n0100, because you can switch between any CFW and Epsilon without locking your calculator. And the n0100 can't have any custom bootloader.
 {: .notice--info}
 
 ### Required Reading
