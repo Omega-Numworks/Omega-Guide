@@ -36,5 +36,6 @@ If your CFW includes a custom bootloader that allows installing a system from it
 Now you have Epsilon with a custom bootloader so your calculator isn't locked.
 Epsilon has normally been installed on both slots. So if you had a CFW, it has been erased, only the bootloader is remaining. To reinstall it you can do it normally from the bootloader or in recovery mode, just make sure you are not installing Epsilon again.
 
-If you want to have Omega and Epsilon at the same time, continue to [Dual Boot](dual-boot)
-{: .notice--primary}
+### GG
+
+You now have Epsilon and your CFW at the same time, Epsilon on one slot, your CFW on the other. You can now switch between them whenever you want, it works differently depending on your CFW but the goal is just to switch between slots.
