@@ -33,7 +33,8 @@ If your CFW includes a custom bootloader that allows installing a system from it
 3. Follow instructions but if it asks you to do anything on your calculator, don't do it unless it's connecting it to your PC. The website should see version 0.0.0
 4. At the end the installer will get stuck and mey even fail, it's because it can't reboot the calculator. Don't worry Epsilon is installed, just press reset and you are good
 
-Now you have Epsilon with a custom bootloader so your calculator isn't locked
+Now you have Epsilon with a custom bootloader so your calculator isn't locked.
+Epsilon has normally been installed on both slots. So if you had a CFW, it has been erased, only the bootloader is remaining. To reinstall it you can do it normally from the bootloader or in recovery mode, just make sure you are not installing Epsilon again.
 
 If you want to have Omega and Epsilon at the same time, continue to [Dual Boot](dual-boot)
 {: .notice--primary}
