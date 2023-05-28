@@ -7,14 +7,14 @@ main:
     title: FAQ
     url: faq
   -
-    title: Contribute
-    url: contribute
-  -
-    title: Uninstall Phi
-    url: uninstall-phi
-  -
     title: Troubleshooting
     url: troubleshooting
+  -
+    title: Restore Stock Firmware
+    url: restore-stock-firmware
+  -
+    title: Contribute
+    url: contribute
   -
     title: Credits
     url: credits
