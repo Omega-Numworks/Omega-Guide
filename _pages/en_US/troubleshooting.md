@@ -14,7 +14,7 @@ The clock consumes a lot of battery and it's highly recommended to disable it.
 it means the driver or config file isn't installed on Windows or Linux.
 Open the [Update page](https://numworks.com/update/) on Numworks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it**
 
-### "CommandName is not defines"
+### "CommandName is not defined"
 
 You are trying to do something with the calculator but the calculator isn't in the right mode, like trying to install apps with the calculator in Recovery Mode or on n0100.
 Try to use the right mode, for external apps just run it in normal mode.
