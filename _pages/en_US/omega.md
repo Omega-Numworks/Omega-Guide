@@ -30,11 +30,11 @@ if your model is n0100, you don't need recovery mode, it works normally.
 ### Section III - How to use your new calculator (not for n0100)
 
 There are new features to your calculator now, you need to know them
-There is a new "Slot" system. Your calculator has 2 slots and can store 2 systems, they can't run at the same time but by using reset you can switch between them:
+There is a new "Slot" system. Your calculator has 2 slots and can store 2 firmwares, they can't run at the same time but by using reset you can switch between them:
 - Hold 1 and press reset to start Slot A (containing Omega by default)
 - Hold 2 and press reset to start Slot B (may be empty or contains Epsilon)
-- Hold 4 and press reset to open the bootloader, you will be able to see which slot contain which system and also be able to install any system without locking the calculator.
-- You can’t start another system if you enable exam mode, you have to disable it to do so
+- Hold 4 and press reset to open the bootloader, you will be able to see which slot contain which firmware and also be able to install any firmware without locking the calculator.
+- You can’t start another firmware if you enable exam mode, you have to disable it to do so
 
 ### Optional features
 
