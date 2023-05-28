@@ -45,7 +45,7 @@ Update the bootloader by going to your custom firmware's website and reinstallin
 
 ### Installation takes infinite amout of time
 
-This can happen on Omega's website and on Numworks' website. Unless your calculator is locked, the system is already installed but the website is trying to boot the calculator and it can't.
+This can happen on Omega's website and on Numworks' website. Unless your calculator is locked, the firmware is already installed but the website is trying to boot the calculator and it can't.
 Just click reset on the calculator and it should be fixed
 
 ### "Address 0x90000000 outside of memory map"
