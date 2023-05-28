@@ -38,8 +38,7 @@ sitemap: false
 + [Omega](omega)
 + [Upsilon](upsilon)
 + [Install Epsilon From Softloader](install-epsilon-from-softloader)
-+ [Dual Boot](dual-boot)
-+ [Uninstall Phi](uninstall-phi)
++ [Restore Stock Firmware](restore-stock-firmware)
 
 {% endcapture %}
 <div class="notice--primary">{{ customizing | markdownify }}</div>
