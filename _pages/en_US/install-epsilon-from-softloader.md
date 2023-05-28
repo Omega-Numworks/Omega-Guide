@@ -24,7 +24,7 @@ We will now install Epsilon on one slot of your calculator, assuming you have a 
 
 ### Section I - Open the bootloader
 
-If your CFW includes a custom bootloader that allows installing a system from it, you should now open the bootloader and make it ready to install anything. Some help can be found on [this page](choose-a-cfw)
+If your CFW includes a custom bootloader that allows installing a firmware from it, you should now open the bootloader and make it ready to install anything. Some help can be found on [this page](choose-a-cfw)
 
 ### Section II - Install
 
