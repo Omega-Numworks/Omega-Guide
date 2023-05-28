@@ -9,7 +9,7 @@ title: "FAQ"
 refuses you a legitimate warranty claim after that, sue the fuck out of them.
 
 <a name="faq_risky" />**Q:** *How risky is jailbreaking my Numworks?*    
-**A:** Full on hardware bricks are quasi-impossible. The worst you can ges is a
+**A:** Full on hardware bricks are quasi-impossible. The worst you can get is a
 calculator with write protection enabled with an empty flash, which can always be solved
 with a hardware mod, but the chance of having that kind of issue is very very unlikely.
 
@@ -19,10 +19,6 @@ phones can be used with an USB OTG cable.
 
 # Post-Installation FAQ
 
-<a name="faq_update" />**Q:** *Is it safe to update Epsilon while having Phi installed ?*
+<a name="faq_update" />**Q:** *Is it safe to update Epsilon while having a CFW installed ?*
 **A:** At the moment, Numworks' installer doesn't check for modded bootloaders, neither does
-Epsilon, so yes.
-
-To update Epsilon after installing the Phi bootloader, you can just hold 4 while pressing reset to access the
-softloader and flash the external.bin of which version you want with WebDFU. We won't be providing links to
-any versions on this site since Epsilon is now proprietary. You shouldn't use Numworks' site to update.
+Epsilon, so yes (unless you don't have a bootloader which is probably not the case).
