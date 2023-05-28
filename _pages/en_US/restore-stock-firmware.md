@@ -10,7 +10,7 @@ This page will tell you how to go back to a fully stock firmware and therefore l
 
 1. Open [Numworks' restore page](https://numworks.com/rescue)
 2. Put your calculator in Recovery Mode holding 6 and pressing "reset" at the same time
-3. Plus your calculator in your computer
+3. Plug your calculator in your computer
 4. follow the instructions to restore stock firmware.
 
 You now have a fully stock Numworks calculator.
