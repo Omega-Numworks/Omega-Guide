@@ -16,7 +16,7 @@ This guide will refer to some names, before starting you have to know what these
 4. Recovery mode ("STM32 DFU bootloader" or "hwloader"): This is a mode on the calculator that allows to change anything, and the one that Numworks locked. It's usually accessed when pressing "reset" on the back of the calculator while holding the "6" key and it can be recognized when you get a black screen with the led turned on red. This is what you need to get at the end to be able to install anything you want.
 5. Bootloader ("softloader"): This is a menu you can get in different ways, it depends on the CFW you choose. It allows you to reinstall the firmware and can prevent you from locking your calculator if you update it. Phi allows you to install one if you want.
 
-If you don't want to deeply modify your calculator, [there are a fewthings you still can do](what-to-do-locked).
+If you don't want to deeply modify your calculator, [there are still a few things you can do](what-to-do-locked).
 {: .notice--info}
 
 #### Section I - Model check
@@ -32,7 +32,7 @@ If you don't want to deeply modify your calculator, [there are a fewthings you s
 If you have a N0100, STOP - your calculator is already unlocked! Continue from [here](n0100-now-what).
 {: .notice--warning}
 
-If you have a N0120, STOP - You can't install a CFW on it. But that's not the end, [there are a fewthings you still can do](what-to-do-locked)
+If you have a N0120, STOP - You can't install a CFW on it. But that's not the end, [there are still a few things you can do](what-to-do-locked)
 {: .notice--warning}
 
 
