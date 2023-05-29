@@ -60,3 +60,7 @@ See [Install Epsilon from softloader](install-epsilon-from-softloader)
 #### Create your own version
 
 Omega is open-source, you can get the code and use it however you want. You will find everything on [Omega's github repo](https://github.com/Omega-Numworks/Omega)
+
+### Finished
+
+You now have Omega installed on your calculator. You can add python scripts in the same way as before from [Numworks' workshop](https://my.numworks.com/python/)
