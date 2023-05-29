@@ -35,3 +35,6 @@ ___
 
 If you are eligible, continue to [Downgrading to 18.2.0](downgrade-18-2-0)
 {: .notice--primary}
+
+If you are not eligible, [What can you do ?](what-to-do-locked)
+{: .notice--info}
