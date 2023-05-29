@@ -63,3 +63,7 @@ See [Install Epsilon from softloader](install-epsilon-from-softloader)
 #### Create your own version
 
 Upsilon is open-source, you can get the code and use it however you want. You will find everything on [Upsilon's github repo](https://github.com/UpsilonNumworks/Upsilon)
+
+### Finished
+
+You now have Upsilon installed on your calculator. You can add python scripts in the same way as before from [Numworks' workshop](https://my.numworks.com/python/)
