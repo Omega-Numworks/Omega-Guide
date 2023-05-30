@@ -6,8 +6,9 @@ title: "Troubleshooting"
 
 ### Huge battery consumption
 
-This can happen if you enable the clock in the settings, some custom firmwares include it.
-The clock consumes a lot of battery and it's highly recommended to disable it.
+There are 2 possible reasons:
+- You have enabled the clock in the settings, some custom firmwares include it. The clock consumes a lot of battery and it's highly recommended to disable it.
+- Your calculator keeps the led green. This is a hardware issue that tricks the calculator into thinking it's constantly charging and so fully charged while it's not the case. You should content Numworks to replace your calculator
 
 ### Calculator not detected
 
