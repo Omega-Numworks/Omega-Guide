@@ -19,9 +19,9 @@ Thoroughly read all of the introductory pages (including this one!) before proce
 Popular uses for CFW include:
 
 * Running homebrew software and games made for or ported to the Numworks
-* Installing [emulators](https://external.getomega.dev/)
+* Installing apps like emulators
 * Installing [KhiCAS](https://www-fourier.univ-grenoble-alpes.fr/~parisse/numworks/khicasnw.html), a very powerful Computer Algebra Software
-* Installing others CFW, like [Omega](https://getomega.dev), [Upsilon](https://getupsilon.web.app/) or [Khi](https://www-fourier.univ-grenoble-alpes.fr/~parisse/nws.html)
+* Installing [others CFW](choose-a-cfw), like [Omega](omega), [Upsilon](upsilon) or [Khi](https://www-fourier.univ-grenoble-alpes.fr/~parisse/nws.html)
 
 ## What does this guide install?
 
