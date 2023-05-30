@@ -17,7 +17,7 @@ This page will explain how to install Omega, assuming you have an unlocked calcu
 ### Section I - Prepare recovery mode
 
 if your model is n0110, enter recovery mode by holding "6" and pressing "reset"
-if your model is n0100, you don't need recovery mode, it works normally.
+if your model is n0100, enter recovery mode by plugging your calculator and pressing reset
 
 ### Section II - Install Omega
 
