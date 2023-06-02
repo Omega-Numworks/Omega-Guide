@@ -81,6 +81,10 @@ This can happen on Windows and Linux:
   6. Select the Numworks driver, then press next
   7. The driver should be correctly installed, you can now connect in recovery mode and it should work.
 
+### Crash when starting Upsilon
+
+Upsilon tends to crash when you start it and the calculator is connected to a PC. Disconnect it before starting.
+
 ___
 
 ### Is you error not listed ? The provided solution didn't fix your problem ? Don't hesitate to ask on the [Omega Discord](https://discord.gg/X2TWhh9)
