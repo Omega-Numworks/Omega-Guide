@@ -28,7 +28,7 @@ if your model is n0100, enter recovery mode by plugging your calculator and pres
 5. Select your settings like the theme. For the slot, if you don't know which one to choose, select "A"
 6. Now you can click "Install Upsilon" and in a few seconds Upsilon should be installed on your calculator.
 
-Upsilon tends to crash when the calculator connected to the PC, disconnect it before starting. Once it's started, there won't be any issue about that
+Upsilon tends to crash when starting with the cable connected, disconnect it before starting.
 {: .notice--info}
 
 ### Section III - How to use your new calculator (not for n0100)
