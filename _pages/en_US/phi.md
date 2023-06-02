@@ -22,13 +22,13 @@ The exploit used at the moment is compatible with Epsilon 16.3.0 trough 18.0.0.
 4. Go to the [Phi Installer](https://phi.getomega.dev/)
 5. Click "Connect to Numworks calculator" and select your calculator
 6. The calculator will show a message reading "Third party applications"
+7. Press Back
 
 ### Section II - Running Phi
 
-1. Press Back
-2. Scroll down in the apps list and select "Phi Installer"
-3. Press OK
-4. The screen should blink and you should see a screen similar to this one:
+1. Scroll down in the apps list and select "Phi Installer"
+2. Press OK
+3. The screen should blink and you should see a screen similar to this one:
 
 ![Phi launch screen](images/screenshots/phi-launch.png)
 
