@@ -28,8 +28,8 @@ It depends on the version you had before updating
 
 ### And If you don't know
 
-Don't worry, trying to change your versio,n won't break your calculator.
-If you were not eligible, after downgrading the calculator will be stuck on Numworks recovery screen and you will be able to update from Numworks website and your calculator will work normally.
+Don't worry, trying to change your version won't break your calculator.
+If you were not eligible, after the procedure, the calculator will be stuck on Numworks recovery screen and you will be able to update from Numworks website and your calculator will work normally.
 
 ___
 
