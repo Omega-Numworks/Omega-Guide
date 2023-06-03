@@ -20,8 +20,8 @@ sitemap: false
 {% capture unlocking %}
 **Unlocking**
 
-+ [Check Downgrade Eligibility](check-downgrade-eligibility)
-+ [Downgrade to 18.2.0](downgrade-18-2-0)
++ [Check version change eligibility](check-version-change-eligibility.md)
++ [Install Epsilon 18.2.0](install-epsilon-18-2-0)
 + [Phi](phi)
 + [Now What (N0100)?](n0100-now-what)
 + [Now What (N0110)?](n0110-now-what)
