@@ -77,30 +77,34 @@ Use the version table below to select a method. A few things to note:
   </colgroup>
   <thead>
     <tr>
-      <th style="text-align: center">Firmware Version</th>
+      <th style="text-align: center">System Version</th>
       <th style="text-align: center">What to do</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; font-weight: bold;">19.0.0-20.4.0</td>
-      <td style="text-align: center; font-weight: bold;"><a href="check-downgrade-eligibility">Check Downgrade Eligibility</a></td>
+      <td style="text-align: center; font-weight: bold;">11.2.0-16.2.0</td>
+      <td style="text-align: center; font-weight: bold;"><a href="n0110-now-what">Now what ?</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">18.2.3</td>
-      <td style="text-align: center; font-weight: bold;"><a href="downgrade-18-2-0">Downgrade to 18.2.0</a></td>
+      <td style="text-align: center; font-weight: bold;">16.3.0-16.4.2</td>
+      <td style="text-align: center; font-weight: bold;"><a href="phi">Phi</a></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">16.4.3</td>
       <td style="text-align: center; font-weight: bold;"><a href="downgrade-18-2-0">Upgrade to 18.2.0</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">16.3.0-18.2.0 (not 16.4.3)</td>
+      <td style="text-align: center; font-weight: bold;">17.0.0-18.2.0</td>
       <td style="text-align: center; font-weight: bold;"><a href="phi">Phi</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">11.2.0-16.2.0</td>
-      <td style="text-align: center; font-weight: bold;"><a href="n0110-now-what">Now what ?</a></td>
+      <td style="text-align: center; font-weight: bold;">18.2.3</td>
+      <td style="text-align: center; font-weight: bold;"><a href="downgrade-18-2-0">Downgrade to 18.2.0</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">19.0.0-20.4.0</td>
+      <td style="text-align: center; font-weight: bold;"><a href="check-downgrade-eligibility">Check Downgrade Eligibility</a></td>
     </tr>
   </tbody>
 </table>
