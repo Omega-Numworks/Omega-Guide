@@ -26,7 +26,7 @@ Popular uses for CFW include:
 ## What does this guide install?
 
 This guide will:
-  + Help you decide wether or not you need to install Phi
+  + Help you decide whether or not you need to install Phi
   + Install the Phi installer as an external app
   + Install Phi's custom bootloader
   + Help you install any of the cited CFW
