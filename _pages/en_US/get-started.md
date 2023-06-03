@@ -92,7 +92,7 @@ Use the version table below to select a method. A few things to note:
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">16.4.3</td>
-      <td style="text-align: center; font-weight: bold;"><a href="downgrade-18-2-0">Upgrade to 18.2.0</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="install-epsilon-18-2-0">Install Epsilon 18.2.0</a></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">17.0.0-18.2.0</td>
@@ -100,11 +100,11 @@ Use the version table below to select a method. A few things to note:
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">18.2.3</td>
-      <td style="text-align: center; font-weight: bold;"><a href="downgrade-18-2-0">Downgrade to 18.2.0</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="install-epsilon-18-2-0">Install Epsilon 18.2.0</a></td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;">19.0.0-20.4.0</td>
-      <td style="text-align: center; font-weight: bold;"><a href="check-downgrade-eligibility">Check Downgrade Eligibility</a></td>
+      <td style="text-align: center; font-weight: bold;"><a href="check-version-change-eligibility">Check version change eligibility</a></td>
     </tr>
   </tbody>
 </table>
