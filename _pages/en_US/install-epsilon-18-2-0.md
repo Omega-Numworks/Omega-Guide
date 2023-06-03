@@ -17,17 +17,17 @@ If you are not sure if you can install Epsilon 18.2.0, go check [this page](chec
 - A chromium-based browser (we recommend using [chromium](https://www.chromium.org/chromium-projects/) directly)
 - Epsilon 18.2.0 `18-2-0.dfu` (since Numworks deleted this file from their website because of Phi, we cannot give you a link here)
 - Python ([Link for Windows and macOS](https://www.python.org/))
-- This python script: [Linux and macOS version](images/unpack.py), [Windows version](images/unpack-win.py)
+- This Python script: [Linux and macOS version](images/unpack.py), [Windows version](images/unpack-win.py)
 
 ### Section I - Extracting the external binary
 
 Since Epsilon is now proprietary, we can't distribute the external flash image directly.
 We thus have to make you extract it.
 
-1. Install python on your platform
+1. Install Python on your platform
 2. Download Epsilon 18.2.0
 3. Create a new folder
-4. Put the python script in that folder
+4. Put the Python script in that folder
 5. Put 18-2-0.dfu in that folder
 6. Run the script
 
