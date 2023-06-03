@@ -1,14 +1,14 @@
 ---
-title: "Downgrading to 18.2.0"
+title: "Install Epsilon 18.2.0"
 ---
 
 {% include toc title="Table of Contents" %}
 
 ### Required Reading
 
-We will now downgrade to Epsilon 18.2.0
+We will now install Epsilon 18.2.0
 
-If you are not sure if you are eligible to downgrade, go check [this page](check-downgrade-eligibility)
+If you are not sure if you can install Epsilon 18.2.0, go check [this page](check-downgrade-eligibility)
 {: .notice--info}
 
 
@@ -33,7 +33,7 @@ We thus have to make you extract it.
 
 You should now have an internal.bin and an external.bin file
 
-### Section II - Downgrade
+### Section II - Install
 
 1. Open [WebDFU](https://ti-planet.github.io/webdfu_numworks/n0110/) in a chromium-based browser
 2. Hold the 6 key on your numworks and press the reset button
