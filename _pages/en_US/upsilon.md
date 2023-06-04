@@ -38,7 +38,7 @@ There is a new "Slot" system. Your calculator has 2 slots and can store 2 firmwa
 You now have a menu on boot, it allows you do to a lot. You can acces it just by pressing "reset".
 
 In this menu you can:
-- Choose your slot. There are 3, 2 of them can recieve a standard firmware, you can select them by pressing 1 for Slot A or 3 for Slot B. The 3rd, selected by pressing 2, is meant to have KhiCAS and Epsilon at the same time
+- Choose your slot. There are 3, 2 of them can recieve a standard firmware, you can select them by pressing 1 for Slot A or 3 for Slot B. The 3rd, selected by pressing 2, is meant for very specific use cases, most people don't need it.
 - Open Install mode. There are 2 modes: Flash Slots, that allows you to safely install any other firmware on your calculator, and Flash Bootloader, that allows you to update the bootloader by getting you to recovery mode (it may not work, to access recovery mode you can still use 6 + reset)
 
 Also note that once plugged into the PC, (unless in recovery mode) your calculator will be named "Upsilon Calculator" or "Upsilon Bootloader" instead of "NumWorks Calculator".
