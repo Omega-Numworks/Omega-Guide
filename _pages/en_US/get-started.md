@@ -10,11 +10,14 @@ Before starting this guide, you need to understand some words you will see in th
 
 This guide will refer to some names, before starting you have to know what these names refer to:
 
-1. Epsilon: This is the system originally sold with the calculator, made by Numworks. After version 16, they started to lock the calculator to prevent any CFW installation ([see why here](https://tiplanet.org/forum/viewtopic.php?f=97&t=24968)).
-2. CFW: Custom firmware, a system that is made to replace Epsilon. A common one is Omega
+1. Epsilon: This is the firmware originally sold with the calculator, made by Numworks. After version 16, they started to lock the calculator to prevent any CFW installation ([see why here](https://tiplanet.org/forum/viewtopic.php?f=97&t=24968)).
+2. CFW: Custom firmware, a firmware that is made to replace Epsilon. Common ones are Omega and Upsilon
 3. Phi: This is an app that is made to unlock locked calculators.
 4. Recovery mode ("STM32 DFU bootloader" or "hwloader"): This is a mode on the calculator that allows to change anything, and the one that Numworks locked. It's usually accessed when pressing "reset" on the back of the calculator while holding the "6" key and it can be recognized when you get a black screen with the led turned on red. This is what you need to get at the end to be able to install anything you want.
-5. Bootloader ("softloader"): This is a menu you can get in different ways, it depends on the CFW you choose. It allows you to reinstall the system and can prevent you from locking your calculator if you update it. Phi allows you to install one if you want.
+5. Bootloader ("softloader"): This is a menu you can get in different ways, it depends on the CFW you choose. It allows you to reinstall the firmware and can prevent you from locking your calculator if you update it. Phi allows you to install one if you want.
+
+If you don't want to deeply modify your calculator, [there are still a few things you can do](what-to-do-locked).
+{: .notice--info}
 
 #### Section I - Model check
 
@@ -29,7 +32,7 @@ This guide will refer to some names, before starting you have to know what these
 If you have a N0100, STOP - your calculator is already unlocked! Continue from [here](n0100-now-what).
 {: .notice--warning}
 
-If you have a N0120, STOP - nothing here will work for you!
+If you have a N0120, STOP - You can't install a CFW on it. But that's not the end, [there are still a few things you can do](what-to-do-locked)
 {: .notice--warning}
 
 
@@ -55,7 +58,13 @@ If the screen stays black and the LED turns red, STOP - your calculator is alrea
 
 Press the reset button at the back of the calculator to return to the firmware.
 
-#### Section IV - Select a Method
+#### Section IV - Install the driver
+
+Your PC needs a driver to communicate to the calculator.
+- If you have macOS, you don't need to install anything
+- If you have Windows or Linux, open the [Update page](https://numworks.com/update) on Numworks’ website and it will give it and tell you how to install it. **Don’t plug in your calculator to make sure you don’t lock it**
+
+#### Section V - Select a Method
 
 Use the version table below to select a method. A few things to note:
   + The version table below is *inclusive*. For example, "from 16.3.0 to 18.0.0" includes 16.3.0, 18.0.0, and all versions in between.
@@ -74,24 +83,28 @@ Use the version table below to select a method. A few things to note:
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; font-weight: bold;">19.0.0-20.4.0</td>
-      <td style="text-align: center; font-weight: bold;"><a href="check-downgrade-eligibility">Check Downgrade Eligibility</a></td>
+      <td style="text-align: center; font-weight: bold;">11.2.0-16.2.0</td>
+      <td style="text-align: center; font-weight: bold;"><a href="n0110-now-what">Now what ?</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">18.2.3</td>
-      <td style="text-align: center; font-weight: bold;"><a href="downgrade-18-2-0">Downgrade to 18.2.0</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">16.4.3</td>
-      <td style="text-align: center; font-weight: bold;"><a href="downgrade-18-2-0">Upgrade to 18.2.0</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">16.3.0-18.2.0 (not 16.4.3)</td>
+      <td style="text-align: center; font-weight: bold;">16.3.0-16.4.2</td>
       <td style="text-align: center; font-weight: bold;"><a href="phi">Phi</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">11.2.0-16.2.0</td>
-      <td style="text-align: center; font-weight: bold;"><a href="n0110-now-what">Now what ?</a></td>
+      <td style="text-align: center; font-weight: bold;">16.4.3</td>
+      <td style="text-align: center; font-weight: bold;"><a href="install-epsilon-18-2-0">Install Epsilon 18.2.0</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">17.0.0-18.2.0</td>
+      <td style="text-align: center; font-weight: bold;"><a href="phi">Phi</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">18.2.3</td>
+      <td style="text-align: center; font-weight: bold;"><a href="install-epsilon-18-2-0">Install Epsilon 18.2.0</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center; font-weight: bold;">19.0.0-20.4.0</td>
+      <td style="text-align: center; font-weight: bold;"><a href="check-version-change-eligibility">Check version change eligibility</a></td>
     </tr>
   </tbody>
 </table>
