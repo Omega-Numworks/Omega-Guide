@@ -8,7 +8,7 @@ title: "Install Epsilon 18.2.0"
 
 We will now install Epsilon 18.2.0
 
-If you are not sure if you can install Epsilon 18.2.0, go check [this page](check-downgrade-eligibility)
+If you are not sure if you can install Epsilon 18.2.0, go check [this page](check-version-change-eligibility)
 {: .notice--info}
 
 
