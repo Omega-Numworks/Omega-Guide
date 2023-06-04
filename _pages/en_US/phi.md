@@ -32,8 +32,8 @@ The exploit used at the moment is compatible with Epsilon 16.3.0 trough 18.0.0.
 
 ![Phi launch screen](images/screenshots/phi-launch.png)
 
-If the screen turns Yellow, the version or Epsilon you're using isn't yet supported. Please join the [Omega Discord](https://discord.gg/X2TWhh9).
-{: .notice--warning}
+If the screen turns Yellow, the version or Epsilon you're using isn't yet supported. You may need to [change your version](check-version-change-eligibility).
+{: .notice--info}
 If the screen turns Red, the exploit failed. Reset the calculator and try again. If it doesn't work the second time, please join the [Omega Discord](https://discord.gg/X2TWhh9).
 {: .notice--warning}
 
@@ -44,7 +44,7 @@ We are now going to unlock the internal flash and remove the write protection:
 1. Press 1 to unlock the internal flash.
 2. Press OK to confirm
 3. You should see something like this :
-![Phi launch screen](images/screenshots/phi-unlock.png)
+![Phi unlock screen](images/screenshots/phi-unlock.png)
 
 The "Reset RDP" stage can take a bit of time. You'll be put back on the main menu after a second, when the unlocking is done.
 
@@ -55,7 +55,7 @@ Removing the write protection should have erased the internal flash, but we are 
 1. Press 2 to reset the internal flash
 2. Press OK to confirm
 3. You should see something like this :
-![Phi launch screen](images/screenshots/phi-erase.png)
+![Phi erase screen](images/screenshots/phi-erase.png)
 
 The "Erase flash" stage can take a bit of time. You'll be put back on the main menu after a second, when the erasing is done.
 
