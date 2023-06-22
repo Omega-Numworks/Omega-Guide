@@ -80,3 +80,5 @@ It can be unlocked with a hardware modification, but the reason why we don't adv
 The n0120 was released first with Epsilon 16, but a patched version that can't be unlocked with Phi. So there is no n0120 that can currently be unlocked without hardware.
 Also, since Epsilon 16, Numworls stopped giving the drivers for the MCU, these drivers are requiered to create a bootloader. Developers can get them from Epsilon 15 for n0100 and n0110, but for n0120, they just never got released publically (and they can't get extracted from Epsilon), so they need to be developed from scratch which is really hard and long. This is why there is no CFW for n0120, and we can't tell you how to unlock it.
 
+Now you understand everything about how unlocking the calculator works.
+{: .notice--info}
