@@ -63,6 +63,7 @@ Phi is **NOT** the name of the "hack" of the calculator and doesn't do anything 
 Phi is an app that can unlock calculators running Epsilon between 16.3.0 and 18.2.0 (but not 16.4.3)
 
 It can be installed on Epsilon and exploits a bug named [Screenhax](https://blog.mfriess.xyz/screenhax/) to erase the internal flash and write over it from Epsilon, and also re-enabling recovery mode.
+
 It can also install a simple bootloader.
 
 Numworks patched it by releasing Epsilon 18.2.3.
@@ -70,8 +71,8 @@ Numworks patched it by releasing Epsilon 18.2.3.
 ### 6 - So, what happens when you follow the guide ?
 
 The process in the guide is now easy to understand:
-on n0100 we just start in recovery mode then erase the internal flash
-on n0110 we erase the internal flash and unlock re-enable the recovery mode to install whatever we want on both flashs
+- on n0100 we just start in recovery mode then erase the internal flash
+- on n0110 we erase the internal flash and unlock re-enable the recovery mode to install whatever we want on both flashs
 
 ### 7 - Why n0120 can't be unlocked ?
 
@@ -79,6 +80,7 @@ The n0120 is in a particular case:
 It can be unlocked with a hardware modification, but the reason why we don't advertize it in this guide is because there is no CFW you can install on it.
 
 The n0120 was released first with Epsilon 16, but a patched version that can't be unlocked with Phi. So there is no n0120 that can currently be unlocked without hardware.
+
 Also, since Epsilon 16, Numworls stopped giving the drivers for the MCU, these drivers are requiered to create a bootloader. Developers can get them from Epsilon 15 for n0100 and n0110, but for n0120, they just never got released publically (and they can't get extracted from Epsilon), so they need to be developed from scratch which is really hard and long. This is why there is no CFW for n0120, and we can't tell you how to unlock it.
 
 Now you understand everything about how unlocking the calculator works.
