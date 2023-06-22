@@ -57,7 +57,7 @@ Now that you understand how the internal flash works, let's understand how Phi w
 
 ### 5 - How does Phi work ?
 
-Phi is **NOT** the name of the "hack" of the calculator and doesn't do anything once the calculator is unlocked
+Phi is **NOT** a program or exploit that directly allows CFW to run and doesn't do anything once the calculator is unlocked
 {: .notice--info}
 
 Phi is an app that can unlock calculators running Epsilon between 16.3.0 and 18.2.0 (but not 16.4.3)
