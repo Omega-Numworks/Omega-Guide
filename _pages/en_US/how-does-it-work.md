@@ -12,9 +12,9 @@ First, know that the power button on the front if the calculator doesn't turn on
 There are currently 3 models of Numworks calculators: n0100, n0110, n0120.
 
 The calculator uses a MCU (Microcontroller Unit) made by ST Microelectronics to do all the work.
-The MCU used in n0100 is the [STM32F412](https://www.st.com/en/microcontrollers-microprocessors/stm32f412.html). This one has one storage partition, named "flash" because it's flash memory.
-The MCU used in n0110 is the [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). This one has 2 flashs. Named "internal" and "external"
-The MCU used in n0120 is the [STM32H725](https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735.html). This one also has 2 flashs, but is also more powerful than n0110's one
+- The MCU used in n0100 is the [STM32F412](https://www.st.com/en/microcontrollers-microprocessors/stm32f412.html). This one has one storage partition, named "flash" because it's flash memory.
+- The MCU used in n0110 is the [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). This one has 2 flashs. Named "internal" and "external"
+- The MCU used in n0120 is the [STM32H725](https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735.html). This one also has 2 flashs, but is also more powerful than n0110's one
 
 So we can make 2 categories:
 - n0100: With internal flash only
@@ -35,9 +35,9 @@ With 1 flash, it's easy to understand, everything is in the flash, this is the c
 The internal flash used to store a simple program that just starts the firmware installed in the external flash. But nowdays, since Epsilon 16, it's more complicated:
 
 Since Epsilon 16, the internal flash now contains a bootloader that is used to lock the calculator.
-**How does it do that ?** It check is the firmware installed is signed by Numworks, if it isn't, the bootloader does't start the firmware.
-**Can't the recovery mode help ?** Numworks thought about that, they configured the MCU to prevent writing in the internal flash and they put a message to tell that it's in recovery mode while it acually isn't.
-**Why isn't the n0100 locked ?** The n0100 has only one flash, and may need to be updated. So locking it was stupid as it would prevent updating it without special debugging tools.
+- **How does it do that ?** It check is the firmware installed is signed by Numworks, if it isn't, the bootloader does't start the firmware.
+- **Can't the recovery mode help ?** Numworks thought about that, they configured the MCU to prevent writing in the internal flash and they put a message to tell that it's in recovery mode while it acually isn't.
+- **Why isn't the n0100 locked ?** The n0100 has only one flash, and may need to be updated. So locking it was stupid as it would prevent updating it without special debugging tools.
 
 Now that we know how Numworks uses the calculator, let's know how custom firmwares use it.
 {: .notice--info}
@@ -49,6 +49,7 @@ Originally, a CFW was just replacing the external flash. To bypass some limitati
 Delta introduced external apps, which were then reused in Omega. They are installed in the external flash alongside the firmware. A similar system has been added to Epsilon later.
 
 But everything changed when custom bootloaders were released alongside with Phi.
+
 Most custom bootloaders contains more features like being able to have 2 firmwares stored on the external flash and starting one or another. And preventing writing over the internal flash from the firmware
 
 Now that you understand how the internal flash works, let's understand how Phi works
