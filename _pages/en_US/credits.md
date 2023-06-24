@@ -9,6 +9,12 @@ If I forgot you here, contact me and I'll add your name.
 
 {% capture notice-1 %}
     + M4x1m3
+    + Rathmox
+    + hdboye
+    + TomVdt
+    + darthnithin
+    + Syycorax
+    + siim0n
 {% endcapture %}
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
