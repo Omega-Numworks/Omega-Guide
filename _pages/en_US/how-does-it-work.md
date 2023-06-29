@@ -7,7 +7,7 @@ You will also learn a bit from the history of the calculator
 
 ### 1 - How is the calculator made ?
 
-First, know that the power button on the front if the calculator doesn't turn on or off the calculator. It just puts it in sleep mode. The calculator starts automatically when the battery is connected. The reset button on the back only cuts the power while it's held. When you release it, the calculator boots up.
+First, understand that the power button of the calculator only put the it in sleep mode, instead of powering it down completely. The calculator powers on automatically when the battery is connected. The reset button on the back only cuts the power while it's held. When you release it, the calculator powers on.
 
 There are currently 3 models of Numworks calculators: n0100, n0110, n0120.
 
