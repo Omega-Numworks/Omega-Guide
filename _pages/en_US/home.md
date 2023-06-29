@@ -23,13 +23,12 @@ Popular uses for CFW include:
 * Installing [KhiCAS](https://www-fourier.univ-grenoble-alpes.fr/~parisse/numworks/khicasnw.html), a very powerful Computer Algebra Software
 * Installing [others CFW](choose-a-cfw), like [Omega](omega) or [Upsilon](upsilon)
 
-## What does this guide install?
+## What does this guide contain?
 
-This guide will:
-  + Help you decide whether or not you need to install Phi
-  + Install the Phi installer as an external app
-  + Install Phi's custom bootloader
-  + Help you install any of the cited CFW
+This guide will explain how to:
+  + Unlock your calculator if you need to
+  + Install a CFW on your calculator
+  + Install a custom bootloader
 
 ## What do I need to know before starting?
 
