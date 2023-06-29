@@ -307,7 +307,7 @@ defaults:
     values:
       permalink: /index:output_ext
   - scope:
-      path: "_pages/fr_FR/home.txt"
+      path: "_pages/fr_FR/home.md"
       type: pages
     values:
       permalink: /fr_FR/index:output_ext
