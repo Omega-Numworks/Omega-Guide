@@ -300,3 +300,9 @@ defaults:
       type: pages
     values:
       permalink: /index:output_ext
+  - scope:
+      path: "_pages/fr_FR"
+      type: pages
+    values:
+      permalink: /fr_FR/:basename:output_ext
+      lang: fr
