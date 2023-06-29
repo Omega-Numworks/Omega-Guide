@@ -14,26 +14,25 @@ Lisez attentivement toutes les pages d'introduction (dont celle-ci!) avant de co
 
 ## CFW?
 
-**Custom firmwares** (CFW) sont des modifications logicielles pour le Numworks. Elles vous permettent de faire tout ce que la Numworks est physiquement capable de faire, rather than being limited by whatever Numworks allows you to do.
+Les **Custom firmwares** (CFW) sont des modifications logicielles pour le Numworks. Ils vous permettent de faire tout ce que la Numworks est physiquement capable de faire, au lieu d'être limité par ce que Numworks vous autorise de faire.
 
 Certaines principales utilisations de CFW dont:
 
-* Running homebrew software and games made for or ported to the Numworks
-* Installing apps like emulators
-* Installing [KhiCAS](https://www-fourier.univ-grenoble-alpes.fr/~parisse/numworks/khicasnw.html), a very powerful Computer Algebra Software
-* Installing [others CFW](choose-a-cfw), like [Omega](omega), [Upsilon](upsilon) or [Khi](https://www-fourier.univ-grenoble-alpes.fr/~parisse/nws.html)
+* Executer des homebrews et jeux faits ou portés sur la Numworks
+* Installer des applis comme des émulateurs
+* Installer [KhiCAS](https://www-fourier.univ-grenoble-alpes.fr/~parisse/numworks/khicasnw.html), un logiciel de Calcul Formel très puissant
+* Installer [d'autres CFW](choose-a-cfw), comme [Omega](omega) ou [Upsilon](upsilon)
 
-## What does this guide install?
+## Que contient ce guide?
 
-This guide will:
-  + Help you decide whether or not you need to install Phi
-  + Install the Phi installer as an external app
-  + Install Phi's custom bootloader
-  + Help you install any of the cited CFW
+Ce guide va vous expliquer comment:
+  + Débloquer votre calculatrice si vous en avez besoin
+  + Install a CFW on your calculator
+  + Install a custom bootloader
 
-## What do I need to know before starting?
+## Que dois-je savoir avant de commencer?
 
-* The techniques described in this guide are pretty much in their infancy. **We are not responsible for anything that goes wrong with your device**. There is a slight chance that you might brick your device.
-* This guide is compatible with every retail device in the Numworks family of calculators.
+* Les méthodes décrites dans ce guide sont encore à leurs balbutiements **Nous ne sommes pas responsables de ce qu'il se passe sur votre appareil**. Il y a une petite chance de casser votre appareil.
+* Ce guide est compatible avec toutes les calculatrices Numworks vendues dans le commerce.
 
 ___
