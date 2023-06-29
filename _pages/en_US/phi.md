@@ -7,7 +7,7 @@ title: "Installing Phi"
 ### Required Reading
 
 Phi has multiple entrypoints (method of launching).
-The exploit used at the moment is compatible with Epsilon 16.3.0 trough 18.0.0.
+The exploit used at the moment is compatible with Epsilon 16.3.0 trough 18.2.0.
 
 ### What You Need
 
