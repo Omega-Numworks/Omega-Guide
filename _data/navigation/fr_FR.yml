@@ -19,11 +19,11 @@ main:
     title: Crédits
     url: credits
   -
-    title: Site Navigation
+    title: Navigation du site
     url: site-navigation
 top:
   -
-    title: The site utilise des cookies pour afficher la progression du guide sur la barre latérale ainsi qu'améliorer le site
+    title: Le site utilise des cookies pour afficher la progression du guide sur la barre latérale ainsi qu'améliorer le site
 bottom:
   -
     title: Pour de l'aide en Français demandez sur le <a href="https://discord.gg/X2TWhh9">Discord d'Omega</a>.
@@ -31,7 +31,7 @@ footer:
   -
     title: Source
   -
-    title: Site Navigation
+    title: Navigation du site
   -
     title: Politique de confidentialité
 sidebar_title:
