@@ -14,7 +14,7 @@ Lisez attentivement toutes les pages d'introduction (dont celle-ci!) avant de co
 
 ## CFW?
 
-Les **Custom firmwares** (CFW) sont des modifications logicielles pour le Numworks. Ils vous permettent de faire tout ce que la Numworks est physiquement capable de faire, au lieu d'être limité par ce que Numworks vous autorise de faire.
+Les **Custom firmwares** (CFW) sont des modifications logicielles pour le Numworks. Ils vous permettent de faire tout ce que la Numworks est physiquement capable de faire, au lieu d'être limité par ce que Numworks vous autorise a faire.
 
 Certaines principales utilisations de CFW dont:
 
