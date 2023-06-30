@@ -36,3 +36,6 @@ Ce guide va vous expliquer comment:
 * Ce guide est compatible avec toutes les calculatrices Numworks vendues dans le commerce.
 
 ___
+
+## Continuez vers [Bien démarrer](get-started)
+{: .notice--primary}
