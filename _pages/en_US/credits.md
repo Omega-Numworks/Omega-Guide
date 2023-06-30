@@ -15,6 +15,7 @@ If I forgot you here, contact me and I'll add your name.
     + siim0n
     + Syycorax
     + TomVdt
+    + WonderHunter
 {% endcapture %}
 
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
