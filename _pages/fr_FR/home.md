@@ -27,8 +27,8 @@ Certaines principales utilisations de CFW dont:
 
 Ce guide va vous expliquer comment:
   + Débloquer votre calculatrice si vous en avez besoin
-  + Install a CFW on your calculator
-  + Install a custom bootloader
+  + Installer un CFW sur votre calculatrice
+  + Installer un bootlaoder custom
 
 ## Que dois-je savoir avant de commencer?
 
