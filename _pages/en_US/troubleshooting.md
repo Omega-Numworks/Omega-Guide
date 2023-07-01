@@ -8,7 +8,7 @@ title: "Troubleshooting"
 
 There are 2 possible reasons:
 - You have enabled the clock in the settings, some custom firmwares include it. The clock consumes a lot of battery and it's highly recommended to disable it.
-- Your calculator keeps the led green. This is a hardware issue that tricks the calculator into thinking it's constantly charging and so fully charged while it's not the case. You should content Numworks to replace your calculator
+- Your calculator keeps the led green. This is a hardware issue that tricks the calculator into thinking it's constantly charging and so fully charged while it's not the case. You should contact Numworks to replace your calculator
 
 ### Calculator not detected
 
@@ -52,11 +52,11 @@ Just click reset on the calculator and it should be fixed
 ### "Address 0x90000000 outside of memory map"
 
 You are trying to flash the external partition while in recovery mode. This can't work.
-You need to flash while in the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when instlling Omega in Recovery mode)
+You need to flash while in the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when installing Omega in Recovery mode)
 
 ### Calculator restarts when trying to install custom firmware
 
-Your calculator is running Epsilon 19, it can happen when the calculator is locked or when you are running it from custom bootloader.
+Your calculator is running Epsilon 19 or higher, it can happen when the calculator is locked or when you are running it from custom bootloader.
 Just restart the calculator in bootloader or any other firmware that isn't Epsilon 19 or higher
 
 ### "ControlTransferIn" / "ControlTransferOut"
