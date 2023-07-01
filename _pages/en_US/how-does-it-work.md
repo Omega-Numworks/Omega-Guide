@@ -72,7 +72,7 @@ Numworks patched it by releasing Epsilon 18.2.3.
 
 The process in the guide is now easy to understand:
 - on n0100 we just start in recovery mode then erase the internal flash
-- on n0110 we erase the internal flash and unlock re-enable the recovery mode to install whatever we want on both flashs
+- on n0110 we erase the internal flash, unlock and re-enable the recovery mode to install whatever we want on both flashs
 
 ### 7 - Why n0120 can't be unlocked ?
 
