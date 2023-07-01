@@ -17,7 +17,7 @@ Cette page est inutile si vous avez une n0100, étant donné que vous pouvez cha
 
 Nous allons maintenant installer Epsilon sur un slot de la calculatrice, en considérant que vous avez un bootloader qui le permet
 
-### What You Need
+### Ce dont vous avez besoin
 
 - Un PC avec un navigateur basé Chromium (on recommande d'utiliser directement [chromium](https://www.chromium.org/chromium-projects/))
 - Un bootloader custom compatible installé (si vous ne savez pas, regardez [cette page](choose-a-cfw))
