@@ -35,7 +35,7 @@ With 1 flash, it's easy to understand, everything is in the flash, this is the c
 The internal flash used to store a simple program that just starts the firmware installed in the external flash. But nowdays, since Epsilon 16, it's more complicated:
 
 Since Epsilon 16, the internal flash now contains a bootloader that is used to lock the calculator.
-- **How does it do that ?** It check is the firmware installed is signed by Numworks, if it isn't, the bootloader does't start the firmware.
+- **How does it do that ?** It check is the firmware installed is signed by Numworks, if it isn't, the bootloader doesn't start the firmware.
 - **Can't the recovery mode help ?** Numworks thought about that, they configured the MCU to prevent writing in the internal flash and they put a message to tell that it's in recovery mode while it acually isn't.
 - **Why isn't the n0100 locked ?** The n0100 has only one flash, and may need to be updated. So locking it was stupid as it would prevent updating it without special debugging tools.
 
