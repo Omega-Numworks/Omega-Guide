@@ -39,7 +39,7 @@ sitemap: false
 + [Upsilon](upsilon)
 + [Installer Epsilon depuis le Softloader](install-epsilon-from-softloader)
 + [Que faire sur une calculatrice bloquée ?](what-to-do-locked)
-+ [Restaurer le firmware original](restore-stock-firmware)
++ [Restaurer le firmware d'origine](restore-stock-firmware)
 
 {% endcapture %}
 <div class="notice--primary">{{ customizing | markdownify }}</div>
