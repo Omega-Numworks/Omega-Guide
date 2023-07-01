@@ -31,7 +31,7 @@ Nous devons donc vous le faire extraire.
 
 Vous devriez maintenant avoir un fichier internal.bin et un fichier external.bin
 
-### Section II - Downgrade
+### Section II - Installation
 
 1. Ouvrez WebDFU dans un navigateur web basé sur chromium
 2. Maintenez la touche 6 sur votre Numworks et pressez le bouton reset
