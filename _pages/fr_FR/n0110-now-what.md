@@ -29,4 +29,5 @@ Continuer vers les [Vérifications finales](final-checks)
 
 ### Choice II - Installer un CFW
 
-Continuez vers [Choisir un CFW](choose-a-cfw){: .notice--primary}
+Continuez vers [Choisir un CFW](choose-a-cfw)
+{: .notice--primary}
