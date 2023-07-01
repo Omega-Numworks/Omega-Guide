@@ -52,7 +52,7 @@ Just click reset on the calculator and it should be fixed
 ### "Address 0x90000000 outside of memory map"
 
 You are trying to flash the external partition while in recovery mode. This can't work.
-You need to flash while in the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when instlling Omega in Recovery mode)
+You need to flash while in the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when installing Omega in Recovery mode)
 
 ### Calculator restarts when trying to install custom firmware
 
