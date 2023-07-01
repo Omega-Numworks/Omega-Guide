@@ -1,0 +1,49 @@
+---
+main:
+  -
+    title: Accueil
+    url: /
+  -
+    title: FAQ
+    url: faq
+  -
+    title: Dépannage
+    url: troubleshooting
+  -
+    title: Restaurer le firmware original
+    url: restore-stock-firmware
+  -
+    title: Contribuer
+    url: contribute
+  -
+    title: Crédits
+    url: credits
+  -
+    title: Navigation du site
+    url: site-navigation
+top:
+  -
+    title: Le site utilise des cookies pour afficher la progression du guide sur la barre latérale ainsi qu'améliorer le site
+bottom:
+  -
+    title: Pour de l'aide en Français demandez sur le <a href="https://discord.gg/X2TWhh9">Discord d'Omega</a>.
+footer:
+  -
+    title: Source
+  -
+    title: Navigation du site
+  -
+    title: Politique de confidentialité
+sidebar_title:
+  -
+    title: Progression
+sidebar_pages:
+  -
+    title: Accueil
+    url: /
+  -
+    title: Commencer
+    url: get-started
+  -
+    title: Finalisation
+    url: phi-now-what

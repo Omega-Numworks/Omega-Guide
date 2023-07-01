@@ -1,11 +1,11 @@
 ---
-title: "Credits"
+title: "Crédits"
 ---
 
-**Special thanks to M4x1m3, the original creator and maintainer of the guide!**
+**Un merci spécial à M4x1m3, le créateur original et mainteneur du guide !**
 {: .notice--primary}
 
-If I forgot you here, contact me and I'll add your name.
+Si je vous ai oublié ici, contactez-moi et j'ajouterai votre nom.
 
 {% capture notice-1 %}
     + darthnithin

@@ -185,6 +185,8 @@ exclude: [
   Crowdin.yaml,
   staticman.yml,
   torrents,
+  # _pages/en_US,
+  # _pages/fr_FR,
 ]
 
 keep_files:
@@ -296,7 +298,18 @@ defaults:
       permalink: /:basename:output_ext
       lang: en
   - scope:
+      path: "_pages/fr_FR"
+      type: pages
+    values:
+      permalink: /fr_FR/:basename:output_ext
+      lang: fr
+  - scope:
       path: "_pages/en_US/home.md"
       type: pages
     values:
       permalink: /index:output_ext
+  - scope:
+      path: "_pages/fr_FR/home.md"
+      type: pages
+    values:
+      permalink: /fr_FR/index:output_ext
