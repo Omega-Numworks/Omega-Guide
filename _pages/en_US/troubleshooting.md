@@ -56,7 +56,7 @@ You need to flash while in the custom bootloader or recovery mode flasher (the s
 
 ### Calculator restarts when trying to install custom firmware
 
-Your calculator is running Epsilon 19, it can happen when the calculator is locked or when you are running it from custom bootloader.
+Your calculator is running Epsilon 19 or higher, it can happen when the calculator is locked or when you are running it from custom bootloader.
 Just restart the calculator in bootloader or any other firmware that isn't Epsilon 19 or higher
 
 ### "ControlTransferIn" / "ControlTransferOut"
