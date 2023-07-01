@@ -23,11 +23,11 @@ There are multiple CFWs you can install on your calculator, most of them install
   <tbody>
     <tr>
       <td style="text-align: center; font-weight: bold;"><a href="omega">Omega</a></td>
-      <td style="text-align: center; font-weight: bold;">The most popular CFW for Numworks, forked from Epsilon 15.5.0. It bings back symbolic calculation, allows installing external apps, and more python libraries</td>
+      <td style="text-align: center; font-weight: bold;">The most popular CFW for Numworks, forked from Epsilon 15.5.0. It bings back symbolic calculation, allows installing external apps, and adds Python libraries</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;"><a href="upsilon">Upsilon</a></td>
-      <td style="text-align: center; font-weight: bold;">Forked from Omega, Upsilon brings more features and conveience compared to Omega, like a LaTeX reader, more storage for python scripts, and a better bootloader</td>
+      <td style="text-align: center; font-weight: bold;">Forked from Omega, Upsilon brings more features and conveience compared to Omega, like a LaTeX reader, more storage for Python scripts, and a better bootloader</td>
     </tr>
   </tbody>
 </table>
