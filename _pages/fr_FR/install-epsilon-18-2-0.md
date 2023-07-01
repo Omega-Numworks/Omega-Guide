@@ -11,7 +11,7 @@ Nous allons maintenant installer Epsilon 18.2.0
 Si vous n'êtes pas sur que vous puissiez installer Epsilon 18.2.0, allez voir [cette page](check-version-change-eligibility)
 {: .notice--info}
 
-### Ce dont nous avons besoin
+### Ce dont vous avez besoin
 
 - Un navigateur à base sur chromium (nous vous recommandons d'utiliser [chromium](https://www.chromium.org/chromium-projects/) directement)
 - Epsilon 18.2.0 `18-2-0.dfu` (Etant donné que Numworks a supprimé ce fichier de leur site web à cause de Phi, nous ne pouvons pas vous donner de lien ici)
