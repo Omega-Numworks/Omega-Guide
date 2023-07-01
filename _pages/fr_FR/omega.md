@@ -59,8 +59,8 @@ Allez voir [Installer Epsilon depuis le Softloader](install-epsilon-from-softloa
 
 #### Créer votre propre version
 
-Omega est open-source, vous pouvez récupérer le code et l'utiliser comme vous le souhaitez. Vous trouverez tout sur le [repo github d'Upsilon](https://github.com/UpsilonNumworks/Upsilon)
+Omega est open-source, vous pouvez récupérer le code et l'utiliser comme vous le souhaitez. Vous trouverez tout sur le [repo github d'Omega](https://github.com/Omega-Numworks/Omega)
 
 ### Fini
 
-Vous avez maintenant Upsilon installé sur votre calculatrice. Vous pouvez ajouter des scripts Python de la même manière qu'avant depuis le [workshop de Numworks](https://my.numworks.com/python/)
+Vous avez maintenant Omega installé sur votre calculatrice. Vous pouvez ajouter des scripts Python de la même manière qu'avant depuis le [workshop de Numworks](https://my.numworks.com/python/)
