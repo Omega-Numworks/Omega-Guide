@@ -16,7 +16,7 @@ Ce guide va utiliser certains noms, avant de commencer vous devez savoir à qui 
 4. Recovery mode ("STM32 DFU bootloader" ou "hwloader"): C'est un mode sur la calculatrice qui permet de changer n'importe quoi, et le mode que Numworks a bloqué. On y accède couremment en appuyant sur "reset" au dos de la calculatrice pendant que l'on maintient la touche "6" et il est reconnu losque vous obtenez un écran noir et que la LED devient rouge. C'est ce que vous devez obtenir à la fin pour installer tout ce que vous voulez.
 5. Bootloader ("softloader"): C'est un menu auquel vous pouvez accéder de différentes manières, cela dépend du CFW que vous choisissez. Il vous permet de réinstaller le firmware et peut vous empêcher de bloquer votre calculatrice si vous la mettez à jour. Phi vous permet d'en installer un si vous le souhaitez
 
-6. Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujours certaines choses que vous pouvez faire](what-to-do-locked)
+Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujours certaines choses que vous pouvez faire](what-to-do-locked)
 {: .notice--info}
 
 #### Section I - Vérification du modèle
