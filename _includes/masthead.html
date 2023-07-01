@@ -51,6 +51,7 @@
             {% assign langless_url = "" %}
           {% endif %}
           <li class="masthead__menu-item"><a href="{{ site.url }}/{{ langless_url }}">English</a></li>
+          <li class="masthead__menu-item"><a href="{{ site.url }}/fr_FR/{{ langless_url }}">French</a></li>
         </ul>
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
