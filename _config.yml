@@ -185,6 +185,8 @@ exclude: [
   Crowdin.yaml,
   staticman.yml,
   torrents,
+  # _pages/en_US,
+  # _pages/fr_FR,
 ]
 
 keep_files:
