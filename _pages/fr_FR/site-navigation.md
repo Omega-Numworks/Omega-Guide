@@ -38,6 +38,7 @@ sitemap: false
 + [Omega](omega)
 + [Upsilon](upsilon)
 + [Installer Epsilon depuis le Softloader](install-epsilon-from-softloader)
++ [Que faire sur une calculatrice bloquée ?](what-to-do-locked)
 + [Restaurer le firmware original](restore-stock-firmware)
 
 {% endcapture %}
