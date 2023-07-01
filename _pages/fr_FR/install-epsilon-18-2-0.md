@@ -13,7 +13,7 @@ Si vous n'êtes pas sur que vous puissiez installer Epsilon 18.2.0, allez voir [
 
 ### Ce dont vous avez besoin
 
-- Un navigateur à base sur chromium (nous vous recommandons d'utiliser [chromium](https://www.chromium.org/chromium-projects/) directement)
+- Un navigateur à base chromium (nous vous recommandons d'utiliser [chromium](https://www.chromium.org/chromium-projects/) directement)
 - Epsilon 18.2.0 `18-2-0.dfu` (Etant donné que Numworks a supprimé ce fichier de leur site web à cause de Phi, nous ne pouvons pas vous donner de lien ici)
 - Ce script Python: [version Linux et macOS](images/unpack.py), [version Windows](images/unpack-win.py)
 
@@ -33,7 +33,7 @@ Vous devriez maintenant avoir un fichier internal.bin et un fichier external.bin
 
 ### Section II - Installation
 
-1. Ouvrez WebDFU dans un navigateur web basé sur chromium
+1. Ouvrez le [WebDFU](https://ti-planet.github.io/webdfu_numworks/n0110/) dans un navigateur web basé chromium
 2. Maintenez la touche 6 sur votre Numworks et pressez le bouton reset
 3. Vous devriez maintenant voir l'interface du bootloader Epsilon
 4. Sélectionnez `external.bin` dans WebDFU
