@@ -27,7 +27,7 @@ Essayez d'utiliser le bon mode, pour des applis externes lancez juste en mode no
 
 ### "Unable to claim interface"
 
-Cette erreut arrive quand vous essayez de connecter votre calculatrice mais elle est déjà utilisée par un autre onglet ou logiciel. Cela arrive habituellement quand vous essayez d'installer des applis externes mais que l'onglet que vous avec utilisé pour unstaller votre CFW est toujours ouvert.
+Cette erreur arrive quand vous essayez de connecter votre calculatrice mais elle est déjà utilisée par un autre onglet ou logiciel. Cela arrive habituellement quand vous essayez d'installer des applis externes mais que l'onglet que vous avec utilisé pour unstaller votre CFW est toujours ouvert.
 Ça peut facilement être régle si vous fermez l'onglet ou lle logiciel déjà connecté à la calculatrice
 
 ### "Could not detect the calculator model" / "N????"
