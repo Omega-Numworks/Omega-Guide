@@ -15,6 +15,11 @@ There are 2 possible reasons:
 it means the driver or config file isn't installed on Windows or Linux.
 Open the [Update page](https://numworks.com/update/) on Numworks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it**
 
+If you are using Linux, it may still not be detected. It can happen if your web browser is installed as a flatpak.
+In this case, you will need to install [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), select your web browser, and add `/run/udev` in the "Other files" into the "Filesystem" category.
+You can also run this command: `flatpak override --user --filesystem=/run/udev [Application ID]` (Replace `[Application ID]` with your web browser's ID, try to run `flatpak list` to find it)
+Don't forget that you may need to restart your web browser if you unplug and replug the calculator.
+
 ### "CommandName is not defined"
 
 You are trying to do something with the calculator but the calculator isn't in the right mode, like trying to install apps with the calculator in Recovery Mode or on n0100.
