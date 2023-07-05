@@ -108,5 +108,5 @@ Upsilon a tendance à plante quand vous le lancez et que la calculatrice est con
 
 ___
 
-### Votre erreur n'est pas listée ? LA solution proposée n'a pas réglé votre problème ? N'hésitez pas à demander sur le [Discord d'Omega](https://discord.gg/X2TWhh9)
+### Votre erreur n'est pas listée ? La solution proposée n'a pas réglé votre problème ? N'hésitez pas à demander sur le [Discord d'Omega](https://discord.gg/X2TWhh9)
 {: .notice--info}
