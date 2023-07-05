@@ -18,7 +18,7 @@ Ouvrez la [page de mise à jour](https://numworks.com/update/) sur le site de Nu
 Si vous êtes sur Linux, il se peut qu'elle ne soit toujours pas détectée. Cela arrive si votre navigateur web est installé au format flatpak.
 Dans ce cas, il vous faudra installer l'application [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), sélectionner votre navigateur, et ajouter `/run/udev` dans les "Autres fichiers" dans la catégorie "Filesystem".
 Vous pouvez également exécuter la commande: `flatpak override --user --filesystem=/run/udev [Application ID]` (Remplacez `[Application ID]` par l'ID de votre navigateur, n'hésitez pas à faire `flatpak list` pour le trouver)
-Notez bien que redémarrer le navigateur risque d'être nécessaire si vous débranchez et rebranchez la calculatrice
+Notez bien que redémarrer le navigateur risque d'être nécessaire si vous débranchez et rebranchez la calculatrice.
 
 ### "CommandName is not defined"
 
