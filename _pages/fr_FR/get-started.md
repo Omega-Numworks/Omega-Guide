@@ -19,6 +19,11 @@ Ce guide va utiliser certains noms, avant de commencer vous devez savoir à qui 
 Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujours certaines choses que vous pouvez faire](what-to-do-locked)
 {: .notice--info}
 
+#### Préréquis
+
+- Calculatrice Numworks
+- Driver si vous avez Windows ou Linux: ouvrez la [page de mise à jour](https://numworks.com/update) sur le site de Numworks et elle va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatreice pour être sur que vous ne la bloquiez pas**. Si vous avez macOS, vous n'en avez pas besoin.
+
 #### Section I - Vérification du modèle
 
 1. Retournez votre calculatrice.
@@ -59,13 +64,7 @@ Si l'écran reste noir et que la LED devient rouge, STOP - votre calculatrice es
 
 Appuyez sur le bouton reset à l'arrière de la calculatrice pour revenir au micrologiciel.
 
-#### Section IV - Installer le driver
-
-Votre PC a besoin d'un driver pour communiquer avec la calculatrice.
-- Si vous avez macOS, vous n'avez pas besoin d'installer quoi que ce soit
-- Si vous avez Windows ou Linux, ouvrez la [page de mise à jour](https://numworks.com/update) sur le site de Numworks et elle va vois le donner et vous dire comment l'installer. **Ne branchez pas votre calculatreice pour être sur que vous ne la bloquiez pas**
-
-#### Section V - Sélectionnez une méthode
+#### Section IV - Sélectionnez une méthode
 
 Utilisez le tableau des versions ci-dessous pour sélectionner une méthode. Quelques points à noter :
   + Le tableau des versions ci-dessous est *inclusif*. Par exemple, "de 16.3.0 à 18.0.0" inclus 16.3.0, 18.0.0, et toutes les versions entre celles-ci.
