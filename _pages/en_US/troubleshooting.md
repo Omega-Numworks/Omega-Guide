@@ -13,31 +13,41 @@ There are 2 possible reasons:
 ### Calculator not detected
 
 it means the driver or config file isn't installed on Windows or Linux.
+
 Open the [Update page](https://numworks.com/update/) on Numworks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it**
 
+
+
 If you are using Linux, it may still not be detected. It can happen if your web browser is installed as a flatpak.
+
 In this case, you will need to install [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), select your web browser, and add `/run/udev` in the "Other files" into the "Filesystem" category.
+
 You can also run this command: `flatpak override --user --filesystem=/run/udev [Application ID]` (Replace `[Application ID]` with your web browser's ID, try to run `flatpak list` to find it)
+
 Don't forget that you may need to restart your web browser if you unplug and replug the calculator.
 
 ### "CommandName is not defined"
 
 You are trying to do something with the calculator but the calculator isn't in the right mode, like trying to install apps with the calculator in Recovery Mode or on n0100.
+
 Try to use the right mode, for external apps just run it in normal mode.
 
 ### "Unable to claim interface"
 
 This error is displayed when you try to connect your calculator but it's already used by another tab or software. It usually happens when you try to install external apps but the tab you used to install your custom firmware is still open.
+
 This can easily be fixed if you close the tab or software already connected to it.
 
 ### "Could not detect the calculator model" / "N????"
 
 This means your calculator is locked and you need to unlock it.
+
 Follow [this guide](get-started) to unlock it.
 
 ### Recovery mode (Black Screen + Red Led), calculator not recognized
 
 Your calculator looks like it's in recovery mode but it isn't.
+
 Hold 6 and click reset to start it in recovery mode, it will look the same but this time, it will be recognized.
 
 ### "Memory is corrupted" when adding python scripts
@@ -47,26 +57,31 @@ It can happen when the custom bootloader is too old. To update it go to your cus
 ### Screen and led blinking
 
 You are trying to run Epsilon 19 with an old custom bootloader.
+
 Update the bootloader by going to your custom firmware's website and reinstalling it from recovery mode by holding 6 and clicking reset on the calculator.
 
 ### Installation takes infinite amout of time
 
 This can happen on Omega's website and on Numworks' website. Unless your calculator is locked, the firmware is already installed but the website is trying to boot the calculator and it can't.
+
 Just click reset on the calculator and it should be fixed
 
 ### "Address 0x90000000 outside of memory map"
 
 You are trying to flash the external partition while in recovery mode. This can't work.
+
 You need to flash while in the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when installing Omega in Recovery mode)
 
 ### Calculator restarts when trying to install custom firmware
 
 Your calculator is running Epsilon 19 or higher, it can happen when the calculator is locked or when you are running it from custom bootloader.
+
 Just restart the calculator in bootloader or any other firmware that isn't Epsilon 19 or higher
 
 ### "ControlTransferIn" / "ControlTransferOut"
 
 Something interrupted the connection with the calculator.
+
 Make sure you are in the right mode and no other app or tab is using the calculator.
 
 ### "DFU DOWNLOAD FAILED"
