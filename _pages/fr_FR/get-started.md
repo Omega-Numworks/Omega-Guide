@@ -22,7 +22,7 @@ Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujour
 #### Préréquis
 
 - Calculatrice Numworks
-- Driver, si vous avez Windows ou Linux: ouvrez la [page de mise à jour](https://numworks.com/update) sur le site de Numworks et elle va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatreice pour être sur que vous ne la bloquiez pas**
+- Driver si vous avez Windows ou Linux: ouvrez la [page de mise à jour](https://numworks.com/update) sur le site de Numworks et elle va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatreice pour être sur que vous ne la bloquiez pas**. Si vous avez macOS, vous n'en avez pas besoin.
 
 #### Section I - Vérification du modèle
 
