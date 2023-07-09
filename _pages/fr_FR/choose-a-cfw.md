@@ -2,8 +2,6 @@
 title: "Choisir un CFW"
 ---
 
-{% include toc title="Table of Contents" %}
-
 Vous avez besoin d'une calculatrice débloquée. [Pour la débloquer continuez ici](get-started)
 {: .notice--info}
 
