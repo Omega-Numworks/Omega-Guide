@@ -26,7 +26,7 @@ si votre modèle est n0110, entrez le mode Recovery en branchant votre calculatr
 3. Attendez un peu jusqu'a ce que la calculatrice affiche "Recovery Mode" sur l'écran
 4. Si la calculatrice n'est pas connectée automatiquement, cliquez sur "Connecter" et sélectionnez "Numworks Calculator"
 5. Sélectionnez vos paramètres comme le thème. Pour le slot, si vous ne savez pas lequel choisir, sélectionnez "A"
-6. Maintenant vous pouvez cliquer sur "Installer Upsilon" et au bout de quelques secondes, Omega devrait être installé sur votre calculatrice.
+6. Maintenant vous pouvez cliquer sur "Installer Upsilon" et au bout de quelques secondes, Upsilon devrait être installé sur votre calculatrice.
 
 Upsilon a tendance à planter quand vous le démarrez alors que la calculatrice est connectée à un PC. Déconnectez la avant de démarrer
 {: .notice--info}
