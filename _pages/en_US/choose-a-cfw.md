@@ -2,8 +2,6 @@
 title: "Choose a CFW"
 ---
 
-{% include toc title="Table of Contents" %}
-
 You need an unlocked calculator. [To unlock it go here](get-started)
 {: .notice--info}
 
