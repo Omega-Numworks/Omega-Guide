@@ -34,7 +34,10 @@ Si votre CFW inclut un bootloader qui permet d'installer un firmware depuis celu
 4. À la fin l'installer sera bloqué et pourrait donner une erreur, c'est car il ne peut pas redémarrer la calculatrice. Ne vous inquiétez pas Epsilon est installé, appuyez juste sur reset et tout est bon
 
 Maintenant vous avez Epsilon avec un bootloader custom donc votre calculatrice n'est pas bloquée
+
 Epsilon a normalement été installé sur les deux slots. Donc si vous aviez un CFW, il a été effacé, seul le bootloader reste. Pour le réinstaller vous pouvez le faire normalement depuis le bootloader ou en mode Recovery, faites juste attention de ne pas installer Epsilon à la place.
+
+Il est recommandé de garder votre CFW en Slot A.
 
 ### GG
 
