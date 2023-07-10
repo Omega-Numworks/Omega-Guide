@@ -34,7 +34,10 @@ If your CFW includes a custom bootloader that allows installing a firmware from 
 4. At the end the installer will get stuck and may even fail, it's because it can't reboot the calculator. Don't worry Epsilon is installed, just press reset and you are good
 
 Now you have Epsilon with a custom bootloader so your calculator isn't locked.
+
 Epsilon has normally been installed on both slots. So if you had a CFW, it has been erased, only the bootloader is remaining. To reinstall it you can do it normally from the bootloader or in recovery mode, just make sure you are not installing Epsilon again.
+
+It's recommanded to keep your CFW in Slot A.
 
 ### GG
 
