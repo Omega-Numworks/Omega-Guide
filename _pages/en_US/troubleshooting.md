@@ -4,6 +4,18 @@ title: "Troubleshooting"
 
 {% include toc title="Table of Contents" %}
 
+### Black screen and red LED
+
+Your calculator is in Recovery mode, it's waiting to recieve a firmware, so it's unlocked. **If you update from Numworks' website, your calculator will be locked**
+
+[Choose a CFW](choose-a-cfw) to install on your calculator. (If you want to install Epsilon without locking your calculator, install a compatible CFW)
+
+### Black screen, yellow cable, and `numworks.com/rescue`
+
+This is Numworks' bootloader. It shows up when the calculator is locked and you started the Recovery mode by holding 6 and pressing reset, or when the calculator couldn't start.
+
+If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](install-epsilon-18-2-0).
+
 ### Huge battery consumption
 
 There are 2 possible reasons:

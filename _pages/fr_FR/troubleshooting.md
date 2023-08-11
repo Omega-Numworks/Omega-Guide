@@ -4,6 +4,18 @@ title: "Dépannage"
 
 {% include toc title="Table of Contents" %}
 
+### Écran noir et LED rouge
+
+Votre calculatrice est en mode Recovery, elle attend de recevoir un firmware, elle est donc débloquée. **Si vous mettez à jour depuis le site de Numworks, la calculatrice sera bloquée**
+
+[Choisissez un CFW](choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, installez un CFW compatible)
+
+### Écran noir, cable jaune, et `numworks.com/rescue`
+
+C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est bloquée et que vous avez lancé le mode recovery en maintenant 6 et en appuyant sur reset, ou que la calculatrice n'a pas pu démarrer.
+
+Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](install-epsilon-18-2-0).
+
 ### Consommation de batterie élevée
 
 Il y a 2 raisons possibles:
@@ -15,7 +27,6 @@ Il y a 2 raisons possibles:
 Ça vaut dire que le driver ou le fichier de configuration n'est pas installé sur Windows ou Linux
 
 Ouvrez la [page de mise à jour](https://numworks.com/update/) sur le site de Numworks et il va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatrice pour être sûr de ne pas la bloquer**
-
 
 Si vous êtes sur Linux, il se peut qu'elle ne soit toujours pas détectée. Cela arrive si votre navigateur web est installé au format flatpak.
 
