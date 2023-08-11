@@ -8,7 +8,7 @@ title: "Dépannage"
 
 Votre calculatrice est en mode Recovery, elle attend de recevoir un firmware, elle est donc débloquée. **Si vous mettez à jour depuis le site de Numworks, la calculatrice sera bloquée**
 
-[Choisissez un CFW](choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, commencez par ça)
+[Choisissez un CFW](choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, installez un CFW compatible)
 
 ### Écran noir, cable jaune, et `numworks.com/rescue`
 
