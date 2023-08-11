@@ -19,6 +19,6 @@ Aussi, quand vous avtivez le mode examen ou appuyez sur "reset", elles seront d�
 
 ### Userland
 
-Epsilon est toujours partiellement open-source, vous pouvez modifier le code et créer votre propre version et l'installer, cependant c'est en userland uniquement et si vous appoyez sur "reset" vous ezviendrez au firmware d'origine. Vous aurez aussi un popup disant que vous exécutez un logiciel modifié.
+Epsilon est toujours partiellement open-source, vous pouvez modifier le code et créer votre propre version et l'installer, cependant c'est en userland uniquement et si vous appoyez sur "reset" vous retournerez au firmware d'origine. Vous aurez aussi un popup disant que vous exécutez un logiciel modifié.
 Notez que depuis Epsilon 16, partager une version modifiée est illégal. Vous ne devez jamais partager la version que vous avez créé.
 [Les instructions de Numworks](https://www.numworks.com/resources/engineering/software/build/)
