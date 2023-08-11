@@ -14,7 +14,7 @@ Votre calculatrice est en mode Recovery, elle attend de recevoir un firmware, el
 
 C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est bloquée et que vous avez lancé le mode recovery en maintenant 6 et en appuyant sur reset, ou que la calculatrice n'a pas pu démarrer.
 
-Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue` mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](install-epsilon-18-2-0).
+Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](install-epsilon-18-2-0).
 
 ### Consommation de batterie élevée
 
