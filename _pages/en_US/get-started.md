@@ -24,7 +24,7 @@ If you don't want to deeply modify your calculator, [there are still a few thing
 Numworks Calculator
 Driver if you have Windows or Linux: open the [Update page](https://numworks.com/update) on Numworks’ website and it will give it and tell you how to install it. **Don’t plug in your calculator to make sure you don’t lock it**. If you have macOS, you don't need it.
 
-#### Section I - Model check
+#### Model check
 
 1. Turn your calculator around
 2. On its back, there should be a little writing, either N0120, N0110 or N0100. This is your model number.
@@ -32,42 +32,7 @@ Driver if you have Windows or Linux: open the [Update page](https://numworks.com
     1. Turn the calculator on
     2. Go in the settings app
     3. Go in "about"
-    4. Look at the FCC ID. It should end with N0120, N0110 or N0100
-
-If you have a N0100, STOP - your calculator is already unlocked! Continue from [here](n0100-now-what).
-{: .notice--warning}
-
-If you have a N0120, STOP - You can't install a CFW on it. But that's not the end, [there are still a few things you can do](what-to-do-locked)
-{: .notice--warning}
-
-
-
-#### Section II - Epsilon Version check
-
-1. Power on your device
-2. Go in the settings app
-3. Go in "about"
-4. Look at the "Software version" or "Epsilon version" field.
-5. This is your Epsilon version.
-
-#### Section III - Flash lock check
-
-1. Press the "6" key
-2. While pressing the "6" key, press the reset button at the back of the device.
-
-If you see a screen like this one, you can proceed :
-![Epsilon 16 bootloader](images/screenshots/e16bl.png)
-
-If the screen stays black and the LED turns red, STOP - your calculator is already unlocked! Continue from [here](n0110-now-what).
-{: .notice--warning}
-
-Press the reset button at the back of the calculator to return to the firmware.
-
-#### Section IV - Select a Method
-
-Use the version table below to select a method. A few things to note:
-  + The version table below is *inclusive*. For example, "from 16.3.0 to 18.0.0" includes 16.3.0, 18.0.0, and all versions in between.
-  + Version 16.4.3 does not follow this rule.
+    4. Look at the FCC ID. It should end with one of the model names below.
 
 <table>
   <colgroup>
@@ -76,43 +41,22 @@ Use the version table below to select a method. A few things to note:
   </colgroup>
   <thead>
     <tr>
-      <th style="text-align: center">System Version</th>
+      <th style="text-align: center">Calculator model</th>
       <th style="text-align: center">What to do</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center; font-weight: bold;">11.2.0-16.2.0</td>
-      <td style="text-align: center; font-weight: bold;"><a href="n0110-now-what">Now what ?</a></td>
+      <td style="text-align: center; font-weight: bold;">N0100</td>
+      <td style="text-align: center; font-weight: bold;"><a href="n0100-now-what">Your calculator is already unlocked</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">16.3.0-16.4.2</td>
-      <td style="text-align: center; font-weight: bold;"><a href="phi">Phi</a></td>
+      <td style="text-align: center; font-weight: bold;">N0110</td>
+      <td style="text-align: center; font-weight: bold;"><a href="n0110-is-locked">Check if your calculator is locked</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">16.4.3</td>
-      <td style="text-align: center; font-weight: bold;"><a href="install-epsilon-18-2-0">Install Epsilon 18.2.0</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">17.0.0-18.2.0</td>
-      <td style="text-align: center; font-weight: bold;"><a href="phi">Phi</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">18.2.3</td>
-      <td style="text-align: center; font-weight: bold;"><a href="install-epsilon-18-2-0">Install Epsilon 18.2.0</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: center; font-weight: bold;">19.0.0-20.4.0</td>
-      <td style="text-align: center; font-weight: bold;"><a href="check-version-change-eligibility">Check version change eligibility</a></td>
+      <td style="text-align: center; font-weight: bold;">N0120</td>
+      <td style="text-align: center; font-weight: bold;"><a href="what-to-do-locked">You can't install a CFW on it. But there are still a few things you can do</a></td>
     </tr>
   </tbody>
 </table>
-
----
-#### Alternate Methods
-
-If possible, you should follow one of the software methods listed above.
-
-Otherwise, methods that work on all versions are available, but require additional hardware:
-
-1. [Debug port](https://tiplanet.org/forum/viewtopic.php?f=113&t=25191&p=263495#p263495) - requires a Raspberry PI or a STLink
