@@ -1,5 +1,5 @@
 ---
-title: "Is your calculator locked ? (n0110)"
+title: "Is your calculator locked ? (N0110)"
 ---
 
 {% include toc title="Table of Contents" %}
