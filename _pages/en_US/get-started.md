@@ -24,7 +24,7 @@ If you don't want to deeply modify your calculator, [there are still a few thing
 Numworks Calculator
 Driver if you have Windows or Linux: open the [Update page](https://numworks.com/update) on Numworks’ website and it will give it and tell you how to install it. **Don’t plug in your calculator to make sure you don’t lock it**. If you have macOS, you don't need it.
 
-#### Section I - Model check
+#### Model check
 
 1. Turn your calculator around
 2. On its back, there should be a little writing, either N0120, N0110 or N0100. This is your model number.
@@ -60,5 +60,3 @@ Driver if you have Windows or Linux: open the [Update page](https://numworks.com
     </tr>
   </tbody>
 </table>
-
-
