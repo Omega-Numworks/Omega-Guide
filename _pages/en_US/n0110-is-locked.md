@@ -14,7 +14,7 @@ This page will tell you if you need to unlock your calculator and how.
 4. Look at the "Software version" or "Epsilon version" field.
 5. This is your Epsilon version.
 
-#### Section III - Flash lock check
+#### Section II - Flash lock check
 
 1. Press the "6" key
 2. While pressing the "6" key, press the reset button at the back of the device.
@@ -27,7 +27,7 @@ If the screen stays black and the LED turns red, STOP - your calculator is alrea
 
 Press the reset button at the back of the calculator to return to the firmware.
 
-#### Section IV - Select a Method
+#### Section III - Select a Method
 
 Use the version table below to select a method. A few things to note:
   + The version table below is *inclusive*. For example, "from 16.3.0 to 18.0.0" includes 16.3.0, 18.0.0, and all versions in between.
