@@ -32,7 +32,7 @@ Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujour
     1. Allumez la calculatrice
     2. Allez dans l'application des paramètres
     3. Allez dans "à propos"
-    4. Regardez l'ID FCC. Il doit se terminer par N0110 ou N0100
+    4. Regardez l'ID FCC. Il doit se terminer par un des noms de modèle ci-dessous.
 
 <table>
   <colgroup>
