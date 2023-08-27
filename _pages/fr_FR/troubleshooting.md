@@ -58,7 +58,7 @@ Suivez [ce guide](get-started) pour la débloquer.
 
 Votre calculatrice a l'air d'être en mode Recovery mais elle ne l'est pas
 
-Maintenez 6 et cliquez sur reset pour la démarrer en mode Recovery, ça aure l'air d'être pareil mais cette fois, elle sera reconnue
+Maintenez 6 et cliquez sur reset pour la démarrer en mode Recovery, ça aura l'air d'être pareil mais cette fois, elle sera reconnue
 
 ### "Mémoire corrompue" en essayant d'ajouter des scripts Python
 
