@@ -65,7 +65,7 @@ Utilisez le tableau des versions ci-dessous pour sélectionner une méthode. Que
       <td style="text-align: center; font-weight: bold;"><a href="install-epsilon-18-2-0">Installer Epsilon 18.2.0</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">19.0.0-20.4.0</td>
+      <td style="text-align: center; font-weight: bold;">19.0.0-21.1.1</td>
       <td style="text-align: center; font-weight: bold;"><a href="check-version-change-eligibility">Vérifier l'éligibilité au changement de version</a></td>
     </tr>
   </tbody>
