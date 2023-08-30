@@ -27,7 +27,7 @@ Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujour
 #### Vérification du modèle
 
 1. Retournez votre calculatrice.
-2. Sur son dos, il devrait y avoir une petite écriture, soit N0110 ou N0100. Ceci est votre numéro de modèle.
+2. Sur son dos, il devrait y avoir une petite écriture, soit N0120, N0110 ou N0100. Ceci est votre numéro de modèle.
 3. Si vous n'arrivez pas à lire cela :
     1. Allumez la calculatrice
     2. Allez dans l'application des paramètres
