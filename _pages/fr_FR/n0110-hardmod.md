@@ -6,7 +6,7 @@ title: "Méthode matérielle (N0110)"
 
 ### Lecture obligatoire
 
-L'option du port de débogage demande du matériel spécifique.
+La méthode matérielle demande du matériel spécifique.
 
 L'objectif est de forcer le mode Recovery pour permettre l'installation, votre calculatrice doit montrer un écran noir et une LED rouge.
 
