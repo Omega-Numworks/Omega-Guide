@@ -10,7 +10,7 @@ La méthode matérielle demande du matériel spécifique.
 
 L'objectif est de forcer le mode Recovery pour permettre l'installation, votre calculatrice doit montrer un écran noir et une LED rouge.
 
-### Choisir la méthode
+### Sélectionnez une méthode
 
 Il y a plusieurs méthodes.
 
