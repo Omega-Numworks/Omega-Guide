@@ -76,4 +76,4 @@ Utilisez le tableau des versions ci-dessous pour sélectionner une méthode. Que
 
 Si possible, vous devriez suivre l'une des méthodes logicielles répertoriées ci-dessus.
 Sinon, des méthodes qui fonctionnent sur toutes les versions sont disponibles, mais nécessitent du matériel supplémentaire :
-1. [Port de débogage](https://tiplanet.org/forum/viewtopic.php?f=113&t=25191&p=263495#p263495) - nécessite un Raspbery PI ou un STLink
+1. [Méthode matérielle](n0110-hardmod) - nécessite un Raspbery PI ou un STLink
