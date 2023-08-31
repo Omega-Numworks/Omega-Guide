@@ -8,7 +8,7 @@ title: "Hardmod (N0110)"
 
 The hardmod way requiered special tools.
 
-The goal is to force recovery mode to allos installation, your calculator should show a black screen and a red LED.
+The goal is to force recovery mode to allow installation, your calculator should show a black screen and a red LED.
 
 ### Select a method
 
