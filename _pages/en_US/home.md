@@ -35,7 +35,7 @@ This guide will explain how to:
 * The techniques described in this guide are pretty much in their infancy. **We are not responsible for anything that goes wrong with your device**. There is a slight chance that you might brick your device.
 * This guide is compatible with every retail device in the Numworks family of calculators.
 
-if you want to understand better how unlocking the calculator works, [click here](how-does-it-work)
+If you want to understand better how unlocking the calculator works, [click here](how-does-it-work)
 {: .notice--info}
 
 ___
