@@ -18,5 +18,7 @@ Nous recommendons [ce post](https://tiplanet.org/forum/viewtopic.php?f=113&t=251
 
 Si vous avez une autre manière d'obtenir le mode Recovery, vous pouvez la suivre. **Nous ne sommes pas responsables de ce qu’il se passe sur votre appareil**
 
+___
+
 Quand votre calculatrice est en mode Recovery, continuez vers [Et maintenant ? ](n0110-now-what)
 {: .notice--primary}
