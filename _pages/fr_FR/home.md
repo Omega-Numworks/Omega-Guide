@@ -35,6 +35,9 @@ Ce guide va vous expliquer comment:
 * Les méthodes décrites dans ce guide sont encore à leurs balbutiements **Nous ne sommes pas responsables de ce qu'il se passe sur votre appareil**. Il y a une petite chance de casser votre appareil.
 * Ce guide est compatible avec toutes les calculatrices Numworks vendues dans le commerce.
 
+Si vous voulez mieux comprendre comment le débloquage de la calculatrice fonctionne, [cliquez ici](how-does-it-work)
+{: .notice--info}
+
 ___
 
 ## Continuez vers [Bien démarrer](get-started)
