@@ -6,7 +6,7 @@ title: "Débloquage matériel (N0110)"
 
 ### Lecture obligatoire
 
-Le débloquage matériel demande des outils spécifique.
+Le débloquage matériel demande des outils spécifiques.
 
 L'objectif est de forcer le mode Recovery pour permettre l'installation, votre calculatrice doit montrer un écran noir et une LED rouge.
 
