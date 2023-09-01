@@ -16,6 +16,16 @@ This is Numworks' bootloader. It shows up when the calculator is locked and you 
 
 If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](install-epsilon-18-2-0).
 
+### Black screen, nothing else
+
+There are 4 possible reasons:
+- Your calculator is in sleep mode, press the power button to turn it back on.
+- Your calculator may have any wierd bug, try pressign the reset button on the back.
+- Your calculator may be discharged, try letting it charge a few minutes.
+- The battery is disconnected, you may need to open your calculator to plug it back in.
+
+If this doesn't solve the problem, contact Numworks.
+
 ### Huge battery consumption
 
 There are 2 possible reasons:
