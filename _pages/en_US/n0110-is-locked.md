@@ -79,4 +79,4 @@ If possible, you should follow one of the software methods listed above.
 
 Otherwise, methods that work on all versions are available, but require additional hardware:
 
-1. [Hardmod](n0110-hardmod) - requires a Raspberry PI or a STLink
+1. [Hardware Unlock](n0110-hardware-unlock) - requires a Raspberry PI or a STLink
