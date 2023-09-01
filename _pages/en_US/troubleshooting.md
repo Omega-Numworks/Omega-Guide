@@ -16,6 +16,16 @@ This is Numworks' bootloader. It shows up when the calculator is locked and you 
 
 If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](install-epsilon-18-2-0).
 
+### Black screen, nothing else
+
+There are 4 possible reasons:
+- Your calculator is in sleep mode, press the power button to turn it back on.
+- Your calculator may have any wierd bug, try pressign the reset button on the back.
+- Your calculator may be discharged, try letting it charge a few minutes.
+- The battery is disconnected, you may need to open your calculator to plug it back in.
+
+If this doesn't solve the problem, contact Numworks.
+
 ### Huge battery consumption
 
 There are 2 possible reasons:
@@ -27,8 +37,6 @@ There are 2 possible reasons:
 it means the driver or config file isn't installed on Windows or Linux.
 
 Open the [Update page](https://numworks.com/update/) on Numworks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it**
-
-
 
 If you are using Linux, it may still not be detected. It can happen if your web browser is installed as a flatpak.
 
@@ -80,9 +88,9 @@ Just click reset on the calculator and it should be fixed
 
 ### "Address 0x90000000 outside of memory map"
 
-You are trying to flash the external partition while in recovery mode. This can't work.
+You are trying to flash the external partition but the calculator is not in the right mode. This can't work.
 
-You need to flash while in the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when installing Omega in Recovery mode)
+You need to flash while in Numworks' bootloader, the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when installing Omega in Recovery mode)
 
 ### Calculator restarts when trying to install custom firmware
 

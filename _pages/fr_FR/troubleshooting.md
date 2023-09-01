@@ -16,6 +16,16 @@ C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est
 
 Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](install-epsilon-18-2-0).
 
+### Écran nour, rien d'autre
+
+Il y a 4 raisons possibles:
+- Votre calculatrice est en mode veille, appuyez sur le bouton power pour la rallumer.
+- Votre calculatrice est peut-être victime d'un bug, appuyez sur reset au dos.
+- Votre calculatrice est peut-être déchargée, essayez de la laisser charger quelques minutes.
+- La batterie est déconnectée, vous pourriez avoir besoin d'ouvrir votre calculatrice pour la rebrancher.
+
+Si cela ne résout pas le problème, contactez Numworks.
+
 ### Consommation de batterie élevée
 
 Il y a 2 raisons possibles:
@@ -80,9 +90,9 @@ Appuyez juste sur reset sur la calculatrice et ça devrait être réglé
 
 ### "Address 0x90000000 outside of memory map"
 
-Vous essayez de flash la partition externe en mode recovery. Ça ne peut pas marcher
+Vous essayez de flash la partition externe mais la calculatrice n'est pas dans le bon mode. Ça ne peut pas marcher
 
-Vous devez flash dans le bootloader custom ou le flasher du mode Recovery (l'écran indiquant "Recovery mode" en installant Omega en mode Recovery)
+Vous devez flash avec l'écran de bootloader Numworks, le bootloader custom ou le flasher du mode recovery (l'écran indiquant "Recovery mode" en installant Omega en mode Recovery)
 
 ### La calculatrice redémarre en essayant d'installer un CFW
 
