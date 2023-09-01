@@ -1,5 +1,5 @@
 ---
-title: "Hardmod (N0110)"
+title: "Hardware unlock (N0110)"
 ---
 
 {% include toc title="Sommaire" %}
