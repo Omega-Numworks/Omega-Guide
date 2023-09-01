@@ -1,12 +1,12 @@
 ---
-title: "Méthode matérielle (N0110)"
+title: "Débloquage matériel (N0110)"
 ---
 
 {% include toc title="Sommaire" %}
 
 ### Lecture obligatoire
 
-La méthode matérielle demande du matériel spécifique.
+Le débloquage matériel demande des outils spécifique.
 
 L'objectif est de forcer le mode Recovery pour permettre l'installation, votre calculatrice doit montrer un écran noir et une LED rouge.
 
