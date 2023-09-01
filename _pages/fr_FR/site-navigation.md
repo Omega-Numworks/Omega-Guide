@@ -10,6 +10,7 @@ sitemap: false
 + [Bien commencer](get-started)
 + [FAQ](faq)
 + [Dépannage](troubleshooting)
++ [Comment ça marche ?](how-does-it-work)
 + [Contribuer](contribute)
 + [Politique de confidentialité](privacy-policy)
 + [Crédits](credits)
