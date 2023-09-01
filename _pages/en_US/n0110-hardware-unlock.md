@@ -6,7 +6,7 @@ title: "Hardware unlock (N0110)"
 
 ### Requiered reading
 
-The hardmod way requiered special tools.
+The hardware unlock way requieres special tools.
 
 The goal is to force recovery mode to allow installation, your calculator should show a black screen and a red LED.
 
