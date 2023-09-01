@@ -79,4 +79,4 @@ If possible, you should follow one of the software methods listed above.
 
 Otherwise, methods that work on all versions are available, but require additional hardware:
 
-1. [Debug port](https://tiplanet.org/forum/viewtopic.php?f=113&t=25191&p=263495#p263495) - requires a Raspberry PI or a STLink
+1. [Hardware Unlock](n0110-hardware-unlock) - requires special tools
