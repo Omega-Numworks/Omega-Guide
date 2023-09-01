@@ -10,6 +10,7 @@ sitemap: false
 + [Get started](get-started)
 + [FAQ](faq)
 + [Troubleshooting](troubleshooting)
++ [How does it work ?](how-does-it-work)
 + [Contribute](contribute)
 + [Privacy Policy](privacy-policy)
 + [Credits](credits)
