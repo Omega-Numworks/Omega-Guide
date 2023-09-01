@@ -80,9 +80,9 @@ Appuyez juste sur reset sur la calculatrice et ça devrait être réglé
 
 ### "Address 0x90000000 outside of memory map"
 
-Vous essayez de flash la partition externe en mode recovery. Ça ne peut pas marcher
+Vous essayez de flash la partition externe mais la calculatrice n'est pas dans le bon mode. Ça ne peut pas marcher
 
-Vous devez flash dans le bootloader custom ou le flasher du mode Recovery (l'écran indiquant "Recovery mode" en installant Omega en mode Recovery)
+Vous devez flash avec l'écran de bootloader Numworks, le bootloader custom ou le flasher du mode recovery (l'écran indiquant "Recovery mode" en installant Omega en mode Recovery)
 
 ### La calculatrice redémarre en essayant d'installer un CFW
 

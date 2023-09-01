@@ -28,8 +28,6 @@ it means the driver or config file isn't installed on Windows or Linux.
 
 Open the [Update page](https://numworks.com/update/) on Numworks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it**
 
-
-
 If you are using Linux, it may still not be detected. It can happen if your web browser is installed as a flatpak.
 
 In this case, you will need to install [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), select your web browser, and add `/run/udev` in the "Other files" into the "Filesystem" category.
@@ -80,9 +78,9 @@ Just click reset on the calculator and it should be fixed
 
 ### "Address 0x90000000 outside of memory map"
 
-You are trying to flash the external partition while in recovery mode. This can't work.
+You are trying to flash the external partition but the calculator is not in the right mode. This can't work.
 
-You need to flash while in the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when installing Omega in Recovery mode)
+You need to flash while in Numworks' bootloader, the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when installing Omega in Recovery mode)
 
 ### Calculator restarts when trying to install custom firmware
 
