@@ -76,4 +76,4 @@ Utilisez le tableau des versions ci-dessous pour sélectionner une méthode. Que
 
 Si possible, vous devriez suivre l'une des méthodes logicielles répertoriées ci-dessus.
 Sinon, des méthodes qui fonctionnent sur toutes les versions sont disponibles, mais nécessitent du matériel supplémentaire :
-1. [Débloquage matériel](n0110-hardware-unlock) - nécessite un Raspbery PI ou un STLink
+1. [Débloquage matériel](n0110-hardware-unlock) - nécessite des outils spécifiques
