@@ -125,7 +125,7 @@ Cela peut arriver sur Windows et Linux
 
 ### Plantage en lançant Upsilon
 
-Upsilon a tendance à plante quand vous le lancez et que la calculatrice est connectée à un PC. Déconnectez la avant de le lancer.
+Upsilon a tendance à planter quand vous le lancez et que la calculatrice est connectée à un PC. Déconnectez la avant de le lancer.
 
 ___
 
