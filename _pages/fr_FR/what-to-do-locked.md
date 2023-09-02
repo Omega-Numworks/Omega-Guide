@@ -5,7 +5,7 @@ title: "Que faire sur une calculatrice bloquée ?"
 ### Introduction
 
 Si vous êtes ici, c'est probablement parce que votre calculatrice ne peut pas être débloquée ou que vous ne voulez pas trop le modifier. Il n'y a pas de honte à avoir pour ça.
-Il y a toujours certaines choses que vous pouvez faire
+Il y a toujours certaines choses que vous pouvez faire.
 
 ### Scripts Python
 
@@ -13,8 +13,8 @@ Toujours bon à mentionner, vous pouvez obtenir des jeux python sur votre calcul
 
 ### Applis externes
 
-Depuis Epsilon 16 pour n0110, ou Epsilon 20 pour n0120, vous pouyez installer des applis personnalisées, elles ne sont pas aussi puissantes que celles d'Omega mais elles sont bien. Vous pouvez les trouver sur [Nwagyu](https://www.nwagyu.com/).
-Il y a [une page qui explique comment installer les applis](https://www.nwagyu.com/pages/how-to/) avec également un moyen d'avoir plus d'espace pour les applis
+Depuis Epsilon 16 pour n0110, ou Epsilon 20 pour n0120, vous pouvez installer des applis personnalisées, elles ne sont pas aussi puissantes que celles d'Omega mais elles sont bien. Vous pouvez les trouver sur [Nwagyu](https://www.nwagyu.com/).
+Il y a [une page qui explique comment installer les applis](https://www.nwagyu.com/pages/how-to/) avec également un moyen d'avoir plus d'espace pour les applis.
 Aussi, quand vous activez le mode examen ou appuyez sur "reset", elles seront désactivées.
 
 ### Userland
