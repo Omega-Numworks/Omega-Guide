@@ -127,6 +127,14 @@ Cela peut arriver sur Windows et Linux
 
 Upsilon a tendance à planter quand vous le lancez et que la calculatrice est connectée à un PC. Déconnectez la avant de le lancer.
 
+### Plantage au lancement de KhiCAS
+
+KhiCAS est une appli lourde, et dual boot avec cette appli installée est impossible.
+
+Il se peut que vous ayez installé KhiCAS puis Epsilon, qui a écrasé une parte de KhiCAS, l'empêchant de démarrer.
+
+Si vous voulez utiliser KhiCAS, vous devrez le réinstaller.
+
 ___
 
 ### Votre erreur n'est pas listée ? La solution proposée n'a pas réglé votre problème ? N'hésitez pas à demander sur le [Discord d'Omega](https://discord.gg/X2TWhh9)

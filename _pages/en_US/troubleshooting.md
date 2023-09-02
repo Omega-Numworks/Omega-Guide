@@ -125,6 +125,14 @@ This can happen on Windows and Linux:
 
 Upsilon tends to crash when you start it and the calculator is connected to a PC. Disconnect it before starting.
 
+### Dualboot, KhiCAS makes the calculator crash
+
+KhiCAS is a heavy app and dual-booting with this app installed is not possible.
+
+You may have installed KhiCAS then Epsilon which erased a part of KhiCAS, preventing it from starting.
+
+To use KhiCAS, you will need to reinstall it.
+
 ___
 
 ### Is you error not listed ? The provided solution didn't fix your problem ? Don't hesitate to ask on the [Omega Discord](https://discord.gg/X2TWhh9)
