@@ -11,8 +11,8 @@ title: "FAQ"
 **A:** Les bricks matériels complets sont quasi-impossibles. Le pire que vous puissiez obtenir est une calculatrice avec protection en écriture activée avec une mémoire flash vide, qui peut toujours être résolu avec un mod matériel, mais la possibilité d'avoir ce genre de problème est très très peu probable.
 
 <a name="faq_nopc" />**Q:** *Puis-je le faire sans ordinateur (par exemple, un téléphone Android) ?*    
-**A:** Tout ce dont vous avez besoin est un appareil capable d'exécuter un navigateur Web prenant en charge WebUSB. Android
-les téléphones peuvent être utilisés avec un câble USB OTG.
+**A:** Tout ce dont vous avez besoin est un appareil capable d'exécuter un navigateur Web prenant en charge WebUSB.
+Les téléphones Android peuvent être utilisés avec un câble USB OTG.
 
 # Post-Installation FAQ
 

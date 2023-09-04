@@ -11,6 +11,6 @@ Cette page vous expliquera comment revenir au firmware d'origine, et donc bloque
 1. Ouvrez [la page de restauration de Numworks](https://numworks.com/rescue)
 2. Mettez votre calculatrice en mode Recovery en maintenant 6 et en appuyant sur "reset" en même temps
 3. Branchez votre calculatrice a votre ordinateur
-4. Suivez les insteuctions pour restaurer le firmware d'origine.
+4. Suivez les instructions pour restaurer le firmware d'origine.
 
 Vous avez maintenant une calculatrice avec le firmware d'origine.

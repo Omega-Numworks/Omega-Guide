@@ -13,7 +13,7 @@ Si vous souhaitez continuer à utiliser Epsilon >= 16 tout en pouvant installer 
 1. Appuyez sur 3
 2. Appuyez sur OK pour confirmer
 3. Vous devriez voir quelque chose comme ça :
-![Phi launch screen](images/screenshots/phi-write.png)
+![Phi launch screen](/images/screenshots/phi-write.png)
 
 L'étape "Write flash" peut prendre un peu de temps. Vous reviendrez au menu principal après une seconde, lorsque le clignotement sera terminé.
 

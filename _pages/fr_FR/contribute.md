@@ -7,7 +7,7 @@ Nous sommes ravis que vous souhaitiez contribuer au guide Phi ! Voici quelques f
 
 ## Maintenance
 
-Ce guide est open-source - son référentiel est disponible [ici](https://github.com/Omega-Numworks/Omega-Guide). Si vous pensez qu'il y a un problème avec le guide, vous pouvez signaler un problème pour nous en informer, ou déposer une demande d'extraction pour que vos modifications soient fusionnées dans le guide.
+Ce guide est open-source - son code est disponible [ici](https://github.com/Omega-Numworks/Omega-Guide). Si vous pensez qu'il y a un problème avec le guide, vous pouvez signaler un problème pour nous en informer, ou déposer une demande de modification ("pull request" en anglais) pour que vos modifications soient fusionnées dans le guide.
 
 ## Traductions
 

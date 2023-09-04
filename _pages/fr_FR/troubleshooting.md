@@ -48,15 +48,15 @@ Notez bien que redémarrer le navigateur risque d'être nécessaire si vous déb
 
 ### "CommandName is not defined"
 
-Vous essayer de faire quelque chose avec la calculatrice alors qu'elle n'est pas dans le bon mode, comme essayer d'installer des applis avec la calculatrice en mode Recovery ou sur n0100.
+Vous essayer de faire quelque chose avec la calculatrice alors qu'elle n'est pas dans le bon mode, comme essayer d'installer des applications avec la calculatrice en mode Recovery ou sur n0100.
 
-Essayez d'utiliser le bon mode, pour des applis externes lancez juste en mode normal.
+Essayez d'utiliser le bon mode, pour des applications externes lancez juste en mode normal.
 
 ### "Unable to claim interface"
 
-Cette erreur arrive quand vous essayez de connecter votre calculatrice mais elle est déjà utilisée par un autre onglet ou logiciel. Cela arrive habituellement quand vous essayez d'installer des applis externes mais que l'onglet que vous avec utilisé pour unstaller votre CFW est toujours ouvert.
+Cette erreur arrive quand vous essayez de connecter votre calculatrice mais elle est déjà utilisée par un autre onglet ou logiciel. Cela arrive habituellement quand vous essayez d'installer des applications externes mais que l'onglet que vous avec utilisé pour unstaller votre CFW est toujours ouvert.
 
-Ça peut facilement être régle si vous fermez l'onglet ou lle logiciel déjà connecté à la calculatrice
+Ça peut facilement être régle si vous fermez l'onglet ou le logiciel déjà connecté à la calculatrice
 
 ### "Could not detect the calculator model" / "N????"
 
@@ -82,7 +82,7 @@ Vous essayez de démarrer Epsilon 19 sur un ancian bootloader custom.
 
 Mettez à jour le bootloader en allant sur le site de votre CFW et en le réinstallant le en mode Recovery en maintenant 6 et en cliquant sur reset sur la calculatrice.
 
-### L'installation dure indéfiniment
+### L'installation n'a pas de fin (installation infinie)
 
 Cela peut arriver sur le site d'Omega et le site de Numworks. A moins que votre calculatrice soit bloquée, le firmware est déjà installé mais le site essaie de démarrer la calculatrice et il n'y arrive pas.
 

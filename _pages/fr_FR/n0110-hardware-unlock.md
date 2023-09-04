@@ -8,7 +8,8 @@ title: "Débloquage matériel (N0110)"
 
 Le débloquage matériel demande des outils spécifiques.
 
-L'objectif est de forcer le mode Recovery pour permettre l'installation, votre calculatrice doit montrer un écran noir et une LED rouge.
+L'objectif est de forcer le mode Recovery pour permettre l'installation.
+À la fin de ce tutoriel, votre calculatrice devra montrer un écran noir et une LED rouge.
 
 ### Sélectionnez une méthode
 

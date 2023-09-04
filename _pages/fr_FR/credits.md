@@ -9,6 +9,7 @@ Si je vous ai oublié ici, contactez-moi et j'ajouterai votre nom.
 
 {% capture notice-1 %}
     + AngeDieu
+    + BloomyInDev
     + darthnithin
     + hdboye
     + M4x1m3
