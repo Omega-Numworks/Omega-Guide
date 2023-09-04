@@ -66,7 +66,7 @@ Il peut être installé sur Epsilon et exploite un bug nommé [Screenhax (en ang
 
 Il peut également installer un bootloader simple.
 
-Numworks a réglé ce bug en publiant Epsilon 18.2.3 et 16.4.3.
+Numworks a réglé ce bug en publiant Epsilon 18.2.3.
 
 ### 6 - Donc, que se passe-t-il quand vous suivez le guide ?
 
