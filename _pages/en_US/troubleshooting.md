@@ -6,9 +6,9 @@ title: "Troubleshooting"
 
 ### Black screen and red LED
 
-Your calculator is in Recovery mode, it's waiting to recieve a firmware, so it's unlocked. **If you update from Numworks' website, your calculator will be locked**
+Your calculator is in Recovery mode, it's waiting to receive a firmware, so it's unlocked. **If you update from Numworks' website, your calculator will be locked**
 
-[Choose a CFW](choose-a-cfw) to install on your calculator. (If you want to install Epsilon without locking your calculator, install a compatible CFW)
+[Choose a CFW](choose-a-cfw) to install on your calculator. (If you want to install Epsilon without locking your calculator, install first a compatible CFW while in recovery mode, then install Epsilon while NOT in recovery mode)
 
 ### Black screen, yellow cable, and `numworks.com/rescue`
 
@@ -56,11 +56,11 @@ Try to use the right mode, for external apps just run it in normal mode.
 
 This error is displayed when you try to connect your calculator but it's already used by another tab or software. It usually happens when you try to install external apps but the tab you used to install your custom firmware is still open.
 
-This can easily be fixed if you close the tab or software already connected to it.
+This can easily be fixed if you close the tab or software already connected to it. Only one tab (or software) at a time can establish the connection to the calculator.
 
 ### "Could not detect the calculator model" / "N????"
 
-This means your calculator is locked and you need to unlock it.
+This means your calculator is protected against CFM installation. If you want to install CFW, you need to unlock it.
 
 Follow [this guide](get-started) to unlock it.
 
@@ -72,13 +72,13 @@ Hold 6 and click reset to start it in recovery mode, it will look the same but t
 
 ### "Memory is corrupted" when adding python scripts
 
-It can happen when the custom bootloader is too old. To update it go to your custom firmware's website then reinstall it from recovery mode by holding 6 and clicking reset on the calculator.
+It can happen when the custom bootloader is too old. To update it : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer, then select "recovery" on custom firmware's website.
 
 ### Screen and led blinking
 
 You are trying to run Epsilon 19 with an old custom bootloader.
 
-Update the bootloader by going to your custom firmware's website and reinstalling it from recovery mode by holding 6 and clicking reset on the calculator.
+Update the bootloader : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer,  then select "recovery" on custom firmware's website.
 
 ### Installation takes infinite amout of time
 
@@ -125,14 +125,15 @@ This can happen on Windows and Linux:
 
 Upsilon tends to crash when you start it and the calculator is connected to a PC. Disconnect it before starting.
 
-### Dualboot, KhiCAS makes the calculator crash
+### In Dualboot, KhiCAS makes the calculator crash
 
 KhiCAS is a heavy app and dual-booting with this app installed is not possible.
 
-You may have installed KhiCAS then Epsilon which erased a part of KhiCAS, preventing it from starting.
+You may have installed KhiCAS, then Epsilon, which erased a part of KhiCAS, preventing it from starting.
+If you want to use KhiCAS, you will need to reinstall it.
 
-To use KhiCAS, you will need to reinstall it.
-
+You may have installed a KhiCAS version incompatible with your custom firmware (example : using Upsilon, and a KhiCAS installed from Omega website, or B. Parisse website).
+In this case, re-install KhiCAS from your custom firmware website (example : from Upsilon website if you use Upsilon custom firmware).
 ___
 
 ### Is you error not listed ? The provided solution didn't fix your problem ? Don't hesitate to ask on the [Omega Discord](https://discord.gg/X2TWhh9)
