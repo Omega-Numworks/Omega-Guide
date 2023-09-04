@@ -16,13 +16,13 @@ Cette page expliquera comment installer Upsilon, en considérant que vous avez u
 
 ### Section I - Préparer le mode Recovery
 
-si votre modèle est n0110, entrez le mode Recovery en mainteant "6" et en appuyant sur "reset"
-si votre modèle est n0110, entrez le mode Recovery en branchant votre calculatrice et en appuyant sur "reset"
+Si votre modèle est n0110, entrez le mode Recovery en mainteant "6" et en appuyant sur "reset"
+Si votre modèle est n0110, entrez le mode Recovery en branchant votre calculatrice et en appuyant sur "reset"
 
 ### Section II - Installation d'Upsilon
 
 1. Ouvrez [le site web d'Upsilon]([https://getomega.dev/install](https://getupsilon.web.app/install))
-2. Cloquez sur "Mode de récupération" et sélectionnez "STM32 BOOTLOADER"
+2. Cliquez sur "Mode de récupération" et sélectionnez "STM32 BOOTLOADER"
 3. Attendez un peu jusqu'a ce que la calculatrice affiche "Recovery Mode" sur l'écran
 4. Si la calculatrice n'est pas connectée automatiquement, cliquez sur "Connecter" et sélectionnez "Numworks Calculator"
 5. Sélectionnez vos paramètres comme le thème. Pour le slot, si vous ne savez pas lequel choisir, sélectionnez "A"
