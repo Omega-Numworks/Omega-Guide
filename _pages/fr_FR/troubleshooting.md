@@ -16,7 +16,7 @@ C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est
 
 Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](install-epsilon-18-2-0).
 
-### Écran nour, rien d'autre
+### Écran noir, rien d'autre
 
 Il y a 4 raisons possibles:
 - Votre calculatrice est en mode veille, appuyez sur le bouton power pour la rallumer.
