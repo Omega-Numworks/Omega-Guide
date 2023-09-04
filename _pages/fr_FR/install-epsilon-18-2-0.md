@@ -42,7 +42,7 @@ Vous devriez maintenant avoir un fichier internal.bin et un fichier external.bin
 
 Vous devriez maintenant voir la version 18.2.0 dans Paramètres > À propos.
 
-Si ce n'est pas le cas ou que votre Numworks ne démarre pas, vous pouvez toujours utiliser une [méthode alternative](get-started#méthodes-alternatives).
+Si ce n'est pas le cas ou que votre Numworks ne démarre pas, vous pouvez toujours utiliser une [méthode alternative](n0110-is-locked#méthodes-alternatives).
 {: .notice--warning}
 
 ___
