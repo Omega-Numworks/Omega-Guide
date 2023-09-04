@@ -15,15 +15,15 @@ Si vous n'êtes pas sur que vous puissiez installer Epsilon 18.2.0, allez voir [
 
 - Un navigateur à base chromium (nous vous recommandons d'utiliser [chromium](https://www.chromium.org/chromium-projects/) directement)
 - Epsilon 18.2.0 `18-2-0.dfu` (Etant donné que Numworks a supprimé ce fichier de leur site web à cause de Phi, nous ne pouvons pas vous donner de lien ici)
-- Ce script Python: [version Linux et macOS](images/unpack.py), [version Windows](images/unpack-win.py)
+- Ce script Python: [version Linux et macOS](/images/unpack.py), [version Windows](/images/unpack-win.py)
 
 ### Section I - Extraction du binaire externe
 
-Étant donné qu'Epsilon est désormais propriétaire, nous ne pouvons pas distribuer directement l'image du flash externe.
+Étant donné qu'Epsilon est désormais sous code source fermé, nous ne pouvons pas distribuer directement l'image du flash externe.
 Nous devons donc vous le faire extraire.
 
 1. Installez Python sur votre plateforme.
-2. Téléchargez Epsilon 18.2.0 grâce au lien ci-dessus.
+2. Téléchargez Epsilon 18.2.0 quelque part.
 3. Créez un nouveau dossier
 4. Mettez le script Python dans ce dossier
 5. Mettez 18-2-0.dfu dans ce dossier
