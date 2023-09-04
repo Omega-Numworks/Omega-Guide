@@ -6,10 +6,10 @@ Cette page vous dire si vous devez déverrouiller votre calculatrice et comment.
 
 #### Section I - Vérification de la version Epsilon
 
-1. Allumez votre appareil
-2. Allez dans l'application des paramètres
-3. Allez dans "à propos"
-4. Regardez le champ "Version du logiciel" ou "Version Epsilon".
+1. Allumez votre calculatrice
+2. Allez dans "Paramètres"
+3. Allez dans "À propos"
+4. Regardez le champ "Version du logiciel" ou "Version d'Epsilon".
 5. Ceci est votre version Epsilon.
 
 #### Section II - Vérification du verrouillage du flash
@@ -19,7 +19,7 @@ Cette page vous dire si vous devez déverrouiller votre calculatrice et comment.
 3. Tout en appuyant sur la touche "6", appuyez sur le bouton reset à l'arrière de l'appareil.
 
 Si vous voyez un écran comme celui-ci, vous pouvez procéder :
-![Epsilon 16 bootloader](images/screenshots/e16bl.png)
+![Epsilon 16 bootloader](/images/screenshots/e16bl.png)
 
 Si l'écran reste noir et que la LED devient rouge, STOP - votre calculatrice est déjà déverrouillée ! Continuez à partir d'[ici](n0110-now-what).
 {: .notice--warning}

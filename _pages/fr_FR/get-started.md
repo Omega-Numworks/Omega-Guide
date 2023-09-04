@@ -10,10 +10,10 @@ Avant de commencer ce guide, vous avez besoin de comprendre certains termes que 
 
 Ce guide va utiliser certains noms, avant de commencer vous devez savoir à qui ces noms font référence:
 
-1. Epsilon: C'est le firmware vendu à l'origine avec la calculatrice, fait par Numworks. Après la version 16, ils ont commencé à vérrouiller la calculatrice pour empêcher toute installation de CFW ([comprenez pourquoi ici](https://tiplanet.org/forum/viewtopic.php?f=97&t=24968)).
-2. CFW: Custom firmware, un firmware conçu pour remplacer Epsilon. Certains courants sont Omega et Upsilon.
+1. Epsilon: C'est le firmware vendu à l'origine avec la calculatrice, fait par Numworks. Après la version 16, ils ont commencé à verrouiller la calculatrice pour empêcher toute installation de CFW ([comprenez pourquoi ici](https://tiplanet.org/forum/viewtopic.php?f=97&t=24968)).
+2. CFW: Custom firmware, un firmware conçu pour remplacer Epsilon. Les plus courants sont Omega et Upsilon.
 3. Phi: C'est une appli conçue pour débloquer certaines calculatrices bloquées.
-4. Recovery mode ("STM32 DFU bootloader" ou "hwloader"): C'est un mode sur la calculatrice qui permet de changer n'importe quoi, et le mode que Numworks a bloqué. On y accède couremment en appuyant sur "reset" au dos de la calculatrice pendant que l'on maintient la touche "6" et il est reconnu losque vous obtenez un écran noir et que la LED devient rouge. C'est ce que vous devez obtenir à la fin pour installer tout ce que vous voulez.
+4. Recovery mode ("STM32 DFU bootloader" ou "hwloader"): C'est un mode sur la calculatrice qui permet de changer n'importe quoi, et le mode que Numworks a bloqué. On y accède couramment en appuyant sur "reset" au dos de la calculatrice pendant que l'on maintient la touche "6" et il est reconnu lorsque vous obtenez un écran noir et que la LED devient rouge. C'est ce que vous devez obtenir à la fin de ce guide pour installer tout ce que vous voulez.
 5. Bootloader ("softloader"): C'est un menu auquel vous pouvez accéder de différentes manières, cela dépend du CFW que vous choisissez. Il vous permet de réinstaller le firmware et peut vous empêcher de bloquer votre calculatrice si vous la mettez à jour. Phi vous permet d'en installer un si vous le souhaitez
 
 Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujours certaines choses que vous pouvez faire](what-to-do-locked)
@@ -41,8 +41,8 @@ Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujour
   </colgroup>
   <thead>
     <tr>
-      <th style="text-align: center">Calculator model</th>
-      <th style="text-align: center">What to do</th>
+      <th style="text-align: center">Modèle de calculatrice</th>
+      <th style="text-align: center">Que faire</th>
     </tr>
   </thead>
   <tbody>

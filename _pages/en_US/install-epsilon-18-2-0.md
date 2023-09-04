@@ -44,7 +44,7 @@ You should now have an internal.bin and an external.bin file
 
 You should now see version 18.2.0 in Settings > About.
 
-If it is not the case or your Numworks doesn't boot, you can only use an [alternate method](get-started#alternate-methods).
+If it is not the case or your Numworks doesn't boot, you can only use an [alternate method](n0110-is-locked#alternate-methods).
 {: .notice--warning}
 
 ___

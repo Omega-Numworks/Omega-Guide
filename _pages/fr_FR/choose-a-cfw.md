@@ -15,17 +15,17 @@ Il y a plusieurs CFWs que vous pouvez installer sur votre calculatrice, la plupa
   <thead>
     <tr>
       <th style="text-align: center">CFW</th>
-      <th style="text-align: center">Advantages</th>
+      <th style="text-align: center">Avantages</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align: center; font-weight: bold;"><a href="omega">Omega</a></td>
-      <td style="text-align: center; font-weight: bold;">Le CFW le plus populaire pour Numworks, forké depuis Epsilon 15.5.0. Il restaure le calcul symbolique, permet l'installation d'applis externes, et ajoute des libraries Python</td>
+      <td style="text-align: center; font-weight: bold;">Le CFW le plus populaire pour Numworks, basé sur Epsilon 15.5.0. Il restaure le calcul symbolique, permet l'installation d'applications externes, et ajoute des libraries Python</td>
     </tr>
     <tr>
       <td style="text-align: center; font-weight: bold;"><a href="upsilon">Upsilon</a></td>
-      <td style="text-align: center; font-weight: bold;">Forké depuis Omega, Upsilon apporte plus de fonctions et de confort comparé à Omega, comme une liseuse LaTeX, plus de stockage pour les scripts Python, et un meilleur bootloader</td>
+      <td style="text-align: center; font-weight: bold;">Basé sur Omega, Upsilon apporte plus de fonctions et de confort comparé à Omega, comme une liseuse LaTeX, plus de stockage pour les scripts Python, et un meilleur bootloader</td>
     </tr>
   </tbody>
 </table>

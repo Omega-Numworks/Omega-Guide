@@ -15,7 +15,7 @@ Vous avez maintenant plusieurs choix. Vous pouvez:
 Si vous souhaitez utiliser Epsilon >= 16 tout en pouvant installer un custom firmware,
 vous pouvez installer un bootloader patché :
 1. Téléchargez [ce fichier](https://phi.getomega.dev/install/bootloader.bin)
-2. Ouvrez [cette page](https://ti-planet.github.io/webdfu_numworks/n0110/) dans un navigateur web basé sur chromium
+2. Ouvrez [cette page](https://ti-planet.github.io/webdfu_numworks/n0110/) dans un navigateur web basé sur Chromium
 3. Tout en maintenant la touche 6 enfoncée, appuyez sur le bouton reset à l'arrière de votre appareil
 4. Branchez votre calculatrice sur votre ordinateur
 5. Cliquez sur « Se connecter à la calculatrice Numworks » et sélectionnez le bootloader STM32.
