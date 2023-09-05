@@ -13,7 +13,7 @@ Tout va bien : un écran noir et une led rouge signifient que votre calculatrice
 
 ### Écran noir, cable jaune, et `numworks.com/rescue`
 
-C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est verrouillée (blocage de l'installation des CFM) et que vous avez lancé le mode recovery en maintenant 6 et en appuyant sur reset. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
+C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est verrouillée (blocage de l'installation des CFW) et que vous avez lancé le mode recovery en maintenant 6 et en appuyant sur reset. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
 
 Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](install-epsilon-18-2-0).
 
@@ -62,7 +62,7 @@ Il ne peut y avoir qu'un seul onglet (ou logiciel) établissant une connexion à
 
 ### "Could not detect the calculator model" / "N????"
 
-Cela veut dire que votre calculatrice est verrouillée contre l'installation de CFM. Si vous voulez installer un CFW, vous avec besoin de la débloquer.
+Cela veut dire que votre calculatrice est verrouillée contre l'installation de CFW. Si vous voulez installer un CFW, vous avec besoin de la débloquer.
 
 Suivez [ce guide](get-started) pour la débloquer.
 
@@ -134,10 +134,8 @@ Upsilon a tendance à planter quand vous le lancez et que la calculatrice est co
 KhiCAS est une appli lourde, et le dual boot avec cette appli installée est impossible.
 
 Il se peut que vous ayez installé KhiCAS, puis Epsilon, ce qui a écrasé une parte de KhiCAS, l'empêchant de démarrer.
-Dans ce cas, si vous voulez utiliser KhiCAS, vous devrez le réinstaller.
 
-Il se peut que vous utilisiez un KhiCAS non compatible de votre CFW (par exemple le CFM Upsilon et un KhiCAS provenant du site de Omega, ou du site de B. Parisse).
-Dans ce cas, re-installez KhiCAS depuis le site de votre CFM (par exemple, depuis le site de Upsilon si vous utilisez Upsilon).
+Dans ce cas, si vous voulez utiliser KhiCAS, vous devrez le réinstaller.
 
 ___
 
