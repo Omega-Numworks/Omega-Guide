@@ -130,6 +130,7 @@ Upsilon tends to crash when you start it and the calculator is connected to a PC
 KhiCAS is a heavy app and dual-booting with this app installed is not possible.
 
 You may have installed KhiCAS, then Epsilon, which erased a part of KhiCAS, preventing it from starting.
+
 If you want to use KhiCAS, you will need to reinstall it.
 
 ___
