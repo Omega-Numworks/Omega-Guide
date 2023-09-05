@@ -132,8 +132,6 @@ KhiCAS is a heavy app and dual-booting with this app installed is not possible.
 You may have installed KhiCAS, then Epsilon, which erased a part of KhiCAS, preventing it from starting.
 If you want to use KhiCAS, you will need to reinstall it.
 
-You may have installed a KhiCAS version incompatible with your custom firmware (example : using Upsilon, and a KhiCAS installed from Omega website, or B. Parisse website).
-In this case, re-install KhiCAS from your custom firmware website (example : from Upsilon website if you use Upsilon custom firmware).
 ___
 
 ### Is you error not listed ? The provided solution didn't fix your problem ? Don't hesitate to ask on the [Omega Discord](https://discord.gg/X2TWhh9)
