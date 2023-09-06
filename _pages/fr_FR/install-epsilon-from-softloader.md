@@ -7,7 +7,7 @@ title: "Installer Epsilon depuis le Softloader"
 Suivre ce guide peut mettre en danger votre calculatrice. Installer Epsilon de la mauvaise manière sur votre calculatrice pourrait la bloquer.. Suivez **STRICTEMENT** ce qui est dir sur cette page pour être sur que votre calculatrice n'est pas en danger
 {: .notice--warning}
 
-La dernière version d'Epsilon pourrait ne pas être sûre, vérifiez la dernière version [pour n0110](https://my.numworks.com/firmwares/n0110/stable.json) (connexion au compte Numworks nécessaire). Dernière version sûre connue: **21.1.1**
+La dernière version d'Epsilon pourrait ne pas être sûre, vérifiez la dernière version [pour n0110](https://my.numworks.com/firmwares/n0110/stable.json) (connexion au compte Numworks nécessaire). Dernière version sûre connue: **21.2.0**
 {: .notice--warning}
 
 Cette page est inutile si vous avez une n0100, étant donné que vous pouvez changer entre un CFW et Epsilon sans bloquer votre calculatrice. La n0100 n'est pas compatible avec les bootloader custom.
