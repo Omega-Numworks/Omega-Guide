@@ -66,7 +66,7 @@ Use the version table below to select a method. A few things to note:
       <td style="text-align: center; font-weight: bold;"><a href="install-epsilon-18-2-0">Install Epsilon 18.2.0</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">19.0.0-20.4.0</td>
+      <td style="text-align: center; font-weight: bold;">19.0.0-21.2.0</td>
       <td style="text-align: center; font-weight: bold;"><a href="check-version-change-eligibility">Check version change eligibility</a></td>
     </tr>
   </tbody>
