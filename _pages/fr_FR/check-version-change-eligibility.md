@@ -20,7 +20,7 @@ Vous êtes éligible, vous pouvez continuer normalement
 
 ### Si vous avez Epsilon 19 ou au dessus
 
-Cela dépend de la version que vous aviez avant de mettre à jour
+Cela dépend de la version que vous aviez avant de mettre à jour vers Epsilon 19 et plus.
 
 - Si vous aviez 15 ou avant, Omega, ou Upsilon: Vous ne pouvez pas changer de version
 - Si vous aviez 16 à 18.2.3 (sauf 16.4.3): Vous pouvez changer de version
@@ -36,5 +36,5 @@ ___
 Si vous êtes éligible, continuez vers [Installer Epsilon 18.2.0](install-epsilon-18-2-0)
 {: .notice--primary}
 
-Si vous n'êtes pas éligible, [Que pouvez vous faire ?](what-to-do-locked)
+Si vous n'êtes pas éligible, vous devez utiliser une [méthode alternative](n0110-is-locked#méthodes-alternatives)
 {: .notice--info}
