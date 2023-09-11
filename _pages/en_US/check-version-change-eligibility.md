@@ -20,7 +20,7 @@ You are eligible, you can continue normally
 
 ### If you have Epsilon 19 or higher
 
-It depends on the version you had before updating to 
+It depends on the version you had before updating to Epsilon 19 and over.
 
 - If you had 15 or lower, Omega, or Upsilon: You can't change your version
 - If you had 16 to 18.2.3 (but not 16.4.3): You can change your version
