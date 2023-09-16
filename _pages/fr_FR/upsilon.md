@@ -43,6 +43,12 @@ Dans ce menu vous pouvez:
 
 Notez aussi qu'une fois votre calculatrice branchée à un PC, (a moins qu'elle soit en mode Recovery) votre calculatrice sera nommée "Upsilon Calculator" ou "Upsilon Bootloader" au lieu de "NumWorks Calculator".
 
+#### Section IV - Comment mettre à jour ?
+
+Pour mettre à jour Upsilon, ouvrez le "Install Mode" puis "Flash Slots" (voir ci-dessus comment faire), branchez votre calculatrice au PC, ouvrez le site web d'Upsilon, et installez-le normalement.
+
+Pour mettre à jour le bootloader, démarrez en mode recovery en cliquant sur reset en maintenant  la touche 6, branchez votre calculatrice au PC, ouvrez le site web d'Upsilon, connectez la calculatrice en mode de récupération, et installez Upsilon de cette manière.
+
 ### Fonctions facultatives
 
 Maintenant qu'Upsilon est installé, il y a certaines choses que vous pouvez faire:
