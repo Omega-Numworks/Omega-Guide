@@ -22,7 +22,7 @@ If you don't want to deeply modify your calculator, [there are still a few thing
 #### Prerequisites
 
 Numworks Calculator
-Driver if you have Windows or Linux: open the [Update page](https://numworks.com/update) on Numworks’ website and it will give it and tell you how to install it. **Don’t plug in your calculator to make sure you don’t lock it**. If you have macOS, you don't need it.
+Driver if you have Windows or Linux: open the [Rescue page](https://numworks.com/rescue) on Numworks’ website and it will give it and tell you how to install it. **Don’t plug in your calculator to make sure you don’t lock it**. If you have macOS, you don't need it.
 
 #### Model check
 

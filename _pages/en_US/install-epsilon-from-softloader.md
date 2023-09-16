@@ -37,7 +37,7 @@ Now you have Epsilon with a custom bootloader so your calculator isn't locked.
 
 Epsilon has normally been installed on both slots. So if you had a CFW, it has been erased, only the bootloader is remaining. To reinstall it you can do it normally from the bootloader or in recovery mode, just make sure you are not installing Epsilon again.
 
-It's recommanded to keep your CFW in Slot A.
+It's recommended to keep your CFW in Slot A.
 
 ### GG
 
