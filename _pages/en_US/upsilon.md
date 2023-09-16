@@ -43,6 +43,12 @@ In this menu you can:
 
 Also note that once plugged into the PC, (unless in recovery mode) your calculator will be named "Upsilon Calculator" or "Upsilon Bootloader" instead of "NumWorks Calculator".
 
+#### Section IV - How to update ?
+
+To update Upsilon, open Install Mode and Flash Slots (see above how to), plug your calculator in your PC, go to the Upsilon website, and install it normally.
+
+To update the bootloader, access recovery mode by pressing reset while holding 6, plug the calculator in your PC, go to the Upsilon website, connect your calculator in Recovery mode and install Upsilon this way.
+
 ### Optional features
 
 Now that Upsilon is installed, there are a few steps you can take:
