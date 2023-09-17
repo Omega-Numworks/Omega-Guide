@@ -1,6 +1,6 @@
 ---
 title: "Check version change eligibility"
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 ### Introduction

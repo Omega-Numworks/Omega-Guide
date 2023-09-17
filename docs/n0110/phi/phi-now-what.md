@@ -1,6 +1,6 @@
 ---
 title: "Now What (Phi) ?"
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 You now have multiple choices. You can:

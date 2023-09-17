@@ -1,8 +1,7 @@
 ---
 title: "Install Epsilon from softloader"
+sidebar_position: 4
 ---
-
-{% include toc title="Table of Contents" %}
 
 :::danger
 

@@ -1,11 +1,13 @@
 ---
 title: "Omega"
+sidebar_position: 2
 ---
 
-{% include toc title="Table of Contents" %}
+:::info
 
 You need an unlocked calculator. [To unlock it go here](get-started)
-{: .notice--info}
+
+:::
 
 This page will explain how to install Omega, assuming you have an unlocked calculator
 
@@ -61,7 +63,7 @@ Omega support external apps, there are a few but they are useful. Here is how to
 You can install Epsilon on the bootloader without locking the calculator.
 
 See [Install Epsilon from softloader](install-epsilon-from-softloader)
-{: .notice--primary}
+
 
 #### Create your own version
 

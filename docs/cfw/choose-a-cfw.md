@@ -1,9 +1,13 @@
 ---
 title: "Choose a CFW"
+sidebar_position: 1
 ---
 
+:::info
+
 You need an unlocked calculator. [To unlock it go here](get-started)
-{: .notice--info}
+
+:::
 
 There are multiple CFWs you can install on your calculator, most of them install in the same way. Here are a few of them
 
