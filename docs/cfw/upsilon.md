@@ -2,10 +2,9 @@
 title: "Upsilon"
 ---
 
-{% include toc title="Table of Contents" %}
-
+:::info
 You need an unlocked calculator. [To unlock it go here](get-started)
-{: .notice--info}
+:::
 
 This page will explain how to install Upsilon, assuming you have an unlocked calculator
 
@@ -43,7 +42,7 @@ In this menu you can:
 
 Also note that once plugged into the PC, (unless in recovery mode) your calculator will be named "Upsilon Calculator" or "Upsilon Bootloader" instead of "NumWorks Calculator".
 
-#### Section IV - How to update ?
+### Section IV - How to update ?
 
 To update Upsilon, open Install Mode and Flash Slots (see above how to), plug your calculator in your PC, go to the Upsilon website, and install it normally.
 

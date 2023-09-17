@@ -2,10 +2,9 @@
 title: "Omega"
 ---
 
-{% include toc title="Table of Contents" %}
-
+:::info
 You need an unlocked calculator. [To unlock it go here](get-started)
-{: .notice--info}
+:::
 
 This page will explain how to install Omega, assuming you have an unlocked calculator
 
@@ -36,7 +35,7 @@ There is a new "Slot" system. Your calculator has 2 slots and can store 2 firmwa
 - Hold 4 and press reset to open the bootloader, you will be able to see which slot contain which firmware and also be able to install any firmware without locking the calculator.
 - You can’t start another firmware if you enable exam mode, you have to disable it to do so
 
-#### Section IV - How to update ?
+### Section IV - How to update ?
 
 To update Omega, open the bootloader by holding 4 and pressing reset, plug your calculator in your PC, go to the Omega website, and install it normally.
 
