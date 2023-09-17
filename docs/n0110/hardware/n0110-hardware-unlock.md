@@ -1,5 +1,6 @@
 ---
 title: "Hardware unlock (N0110)"
+sidebar_position: 1
 ---
 
 ### Requiered reading

@@ -1,5 +1,6 @@
 ---
 title: "Install Epsilon from softloader"
+sidebar_position: 4
 ---
 
 :::danger

@@ -1,6 +1,6 @@
 ---
 title: "Install Epsilon 18.2.0"
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 ### Required Reading

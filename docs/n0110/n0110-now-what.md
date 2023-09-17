@@ -23,9 +23,7 @@ you can install a patched bootloader :
 You can now hold 4 and reset. You'll boot into the soft bootloader. From there, you can install Epsilon from [Numworks' website](https://my.numworks.com/devices/upgrade).
 
 Continue to [Final checks](final-checks)
-{: .notice--primary}
 
 ### Choice II - Install a CFW
 
 Go to [choose a CFW](choose-a-cfw)
-{: .notice--primary}
