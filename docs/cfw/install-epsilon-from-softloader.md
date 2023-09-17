@@ -11,7 +11,7 @@ Following this guide may put your calculator at risk. Installing Epsilon on your
 
 :::caution
 
-The latest Epsilon version may not be safe, check the latest version [for n0110](https://my.numworks.com/firmwares/n0110/stable.json) (Logged in Numworks account requiered). Latest known safe version: **21.2.0**
+The latest Epsilon version may not be safe, check the latest version. Latest known safe version: **21.2.0**
 
 :::
 
