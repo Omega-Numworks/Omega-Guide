@@ -21,8 +21,11 @@ This page will tell you if you need to unlock your calculator and how.
 If you see a screen like this one, you can proceed :
 ![Epsilon 16 bootloader](images/screenshots/e16bl.png)
 
+:::caution
+
 If the screen stays black and the LED turns red, STOP - your calculator is already unlocked! Continue from [here](n0110-now-what).
-{: .notice--warning}
+
+:::
 
 Press the reset button at the back of the calculator to return to the firmware.
 

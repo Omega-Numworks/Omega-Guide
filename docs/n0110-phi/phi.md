@@ -37,7 +37,7 @@ If the screen turns Yellow, the version or Epsilon you're using isn't yet suppor
 
 :::
 
-:::warning
+:::caution
 
 If the screen turns Red, the exploit failed. Reset the calculator and try again. If it doesn't work the second time, please join the [Omega Discord](https://discord.gg/X2TWhh9).
 

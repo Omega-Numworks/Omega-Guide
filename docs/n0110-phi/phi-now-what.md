@@ -19,7 +19,7 @@ The "Write flash" stage can take a bit of time. You'll be put back on the main m
 
 Press 4, then OK. You should now boot back into Epsilon.
 
-:::warning
+:::caution
 
 If you don't boot back into Epsilon, please join the [Omega Discord](https://discord.gg/X2TWhh9) and ask for help.
 
