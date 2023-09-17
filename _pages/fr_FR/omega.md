@@ -36,6 +36,12 @@ Il y a un nouveau système de "Slot". Votre calculatrice a 2 slots et peut stock
 - Maintenez 4 et appuyez sur reset pour ouvrir le bootloader, vous serez en mesure de voir quel slot contient quel firmware et vous pourrez installer n'importe quel firmware sans bloquer la calculatrice.
 - Vous ne pouvez pas lancer un autre firmware si vous activez le mode examen, vous devez le désactiver pour le faire
 
+#### Section IV - Comment mettre à jour ?
+
+Pour mettre à jour Omega, ouvrez le bootloader en maintenant 4 et en appuyant sur reset, branchez votre calculatrice au PC, ouvrez le site web d'Omega, et installez-le normalement.
+
+Pour mettre à jour le bootloader, démarrez en mode recovery en cliquant sur reset en maintenant  la touche 6, branchez votre calculatrice au PC, ouvrez le site web d'Omega, connectez la calculatrice en mode recovery, et installez Omega de cette manière.
+
 ### Fonctions facultatives
 
 Maintenant qu'Omega est installé, il y a certaines choses que vous pouvez faire:
@@ -50,7 +56,7 @@ Omega supporte les applis externes, il y en a quelques unes mais elles sont util
 5. Activez le support des icones si vous voulez de jolies icones sur vos applis
 6. Cliquez sur installer
 
-#### Installer Epsilon (not for n0100)
+#### Installer Epsilon (Non compatible avec la n0100)
 
 Vous pouvez installer Epsilon sur bootloader sans bloquer le calculatrice.
 

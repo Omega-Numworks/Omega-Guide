@@ -7,7 +7,8 @@ title: "Install Epsilon from softloader"
 Following this guide may put your calculator at risk. Installing Epsilon on your calculator the wrong way may lock it. **STRICTLY** follow what's said on this page to make sure your calculator is safe
 {: .notice--warning}
 
-The latest Epsilon version may not be safe, check the latest version [here](https://numvercheck.deno.dev) (no login) or [here only for n0110](https://my.numworks.com/firmwares/n0110/stable.json) (Logged in Numworks account requiered). Latest known safe version: **21.1.1**
+The latest Epsilon version may not be safe, check the latest version [here](https://numvercheck.deno.dev) (no login) or [here only for n0110](https://my.numworks.com/firmwares/n0110/stable.json) (Logged in Numworks account requiered). Latest known safe version: **21.2.0**
+
 {: .notice--warning}
 
 This page is irrelevant if you have an n0100, because you can switch between any CFW and Epsilon without locking your calculator. And the n0100 can't have any custom bootloader.
@@ -37,7 +38,7 @@ Now you have Epsilon with a custom bootloader so your calculator isn't locked.
 
 Epsilon has normally been installed on both slots. So if you had a CFW, it has been erased, only the bootloader is remaining. To reinstall it you can do it normally from the bootloader or in recovery mode, just make sure you are not installing Epsilon again.
 
-It's recommanded to keep your CFW in Slot A.
+It's recommended to keep your CFW in Slot A.
 
 ### GG
 

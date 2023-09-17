@@ -16,13 +16,13 @@ Cette page expliquera comment installer Upsilon, en considérant que vous avez u
 
 ### Section I - Préparer le mode Recovery
 
-si votre modèle est n0110, entrez le mode Recovery en mainteant "6" et en appuyant sur "reset"
-si votre modèle est n0110, entrez le mode Recovery en branchant votre calculatrice et en appuyant sur "reset"
+Si votre modèle est n0110, entrez le mode Recovery en mainteant "6" et en appuyant sur "reset"
+Si votre modèle est n0110, entrez le mode Recovery en branchant votre calculatrice et en appuyant sur "reset"
 
 ### Section II - Installation d'Upsilon
 
 1. Ouvrez [le site web d'Upsilon]([https://getomega.dev/install](https://getupsilon.web.app/install))
-2. Cloquez sur "Mode de récupération" et sélectionnez "STM32 BOOTLOADER"
+2. Cliquez sur "Mode de récupération" et sélectionnez "STM32 BOOTLOADER"
 3. Attendez un peu jusqu'a ce que la calculatrice affiche "Recovery Mode" sur l'écran
 4. Si la calculatrice n'est pas connectée automatiquement, cliquez sur "Connecter" et sélectionnez "Numworks Calculator"
 5. Sélectionnez vos paramètres comme le thème. Pour le slot, si vous ne savez pas lequel choisir, sélectionnez "A"
@@ -42,6 +42,12 @@ Dans ce menu vous pouvez:
 - Ouvrir "Install mode". Il y a 2 modes: Flash Slots, qui permet d'installer n'importe quel autre firmware en toute sécurité, et Flash Bootloader, qui permer de mettre à jour le bootloader en lançant le mode Recovery (il pourrait ne pas marcher, pour accéder au mide Recovery vous pouvez toujours utiliser 6 + reset)
 
 Notez aussi qu'une fois votre calculatrice branchée à un PC, (a moins qu'elle soit en mode Recovery) votre calculatrice sera nommée "Upsilon Calculator" ou "Upsilon Bootloader" au lieu de "NumWorks Calculator".
+
+#### Section IV - Comment mettre à jour ?
+
+Pour mettre à jour Upsilon, ouvrez le "Install Mode" puis "Flash Slots" (voir ci-dessus comment faire), branchez votre calculatrice au PC, ouvrez le site web d'Upsilon, et installez-le normalement.
+
+Pour mettre à jour le bootloader, démarrez en mode recovery en cliquant sur reset en maintenant  la touche 6, branchez votre calculatrice au PC, ouvrez le site web d'Upsilon, connectez la calculatrice en mode de récupération, et installez Upsilon de cette manière.
 
 ### Fonctions facultatives
 

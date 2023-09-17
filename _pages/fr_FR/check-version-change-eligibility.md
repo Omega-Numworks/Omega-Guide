@@ -4,7 +4,7 @@ title: "Vérifier l'éligibilité au changement de version"
 
 ### Introduction
 
-Vous pourriez avoir besoin de changer la version de votre calculatrice, nous installaons couremment Epsilon 18.2.0. Il y a certains cas où vous pouvez installer Epsilon 18.2.0 et d'autre où vous ne pouvez pas. Cette page explique comment savoir si vous êtes éligible ou non.
+Vous pourriez avoir besoin de changer la version de votre calculatrice, nous installons couramment Epsilon 18.2.0. Il y a certains cas où vous pouvez installer Epsilon 18.2.0 et d'autre où vous ne pouvez pas. Cette page explique comment savoir si vous êtes éligible ou non à ce changement.
 
 ### Si vous avez Epsilon 15 et avant
 
@@ -20,7 +20,7 @@ Vous êtes éligible, vous pouvez continuer normalement
 
 ### Si vous avez Epsilon 19 ou au dessus
 
-Cela dépend de la version que vous aviez avant de mettre à jour
+Cela dépend de la version que vous aviez avant de mettre à jour vers Epsilon 19 et plus.
 
 - Si vous aviez 15 ou avant, Omega, ou Upsilon: Vous ne pouvez pas changer de version
 - Si vous aviez 16 à 18.2.3 (sauf 16.4.3): Vous pouvez changer de version
@@ -33,8 +33,8 @@ Si vous n'étiez pas éligible, après la manipulation, la calculatrice sera blo
 
 ___
 
-Si vous êtes éligible, continuez vers [Install Epsilon 18.2.0](install-epsilon-18-2-0)
+Si vous êtes éligible, continuez vers [Installer Epsilon 18.2.0](install-epsilon-18-2-0)
 {: .notice--primary}
 
-Si vous n'êtes pas éligible, [Que pouvez vous faire ?](what-to-do-locked)
+Si vous n'êtes pas éligible, vous devez utiliser une [méthode alternative](n0110-is-locked#méthodes-alternatives)
 {: .notice--info}
