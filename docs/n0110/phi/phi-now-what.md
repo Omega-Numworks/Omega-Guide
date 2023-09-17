@@ -13,7 +13,7 @@ If you wish to continue using Epsilon >= 16 while still being able to install a 
 1. Press 3
 2. Press OK to confirm
 3. You should see something like this :
-![Phi launch screen](images/screenshots/phi-write.png)
+![Phi launch screen](img/phi-write.png)
 
 The "Write flash" stage can take a bit of time. You'll be put back on the main menu after a second, when the flashing is done.
 
@@ -26,9 +26,7 @@ If you don't boot back into Epsilon, please join the [Omega Discord](https://dis
 :::
 
 ### Continue to [Final checks](final-checks)
-{: .notice--primary}
 
 ## Choice II - Install a CFW
 
 Go to [choose a CFW](choose-a-cfw)
-{: .notice--primary}

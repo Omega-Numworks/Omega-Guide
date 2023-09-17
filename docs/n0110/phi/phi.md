@@ -29,7 +29,7 @@ The exploit used at the moment is compatible with Epsilon 16.3.0 trough 18.2.0.
 2. Press OK
 3. The screen should blink and you should see a screen similar to this one:
 
-![Phi launch screen](images/screenshots/phi-launch.png)
+![Phi launch screen](img/phi-launch.png)
 
 :::info
 
@@ -50,7 +50,7 @@ We are now going to unlock the internal flash and remove the write protection:
 1. Press 1 to unlock the internal flash.
 2. Press OK to confirm
 3. You should see something like this :
-![Phi unlock screen](images/screenshots/phi-unlock.png)
+![Phi unlock screen](img/phi-unlock.png)
 
 The "Reset RDP" stage can take a bit of time. You'll be put back on the main menu after a second, when the unlocking is done.
 
@@ -61,7 +61,7 @@ Removing the write protection should have erased the internal flash, but we are 
 1. Press 2 to reset the internal flash
 2. Press OK to confirm
 3. You should see something like this :
-![Phi erase screen](images/screenshots/phi-erase.png)
+![Phi erase screen](img/phi-erase.png)
 
 The "Erase flash" stage can take a bit of time. You'll be put back on the main menu after a second, when the erasing is done.
 
