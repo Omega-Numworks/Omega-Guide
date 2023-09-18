@@ -5,7 +5,7 @@ sidebar_position: 1
 
 ### Requiered reading
 
-The hardware unlock way requieres special tools.
+The hardware unlock way require special tools.
 
 The goal is to force recovery mode to allow installation, your calculator should show a black screen and a red LED.
 

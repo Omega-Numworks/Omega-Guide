@@ -9,7 +9,7 @@ We will now install Epsilon 18.2.0
 
 :::info
 
-If you are not sure if you can install Epsilon 18.2.0, go check [this page](check-version-change-eligibility)
+If you are not sure if you can install Epsilon 18.2.0, go check [this page](/docs/n0110/phi/check-version-change-eligibility)
 
 :::
 
@@ -19,7 +19,7 @@ If you are not sure if you can install Epsilon 18.2.0, go check [this page](chec
 - A chromium-based browser (we recommend using [chromium](https://www.chromium.org/chromium-projects/) directly)
 - Epsilon 18.2.0 `18-2-0.dfu` (since Numworks deleted this file from their website because of Phi, we cannot give you a link here)
 - Python ([Link for Windows and macOS](https://www.python.org/))
-- This Python script: [Linux and macOS version](images/unpack.py), [Windows version](images/unpack-win.py)
+- This Python script: [Linux and macOS version](/resources/unpack.py), [Windows version](/resources/unpack-win.py)
 
 ### Section I - Extracting the external binary
 

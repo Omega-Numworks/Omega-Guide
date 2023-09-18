@@ -26,4 +26,4 @@ Continue to [Final checks](final-checks)
 
 ### Choice II - Install a CFW
 
-Go to [choose a CFW](choose-a-cfw)
+Go to [choose a CFW](/docs/cfw/choose-a-cfw)

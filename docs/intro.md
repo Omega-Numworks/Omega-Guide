@@ -17,7 +17,7 @@ This guide will refer to some names, before starting you have to know what these
 
 :::info
 
-If you don't want to deeply modify your calculator, [there are still a few things you can do](what-to-do-locked).
+If you don't want to deeply modify your calculator, [there are still a few things you can do](no-custom/what-to-do-locked).
 
 :::
 
@@ -38,7 +38,7 @@ Driver if you have Windows or Linux: open the [Rescue page](https://numworks.com
 
 | Calculator Model | What to do                                                                                      |
 |------------------|-------------------------------------------------------------------------------------------------|
-| N0100            | [Your calculator is already unlocked](n0100-now-what)                                           |
-| N0110            | [Check if your calculator is locked](n0110-is-locked)                                           |
+| N0100            | [Your calculator is already unlocked](/docs/n0100/n0100-now-what)                                           |
+| N0110            | [Check if your calculator is locked](/docs/n0110/n0110-is-locked)                                           |
 | N0115            | OMEGA NEEDS YOU                                                                                 |
-| N0120            | [You can't install a CFW on it. But there are still a few things you can do](what-to-do-locked) |
+| N0120            | [You can't install a CFW on it. But there are still a few things you can do](/docs/no-custom/what-to-do-locked) |
