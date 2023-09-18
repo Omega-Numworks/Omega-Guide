@@ -3,6 +3,10 @@ sidebar_position: 1
 title: Get Started
 ---
 
+:::caution
+Thoroughly read all of the introductory pages (including this one!) before proceeding.
+:::
+
 **Before starting this guide, you need to understand some words you will see in this guide.**
 
 ### Definitions
