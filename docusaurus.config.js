@@ -114,6 +114,10 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/Omega-Numworks/Omega-Guide',
               },
+              {
+                label: 'Credits',
+                href: '/docs/credits',
+              },
             ],
           },
         ],

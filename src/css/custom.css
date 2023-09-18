@@ -29,6 +29,7 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 .hero {
+  background-color: transparent;
   background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)), url('/img/home-page-feature.jpg');
 }
 .hero--primary {

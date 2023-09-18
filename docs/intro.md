@@ -40,5 +40,5 @@ Driver if you have Windows or Linux: open the [Rescue page](https://numworks.com
 |------------------|-------------------------------------------------------------------------------------------------|
 | N0100            | [Your calculator is already unlocked](/docs/n0100/n0100-now-what)                                           |
 | N0110            | [Check if your calculator is locked](/docs/n0110/n0110-is-locked)                                           |
-| N0115            | OMEGA NEEDS YOU                                                                                 |
+| N0115            | Go to the [Omega Community Discord](https://discord.gg/X2TWhh9), we need you                                                                               |
 | N0120            | [You can't install a CFW on it. But there are still a few things you can do](/docs/no-custom/what-to-do-locked) |
