@@ -19,7 +19,7 @@ This page will tell you if you need to unlock your calculator and how.
 2. While pressing the "6" key, press the reset button at the back of the device.
 
 If you see a screen like this one, you can proceed :
-![Epsilon 16 bootloader](images/screenshots/e16bl.png)
+![Epsilon 16 bootloader](img/e16bl.png)
 
 :::caution
 
