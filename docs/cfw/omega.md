@@ -5,7 +5,7 @@ sidebar_position: 2
 
 :::info
 
-You need an unlocked calculator. [To unlock it go here](get-started)
+You need an unlocked calculator. [To unlock it go here](/docs/intro)
 
 :::
 
@@ -62,7 +62,7 @@ Omega support external apps, there are a few but they are useful. Here is how to
 
 You can install Epsilon on the bootloader without locking the calculator.
 
-See [Install Epsilon from softloader](install-epsilon-from-softloader)
+See [Install Epsilon from softloader](/docs/cfw/install-epsilon-from-softloader)
 
 
 #### Create your own version

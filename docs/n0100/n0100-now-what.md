@@ -9,4 +9,4 @@ Due to technical limitations on the hardware of this model, Numworks decided not
 
 ___
 
-You can now [choose a CFW](choose-a-cfw)
+You can now [choose a CFW](/docs/cfw/choose-a-cfw)

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 6
 title: "Troubleshooting"
 ---
 
@@ -12,7 +13,7 @@ Your calculator is in Recovery mode, it's waiting to receive a firmware, so it's
 
 This is Numworks' bootloader. It shows up when the calculator is locked and you started the Recovery mode by holding 6 and pressing reset, or when the calculator couldn't start.
 
-If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](install-epsilon-18-2-0).
+If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](/docs/n0110/phi/install-epsilon-18-2-0).
 
 ### Black screen, nothing else
 
@@ -134,7 +135,5 @@ If you want to use KhiCAS, you will need to reinstall it.
 ___
 
 :::info
-
-### Is you error not listed ? The provided solution didn't fix your problem ? Don't hesitate to ask on the [Omega Discord](https://discord.gg/X2TWhh9)
-
+Is you error not listed ? The provided solution didn't fix your problem ? Don't hesitate to ask on the [Omega Discord](https://discord.gg/X2TWhh9)
 :::
