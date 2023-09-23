@@ -9,7 +9,7 @@ You will also learn a bit from the history of the calculator
 
 First, understand that the power button of the calculator only put the it in sleep mode, instead of powering it down completely. The calculator powers on automatically when the battery is connected. The reset button on the back only cuts the power while it's held. When you release it, the calculator powers on.
 
-There are currently 3 models of Numworks calculators: n0100, n0110, n0115, n0120.
+There are currently 4 models of Numworks calculators: n0100, n0110, n0115, n0120.
 
 The calculator uses a MCU (Microcontroller Unit) made by ST Microelectronics to do all the work.
 - The MCU used in n0100 is the [STM32F412](https://www.st.com/en/microcontrollers-microprocessors/stm32f412.html). This one has one storage partition, named "flash" because it's flash memory.
