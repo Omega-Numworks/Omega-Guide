@@ -9,18 +9,19 @@ Vous allez également en apprendre un peu sur l'histoire de la calculatrice
 
 D'abord, sachez que le bouton power de la calculatrice ne la met qu'en mode veille, au lieu de l'éteindre complètement. La calculatrice s'allume automatiquement quand la batterie est connectée. Le bouton reset au dos coupe simplement l'alimentation tant qu'il est maintenu. Quand vous le relachez, la calculatrice s'allume.
 
-Il y a actuellement 3 modèles de calculatrice Numworks: n0100, n0110, n0120.
+Il y a actuellement 4 modèles de calculatrice Numworks: n0100, n0110, n0115, n0120.
 
 La calculatrice utilise un MCU (Microcontroller Unit) fait par STMicroelectronics pour tout faire.
 - Le MCU utilisé dans la n0100 est le [STM32F412](https://www.st.com/en/microcontrollers-microprocessors/stm32f412.html). Il a une partition de stockage, nommée "flash" car c'est de la mémoire flash.
-- Le MCU utilisé dans la n0110 est le [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). Il a 2 flashs. Nommées "interne" et "externe"
+- Le MCU utilisé dans les n0110 et n0115 est le [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). Il a 2 flashs. Nommées "interne" et "externe"
 - Le MCU utilisé dans la n0120 est le [STM32H725](https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735.html). Il a également 2 flashs, mais est aussi plus puissant que celui de la n0110
 
 On peut donc faire 2 catégories:
 - n0100: Avec flash interne uniquement
-- n0110 et n0120: Avec flash interne et externe
+- n0110, n0115 et n0120: Avec flash interne et externe
 
 Toutes les calculatrices, grâce au MCU, ont un mode Recovery. il est habituellement accédé en maintenant 6 pendant que la calculatrice démarre (sur la n0100 il doit être branché à un PC quand il démarre, vous n'avez pas besoin de maintenir 6). il est représenté par un écran noir avec la LED allumée en rouge. Mais si vous essayez, il se peut que cela ne fasse pas ça, nous comprendrons pourquoi après.
+Sur n0115, le mode Recovery n'est pas accessible comme ça.
 {: .notice--info}
 
 ### 2 - Comment le matériel est-il utilisé ?

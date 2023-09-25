@@ -27,7 +27,7 @@ Driver if you have Windows or Linux: open the [Rescue page](https://numworks.com
 #### Model check
 
 1. Turn your calculator around
-2. On its back, there should be a little writing, either N0120, N0110 or N0100. This is your model number.
+2. On its back, there should be a little writing, starting with a `N`. This is your model number.
 3. If you can't read that:
     1. Turn the calculator on
     2. Go in the settings app
@@ -55,7 +55,7 @@ Driver if you have Windows or Linux: open the [Rescue page](https://numworks.com
       <td style="text-align: center; font-weight: bold;"><a href="n0110-is-locked">Check if your calculator is locked</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">N0120</td>
+      <td style="text-align: center; font-weight: bold;">N0115 - N0120</td>
       <td style="text-align: center; font-weight: bold;"><a href="what-to-do-locked">You can't install a CFW on it. But there are still a few things you can do</a></td>
     </tr>
   </tbody>

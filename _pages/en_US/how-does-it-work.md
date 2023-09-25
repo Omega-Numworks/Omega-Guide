@@ -9,18 +9,19 @@ You will also learn a bit from the history of the calculator
 
 First, understand that the power button of the calculator only put the it in sleep mode, instead of powering it down completely. The calculator powers on automatically when the battery is connected. The reset button on the back only cuts the power while it's held. When you release it, the calculator powers on.
 
-There are currently 3 models of Numworks calculators: n0100, n0110, n0120.
+There are currently 4 models of Numworks calculators: n0100, n0110, n0115, n0120.
 
 The calculator uses a MCU (Microcontroller Unit) made by ST Microelectronics to do all the work.
 - The MCU used in n0100 is the [STM32F412](https://www.st.com/en/microcontrollers-microprocessors/stm32f412.html). This one has one storage partition, named "flash" because it's flash memory.
-- The MCU used in n0110 is the [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). This one has 2 flashs. Named "internal" and "external"
+- The MCU used in n0110 and n0115 is the [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). This one has 2 flashs. Named "internal" and "external"
 - The MCU used in n0120 is the [STM32H725](https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735.html). This one also has 2 flashs, but is also more powerful than n0110's one
 
 So we can make 2 categories:
 - n0100: With internal flash only
-- n0110 and n0120: With internal and external flash
+- n0110, n0115 and n0120: With internal and external flash
 
 Every calculator, thanks to the MCU, has a recovery mode. It can usually be accessed by holding 6 while the calculator is starting (on n0100 it has to be plugged into a PC when it starts, you don't need to hold 6). It's represented by a black screen with the LED turned on red. But if you try it may not behave like this, we will understand why later.
+On n0115, Recovery mode can't be accessed this way.
 {: .notice--info}
 
 ### 2 - How is the hardware used ?

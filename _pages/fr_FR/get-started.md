@@ -27,7 +27,7 @@ Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujour
 #### Vérification du modèle
 
 1. Retournez votre calculatrice.
-2. Sur son dos, il devrait y avoir une petite écriture, soit N0120, N0110 ou N0100. Ceci est votre numéro de modèle.
+2. Sur son dos, il devrait y avoir une petite écriture, commençant par un `N`. Ceci est votre numéro de modèle.
 3. Si vous n'arrivez pas à lire cela :
     1. Allumez la calculatrice
     2. Allez dans l'application des paramètres
@@ -55,7 +55,7 @@ Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujour
       <td style="text-align: center; font-weight: bold;"><a href="n0110-is-locked">Vérifiez si votre calculatrice est verrouillée.</a></td>
     </tr>
     <tr>
-      <td style="text-align: center; font-weight: bold;">N0120</td>
+      <td style="text-align: center; font-weight: bold;">N0115 - N0120</td>
       <td style="text-align: center; font-weight: bold;"><a href="what-to-do-locked">Vous ne pouvez pas installer de CFW dessus. Mais il y a toujours certaines choses que vous pouvez faire</a></td>
     </tr>
   </tbody>
