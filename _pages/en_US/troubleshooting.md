@@ -34,17 +34,27 @@ There are 2 possible reasons:
 
 ### Calculator not detected
 
-it means the driver or config file isn't installed on Windows or Linux.
+There can be multiple reasons: You may not be clicking the right button, or the driver or config file isn't installed on Windows or Linux.
 
-Open the [Update page](https://numworks.com/update/) on Numworks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it**
+Make sure you if you are in Recovery mode you click on the "Recovery" button and not on "Detect Calculator".
 
-If you are using Linux, it may still not be detected. It can happen if your web browser is installed as a flatpak.
+To get the driver, open the [Rescue page](https://numworks.com/rescue/) on Numworks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it**
 
-In this case, you will need to install [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), select your web browser, and add `/run/udev` in the "Other files" into the "Filesystem" category.
+If you are using Linux, it may still not be detected. It can happen if your web browser is installed as a flatpak or a snap.
+
+If you use flatpak, you will need to install [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), select your web browser, and add `/run/udev` in the "Other files" into the "Filesystem" category.
 
 You can also run this command: `flatpak override --user --filesystem=/run/udev [Application ID]` (Replace `[Application ID]` with your web browser's ID, try to run `flatpak list` to find it)
 
+If you use snap, run this command: `snap connect [Application ID]:raw-usb` (Replace `[Application ID]` with your web browser's ID, try to run `snap list` to find it)
+
 Don't forget that you may need to restart your web browser if you unplug and replug the calculator.
+
+### Recovery mode (Black Screen + Red Led), calculator not recognized
+
+Your calculator looks like it's in recovery mode but it isn't.
+
+Hold 6 and click reset to start it in recovery mode, it will look the same but this time, it will be recognized.
 
 ### "CommandName is not defined"
 
@@ -63,12 +73,6 @@ This can easily be fixed if you close the tab or software already connected to i
 This means your calculator is protected against CFM installation. If you want to install CFW, you need to unlock it.
 
 Follow [this guide](get-started) to unlock it.
-
-### Recovery mode (Black Screen + Red Led), calculator not recognized
-
-Your calculator looks like it's in recovery mode but it isn't.
-
-Hold 6 and click reset to start it in recovery mode, it will look the same but this time, it will be recognized.
 
 ### "Memory is corrupted" when adding python scripts
 
