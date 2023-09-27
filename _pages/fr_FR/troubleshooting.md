@@ -31,13 +31,15 @@ Si cela ne résout pas le problème, contactez Numworks.
 
 Il y a 2 raisons possibles:
 - Vous avez activé l'horloge dans les paramètres, certains firmwares en contiennent une. L'horloge consome beaucoup de batterie et il est fartement recommandé de la désactiver.
-- Votre calculatrice garde la LED verte. C'est un problème matériel qui fait penser à la calulatrice qu'elle est constemment e ntrain de charger et donc batterie pleine alors que ce n'est pas le cas. Vous devriez contacter Numworks pour remplacer votre calculatrice.
+- Votre calculatrice garde la LED verte. C'est un problème matériel qui fait penser à la calulatrice qu'elle est constemment en train de charger et donc batterie pleine alors que ce n'est pas le cas. Vous devriez contacter Numworks pour remplacer votre calculatrice.
 
 ### Calculatrice non détectée
 
 Il ya plusieurs raisons possibles: Soit vous ne cliquez pas sur le bon bouton, soit le driver ou le fichier de configuration n'est pas installé sur Windows ou Linux
 
-Ouvrez la [page de mise à jour](https://numworks.com/update/) sur le site de Numworks et il va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatrice pour être sûr de ne pas la bloquer.**
+Soyez sur d'utiliser le bon bouton, si votre calculatrice est en mode Recovery, appuyez sur le bouton "Récupération" et pas "Détecter la calculatrice".
+
+Pour récupérer le driver ouvrez la [page de récupération](https://numworks.com/rescue/) sur le site de Numworks et il va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatrice pour être sûr de ne pas la bloquer.**
 
 Si vous êtes sur Linux, il se peut qu'elle ne soit toujours pas détectée. Cela arrive si votre navigateur web est installé au format flatpak ou snap.
 
