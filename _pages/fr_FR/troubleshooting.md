@@ -35,17 +35,25 @@ Il y a 2 raisons possibles:
 
 ### Calculatrice non détectée
 
-Ça vaut dire que le driver ou le fichier de configuration n'est pas installé sur Windows ou Linux
+Il ya plusieurs raisons possibles: Soit vous ne cliquez pas sur le bon bouton, soit le driver ou le fichier de configuration n'est pas installé sur Windows ou Linux
 
 Ouvrez la [page de mise à jour](https://numworks.com/update/) sur le site de Numworks et il va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatrice pour être sûr de ne pas la bloquer.**
 
-Si vous êtes sur Linux, il se peut qu'elle ne soit toujours pas détectée. Cela arrive si votre navigateur web est installé au format flatpak.
+Si vous êtes sur Linux, il se peut qu'elle ne soit toujours pas détectée. Cela arrive si votre navigateur web est installé au format flatpak ou snap.
 
-Dans ce cas, il vous faudra installer l'application [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), sélectionner votre navigateur, et ajouter `/run/udev` dans les "Autres fichiers" dans la catégorie "Filesystem".
+Dans le cas du Flatpak, il vous faudra installer l'application [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), sélectionner votre navigateur, et ajouter `/run/udev` dans les "Autres fichiers" dans la catégorie "Filesystem".
 
 Vous pouvez également exécuter la commande: `flatpak override --user --filesystem=/run/udev [Application ID]` (Remplacez `[Application ID]` par l'ID de votre navigateur, n'hésitez pas à faire `flatpak list` pour le trouver)
 
+Dans le cas du Snap, exécutez la commande: `snap connect [Application ID]:raw-usb` (Remplacez `[Application ID]` par l'ID de votre navigateur, n'hésitez pas à faire `snap list` pour le trouver)
+
 Notez bien que redémarrer le navigateur risque d'être nécessaire si vous débranchez et rebranchez la calculatrice.
+
+### Mode Recovery (écran noir + LED rouge), mais calculatrice non reconnue sur l'ordinateur.
+
+Votre calculatrice a l'air d'être en mode Recovery mais elle ne l'est pas
+
+Maintenez 6 et cliquez sur reset pour la démarrer en mode Recovery, ça aura l'air d'être pareil mais cette fois, elle sera reconnue.
 
 ### "CommandName is not defined"
 
@@ -65,12 +73,6 @@ Il ne peut y avoir qu'un seul onglet (ou logiciel) établissant une connexion à
 Cela veut dire que votre calculatrice est verrouillée contre l'installation de CFW. Si vous voulez installer un CFW, vous avec besoin de la débloquer.
 
 Suivez [ce guide](get-started) pour la débloquer.
-
-### Mode Recovery (écran noir + LED rouge), mais calculatrice non reconnue sur l'ordinateur.
-
-Votre calculatrice a l'air d'être en mode Recovery mais elle ne l'est pas
-
-Maintenez 6 et cliquez sur reset pour la démarrer en mode Recovery, ça aura l'air d'être pareil mais cette fois, elle sera reconnue.
 
 ### "Mémoire corrompue" en essayant d'ajouter des scripts Python
 
