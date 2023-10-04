@@ -21,7 +21,7 @@ Si votre modèle est n0110, entrez le mode Recovery en branchant votre calculatr
 
 ### Section II - Installation d'Upsilon
 
-1. Ouvrez [le site web d'Upsilon]([https://getomega.dev/install](https://getupsilon.web.app/install))
+1. Ouvrez [le site web d'Upsilon](https://getupsilon.web.app/install)
 2. Cliquez sur "Mode de récupération" et sélectionnez "STM32 BOOTLOADER"
 3. Attendez un peu jusqu'a ce que la calculatrice affiche "Recovery Mode" sur l'écran
 4. Si la calculatrice n'est pas connectée automatiquement, cliquez sur "Connecter" et sélectionnez "Numworks Calculator"
