@@ -1,5 +1,7 @@
 ---
 title: "Restore Stock Firmware"
+pagination_next: null
+pagination_prev: null
 ---
 
 :::danger

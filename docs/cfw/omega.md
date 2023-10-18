@@ -1,6 +1,8 @@
 ---
 title: "Omega"
 sidebar_position: 2
+pagination_next: null
+pagination_prev: cfw/choose-a-cfw
 ---
 
 :::info
