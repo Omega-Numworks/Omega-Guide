@@ -1,6 +1,8 @@
 ---
 title: "Is your calculator locked ? (N0110)"
 sidebar_position: 1
+pagination_next: null
+pagination_prev: intro
 ---
 
 This page will tell you if you need to unlock your calculator and how.
@@ -38,12 +40,12 @@ Use the version table below to select a method. A few things to note:
 
 | System Version | What to do                                                           |
 |----------------|----------------------------------------------------------------------|
-| 11.2.0-16.2.0  | [Now what ?](n0110-now-what)                                         |
-| 16.3.0-16.4.2  | [Phi](phi)                                                           |
-| 16.4.3         | [Install Epsilon 18.2.0](install-epsilon-18-2-0)                     |
-| 17.0.0-18.2.0  | [Phi](phi)                                                           |
-| 18.2.3         | [Install Epsilon 18.2.0](install-epsilon-18-2-0)                     |
-| 19.0.0-21.2.0  | [Check version change eligibility](check-version-change-eligibility) |
+| 11.2.0-16.2.0  | [Now what ?](n0110-unlocked)                                         |
+| 16.3.0-16.4.2  | [Phi](phi/phi)                                                           |
+| 16.4.3         | [Install Epsilon 18.2.0](phi/install-epsilon-18-2-0)                     |
+| 17.0.0-18.2.0  | [Phi](phi/phi)                                                           |
+| 18.2.3         | [Install Epsilon 18.2.0](phi/install-epsilon-18-2-0)                     |
+| 19.0.0-21.2.0  | [Check version change eligibility](phi/check-version-change-eligibility) |
 
 ---
 #### Alternate Methods
@@ -52,4 +54,4 @@ If possible, you should follow one of the software methods listed above.
 
 Otherwise, methods that work on all versions are available, but require additional hardware:
 
-1. [Hardware Unlock](n0110-hardware-unlock) - requires special tools
+1. [Hardware Unlock](hardware/n0110-hardware-unlock) - requires special tools

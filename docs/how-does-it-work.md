@@ -1,6 +1,8 @@
 ---
 sidebar_position: 8
 title: "How does it work ?"
+pagination_next: null
+pagination_prev: null
 ---
 
 This page is made to explain how does the calculator work and what happens when we unlock it

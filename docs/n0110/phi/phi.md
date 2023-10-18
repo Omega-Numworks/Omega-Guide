@@ -1,6 +1,7 @@
 ---
 title: "Installing Phi"
 sidebar_position: 3
+pagination_next: n0110/n0110-unlocked
 ---
 
 ### Required Reading
@@ -67,3 +68,20 @@ Removing the write protection should have erased the internal flash, but we are 
 
 The "Erase flash" stage can take a bit of time. You'll be put back on the main menu after a second, when the erasing is done.
 
+### Section V - Installing a custom bootloader
+
+1. Press 3
+2. Press OK to confirm
+3. You should see something like this :
+
+![Phi launch screen](/img/phi-write.png)
+
+The "Write flash" stage can take a bit of time. You'll be put back on the main menu after a second, when the flashing is done.
+
+Press 4, then OK. You should now boot back into Epsilon.
+
+:::info
+
+If you don't boot back into Epsilon, don't worry, installing a CFW will fix it later.
+
+:::

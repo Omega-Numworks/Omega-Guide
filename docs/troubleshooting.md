@@ -1,6 +1,8 @@
 ---
 sidebar_position: 6
 title: "Troubleshooting"
+pagination_next: null
+pagination_prev: null
 ---
 
 ### Black screen and red LED

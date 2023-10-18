@@ -22,7 +22,7 @@ Press 4, then OK. You should now boot back into Epsilon.
 
 :::caution
 
-If you don't boot back into Epsilon, please join the [Omega Discord](https://discord.gg/X2TWhh9) and ask for help.
+If you don't boot back into Epsilon, don't worry, we will fix that later.
 
 :::
 

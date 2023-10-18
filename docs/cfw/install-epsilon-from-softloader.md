@@ -1,6 +1,8 @@
 ---
 title: "Install Epsilon from softloader"
 sidebar_position: 4
+pagination_next: null
+pagination_prev: cfw/choose-a-cfw
 ---
 
 :::danger

@@ -1,6 +1,8 @@
 ---
 sidebar_position: 7
 title: "FAQ"
+pagination_next: null
+pagination_prev: null
 ---
 
 # Pre-Installation FAQ
