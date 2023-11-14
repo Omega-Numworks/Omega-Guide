@@ -9,7 +9,7 @@ pagination_prev: null
 
 Your calculator is in Recovery mode, it's waiting to receive a firmware, so it's unlocked. **If you update from Numworks' website, your calculator will be locked**
 
-[Choose a CFW](choose-a-cfw) to install on your calculator. (If you want to install Epsilon without locking your calculator, install first a compatible CFW while in recovery mode, then install Epsilon while NOT in recovery mode)
+[Choose a CFW](./cfw/choose-a-cfw) to install on your calculator. (If you want to install Epsilon without locking your calculator, install first a compatible CFW while in recovery mode, then install Epsilon while NOT in recovery mode)
 
 ### Black screen, yellow cable, and `numworks.com/rescue`
 
@@ -63,7 +63,7 @@ This can easily be fixed if you close the tab or software already connected to i
 
 This means your calculator is protected against CFM installation. If you want to install CFW, you need to unlock it.
 
-Follow [this guide](get-started) to unlock it.
+Follow [this guide](intro) to unlock it.
 
 ### Recovery mode (Black Screen + Red Led), calculator not recognized
 
