@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.N0110": {
+    "message": "N0110",
+    "description": "The label for category N0110 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.N0110.link.generated-index.description": {
+    "message": "Comment customiser sa Numworks N0110",
+    "description": "The generated-index page description for category N0110 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hardware method": {
+    "message": "Méthode Hardware",
+    "description": "The label for category Hardware method in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hardware method.link.generated-index.description": {
+    "message": "Débloquer votre calculatrice via une méthode Hardware",
+    "description": "The generated-index page description for category Hardware method in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Phi": {
+    "message": "Phi",
+    "description": "The label for category Phi in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Phi.link.generated-index.description": {
+    "message": "Débloquez votre calculatrice facilement avec Phi",
+    "description": "The generated-index page description for category Phi in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.No CFW": {
+    "message": "Pas de CFW",
+    "description": "The label for category No CFW in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.No CFW.link.generated-index.description": {
+    "message": "Qu'est ce que vous pouvez faire avec une calculatrice bloquée",
+    "description": "The generated-index page description for category No CFW in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.CFW": {
+    "message": "CFW",
+    "description": "The label for category CFW in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.CFW.link.generated-index.description": {
+    "message": "Qu'est-il possible avec un CFW ?",
+    "description": "The generated-index page description for category CFW in sidebar tutorialSidebar"
+  }
+}
