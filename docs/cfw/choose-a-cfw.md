@@ -7,7 +7,7 @@ pagination_prev: null
 
 :::info
 
-You need an unlocked calculator. [To unlock it go here](get-started)
+You need an unlocked calculator. [To unlock it go here](../intro)
 
 :::
 
