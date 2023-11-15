@@ -35,5 +35,5 @@ Si vous n'étiez pas éligible, après la manipulation, la calculatrice sera blo
 ---
 
 :::info
-Si vous n'êtes pas éligible, vous pouvez utiliser la [Methode Alternative](/docs/n0110/n0110-is-locked#alternate-methods)
+Si vous n'êtes pas éligible, vous pouvez utiliser la [Methode Alternative](/docs/n0110/n0110-is-locked#alt-methods)
 :::

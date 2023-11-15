@@ -36,6 +36,6 @@ ___
 
 :::info
 
-If you are not eligible, you need to use an [Alternate Method](/docs/n0110/n0110-is-locked#alternate-methods)
+If you are not eligible, you need to use an [Alternate Method](/docs/n0110/n0110-is-locked#alt-methods)
 
 :::

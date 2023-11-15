@@ -33,7 +33,7 @@ Si l'écran reste noir et que la LED devient rouge, **STOP** - votre calculatric
 
 Appuyez sur le bouton reset à l'arrière de la calculatrice pour revenir au micrologiciel.
 
-#### Section III - Sélectionnez une méthode
+#### Section III - Sélectionnez une méthode {#principal-methods}
 
 Utilisez le tableau des versions ci-dessous pour sélectionner une méthode. Quelques points à noter :
   + Le tableau des versions ci-dessous est *inclusif*. Par exemple, "de 16.3.0 à 18.0.0" inclus 16.3.0, 18.0.0, et toutes les versions entre celles-ci.
@@ -49,7 +49,7 @@ Utilisez le tableau des versions ci-dessous pour sélectionner une méthode. Que
 | 19.0.0-21.2.0  | [Vérifier l'éligibilité au changement de version](phi/check-version-change-eligibility) |
 
 ---
-#### Méthodes alternatives
+#### Méthodes alternatives {#alt-methods}
 
 Si possible, vous devriez suivre l'une des méthodes logicielles répertoriées ci-dessus.
 
