@@ -1,5 +1,5 @@
 ---
-sidebar_position: 8
+sidebar_position: 9
 title: "How does it work ?"
 pagination_next: null
 pagination_prev: null

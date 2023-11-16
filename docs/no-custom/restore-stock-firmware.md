@@ -6,7 +6,7 @@ pagination_prev: null
 
 :::danger
 
-Restoring your calculator to stock firmware **WILL LOCK IT** and you won't be able to install any CFW on it ever again, unless you use a hardware method to unlock it again. We highly advise using the bootloader from any compatible CFW and [install Epsilon from softloader](install-epsilon-from-softloader) to still use the latest versions without locking your calculator.
+Restoring your calculator to stock firmware **WILL LOCK IT** and you won't be able to install any CFW on it ever again, unless you use a hardware method to unlock it again. We highly advise using the bootloader from any compatible CFW and [install Epsilon from softloader](/docs/cfw/install-epsilon-from-softloader) to still use the latest versions without locking your calculator.
 
 :::
 

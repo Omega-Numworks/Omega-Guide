@@ -9,7 +9,7 @@ You may need to change Epsilon's version to unlock your calculator, we usually i
 
 ### If you have Epsilon 15 or lower
 
-You don't need to change your version, just go to [Now What ?](/docs/n0110/n0110-now-what)
+You don't need to change your version, just go to [Now What ?](/docs/n0110/n0110-unlocked)
 
 ### If you have Epsilon 16 to 18.2.0 (but not 16.4.3)
 
@@ -36,6 +36,6 @@ ___
 
 :::info
 
-If you are not eligible, you need to use an [Alternate Method](/docs/n0110/n0110-is-locked#alternate-methods)
+If you are not eligible, you need to use an [Alternate Method](/docs/n0110/n0110-is-locked#alt-methods)
 
 :::

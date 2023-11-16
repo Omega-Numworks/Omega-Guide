@@ -33,15 +33,11 @@ The exploit used at the moment is compatible with Epsilon 16.3.0 trough 18.2.0.
 ![Phi launch screen](/img/phi-launch.png)
 
 :::info
-
 If the screen turns Yellow, the version or Epsilon you're using isn't yet supported. You may need to [change your version](/docs/n0110/phi/check-version-change-eligibility).
-
 :::
 
 :::caution
-
 If the screen turns Red, the exploit failed. Reset the calculator and try again. If it doesn't work the second time, please join the [Omega Discord](https://discord.gg/X2TWhh9).
-
 :::
 
 ### Section III - Unlocking the calculator
@@ -81,7 +77,5 @@ The "Write flash" stage can take a bit of time. You'll be put back on the main m
 Press 4, then OK. You should now boot back into Epsilon.
 
 :::info
-
 If you don't boot back into Epsilon, don't worry, installing a CFW will fix it later.
-
 :::
