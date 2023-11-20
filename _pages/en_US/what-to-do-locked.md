@@ -13,8 +13,8 @@ Still good to mention, you can get python games on your calculator, you can find
 
 ### External apps
 
-Since Epsilon 16 for n0110, or Epsilon 20 for n0120, you can install custom apps, they aren't as powerful as Omega ones but they are good. Find them on [Nwagyu](https://www.nwagyu.com/).
-There is [a page explaining how to install the apps](https://www.nwagyu.com/pages/how-to/) with also a way to have more space for apps.
+Since Epsilon 16 for n0110, or Epsilon 20 for n0120, you can install custom apps, they aren't as powerful as Omega ones but they are good. Find them on [Nwagyu](https://yaya-cout.github.io/Nwagyu/).
+There is [a page explaining how to install the apps](https://yaya-cout.github.io/Nwagyu/guide/#how-to-install) with also a way to have more space for apps.
 Also when you enable exam mode or press "reset" they will be disabled
 
 ### Userland
