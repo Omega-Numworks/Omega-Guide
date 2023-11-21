@@ -14,8 +14,8 @@ This is not translated in other languages than English (yet !)
 ```mermaid
 flowchart TD
     calc_unlocked([Your calculator is unlocked, yay!])
-    calc_locked([You can do things without CFW])
-    start([Start]) --> want_cfw[Want CFW ?]
+    calc_locked([You can do things without a Custom OS])
+    start([Start]) --> want_cfw[Want Custom OS ?]
     want_cfw --No--> calc_locked
     want_cfw --Yes--> model_number[Read model number]
     
