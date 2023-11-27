@@ -30,10 +30,10 @@ Cela dépend de la version que vous aviez avant de mettre à jour vers Epsilon 1
 ### Et si vous ne savez pas ?
 
 Ne vous inquitez pas, essayer de changer de version de ne cassera pas votre calculatrice
-Si vous n'étiez pas éligible, après la manipulation, la calculatrice sera bloquée sur l'écran Recovery de Numworks et vous serez en mesure de mettre à jour depuis le site de Numworks et votre calculatrice fonctionnera normalement
+Si vous n'étiez pas éligible, après la manipulation, la calculatrice sera bloquée sur l'écran de mode de récupération de Numworks et vous serez en mesure de mettre à jour depuis le site de Numworks et votre calculatrice fonctionnera normalement
 
 ---
 
 :::info
-Si vous n'êtes pas éligible, vous pouvez utiliser la [Methode Alternative](/docs/n0110/n0110-is-locked#alt-methods)
+Si vous n'êtes pas éligible, vous pouvez utiliser la [methode alternative](/docs/n0110/n0110-is-locked#alt-methods)
 :::
