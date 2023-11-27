@@ -12,7 +12,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{translate({ message: 'Everything to take control of your calculator', id: 'home.page.tagline' })}</p>
+        <p className="hero__subtitle">{translate({ message: siteConfig.tagline, id: 'home.page.tagline' })}</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -30,7 +30,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`Home`}
-      description={translate({ id: "home.page.tagline" })}
+      description={translate({ message: siteConfig.tagline, id: "home.page.tagline" })}
     >
       <HomepageHeader />
       <main>
