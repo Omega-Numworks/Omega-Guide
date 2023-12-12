@@ -270,6 +270,9 @@
     "message": "Tags",
     "description": "The title of the tag list page"
   },
+  "home.page.tagline": {
+    "message":"Tout pour prendre le contrôle de votre calculatrice"
+  },
   "home.page.cfw.title": {
     "message": "CFW"
   },
@@ -326,5 +329,8 @@
   },
   "home.page.whatKnow.text2": {
     "message": "Ce guide est compatible avec tout les modèles de calculatrices Numworks vendus"
+  },
+  "home.page.goto.guide": {
+    "message": "Démarrer"
   }
 }

@@ -1,9 +1,9 @@
 ---
-title: "Now What (Phi) ?"
+title: "Et maintenant (Phi) ?"
 sidebar_position: 4
 ---
 
-ous avez maintenant plusieurs choix. Vous pouvez:
+Vous avez maintenant plusieurs choix. Vous pouvez:
 - Installer un bootloader personnalisé et continuer à utiliser Epsilon >= 16
 - Installer un firmware personnalisé
 # Choix I - Installer un bootloader patché 
