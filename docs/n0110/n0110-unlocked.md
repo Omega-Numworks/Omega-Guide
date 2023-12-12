@@ -6,4 +6,4 @@ pagination_prev: n0110/n0110-is-locked
 
 Your Numworks is unlocked, yay!
 
-You can now install a CFW to extend your calculator abilities
+You can now install a Custom OS to extend your calculator abilities

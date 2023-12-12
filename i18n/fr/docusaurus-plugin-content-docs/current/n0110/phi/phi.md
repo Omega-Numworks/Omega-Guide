@@ -52,7 +52,7 @@ Nous allons maintenant déverrouiller le flash interne et supprimer la protectio
 
 L'étape "Reset RDP" peut prendre un peu de temps. Vous serez remis sur le menu principal après une seconde, lorsque le déverrouillage sera terminé.
 
-### Section IV - Effacement du flash interne
+### Section IV - Effacement de la flash interne
 
 La suppression de la protection en écriture aurait dû effacer le flash interne, mais nous allons le refaire, juste pour être sûr :
 
@@ -64,7 +64,7 @@ La suppression de la protection en écriture aurait dû effacer le flash interne
 
 L'étape "Erase flash" peut prendre un peu de temps, Vous serez remis sur le menu principal après une seconde, quand l'effaçage sera terminé.
 
-### Section V - Installing a custom bootloader
+### Section V - Installation d'un bootloader custom
 
 1. Appuyez sur 3
 2. Appuyez sur OK pour confirmer
@@ -76,5 +76,5 @@ L'étape "Write Flash" peut prendre un peu de temps. Vous serez remis sur le men
 
 
 :::info
-Si vous ne démarrez pas dans Epsilon, ne vous inquiétez pas, installer un CFW le réparera plus tard.
+Si vous ne démarrez pas dans Epsilon, ne vous inquiétez pas, installer un OS Custom réparera cela plus tard.
 :::

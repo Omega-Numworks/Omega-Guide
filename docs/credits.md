@@ -13,7 +13,7 @@ Special thanks to:
 - Rathmox and BloomyInDev for porting the guide to docusaurus
 :::
 
-If I forgot you here, [contact us](https://github.com/Omega-Numworks/Omega-Guide) and we will add your name.
+If we forgot you here, [contact us](https://github.com/Omega-Numworks/Omega-Guide) and we will add your name.
 
 + AngeDieu
 + BloomyInDev
