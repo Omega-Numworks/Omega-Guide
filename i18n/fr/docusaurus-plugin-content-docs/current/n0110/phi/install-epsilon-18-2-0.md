@@ -33,7 +33,7 @@ Vous devriez maintenant avoir un fichier internal.bin et un fichier external.bin
 
 ### Section II - Installation
 
-1. Ouvrez le [WebDFU](https://ti-planet.github.io/webdfu_numworks/n0110/) dans un navigateur web basé chromium
+1. Ouvrez le [WebDFU](https://ti-planet.github.io/webdfu_numworks/n0110/) dans un navigateur web basé sur chromium
 2. Maintenez la touche 6 sur votre Numworks et pressez le bouton reset
 3. Vous devriez maintenant voir l'interface du bootloader Epsilon
 4. Sélectionnez `external.bin` dans WebDFU
