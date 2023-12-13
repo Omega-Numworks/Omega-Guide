@@ -19,7 +19,7 @@ The latest Epsilon version may not be safe, check the latest version. Latest kno
 
 :::info
 
-This page is irrelevant if you have an n0100, because you can switch between any CFW and Epsilon without locking your calculator. And the n0100 can't have any custom bootloader.
+This page is irrelevant if you have an n0100, because you can switch between any Custom OS and Epsilon without locking your calculator. And the n0100 can't have any custom bootloader.
 
 :::
 
@@ -34,7 +34,7 @@ We will now install Epsilon on one slot of your calculator, assuming you have a 
 
 ### Section I - Open the bootloader
 
-If your CFW includes a custom bootloader that allows installing a firmware from it, you should now open the bootloader and make it ready to install anything. Some help can be found on [this page](/docs/cfw/choose-a-cfw)
+If your Custom OS includes a custom bootloader that allows installing a firmware from it, you should now open the bootloader and make it ready to install anything. Some help can be found on [this page](/docs/cfw/choose-a-cfw)
 
 ### Section II - Install
 
@@ -45,10 +45,10 @@ If your CFW includes a custom bootloader that allows installing a firmware from 
 
 Now you have Epsilon with a custom bootloader so your calculator isn't locked.
 
-Epsilon has normally been installed on both slots. So if you had a CFW, it has been erased, only the bootloader is remaining. To reinstall it you can do it normally from the bootloader or in recovery mode, just make sure you are not installing Epsilon again.
+Epsilon has normally been installed on both slots. So if you had a Custom OS, it has been erased, only the bootloader is remaining. To reinstall it you can do it normally from the bootloader or in recovery mode, just make sure you are not installing Epsilon again.
 
-It's recommended to keep your CFW in Slot A.
+It's recommended to keep your Custom OS in Slot A.
 
 ### GG
 
-You now have Epsilon and your CFW at the same time, Epsilon on one slot, your CFW on the other. You can now switch between them whenever you want, it works differently depending on your CFW but the goal is just to switch between slots.
+You now have Epsilon and your Custom OS at the same time, Epsilon on one slot, your Custom OS on the other. You can now switch between them whenever you want, it works differently depending on your Custom OS but the goal is just to switch between slots.

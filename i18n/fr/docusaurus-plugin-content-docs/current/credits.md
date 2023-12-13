@@ -13,13 +13,14 @@ Un grand merci à:
 - Rathmox and BloomyInDev d'avoir porté le guide à [Docusaurus](https://docusaurus.io/)
 :::
 
-Si je vous ai oublié ici, [contactez-nous](https://github.com/Omega-Numworks/Omega-Guide) et nous vous ajouterons dans la liste des contributeurs
+Si nous vous avons oublié ici, [contactez-nous](https://github.com/Omega-Numworks/Omega-Guide) et nous vous ajouterons dans la liste des contributeurs
 
 + AngeDieu
 + BloomyInDev
 + darthnithin
 + hdboye
 + M4x1m3
++ orkeilius
 + Rathmox
 + siim0n
 + Syycorax

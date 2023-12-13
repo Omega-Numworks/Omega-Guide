@@ -48,9 +48,9 @@ Depuis Epsilon 16, la flash interne contient un bootloader utilisé pour bloquer
 Maintenant que l'on sait comment Numworks utilise la calcuatrice, découvrons comment les firmwares custom l'utilisent.
 :::
 
-### 4 - Qu'est-ce qui change avec un CFW ?
+### 4 - Qu'est-ce qui change avec un OS Custom ?
 
-À l'origine, un CFW remplaçait seulement la flash externe. Pour contourner certaines limitations, certains CFWs comme Omega et Delta ont comencé à changer la flash interne, mais ce n'était pas loin de ce que Numworks faisait à l'origine
+À l'origine, un OS Custom remplaçait seulement la flash externe. Pour contourner certaines limitations, certains OS Custom comme Omega et Delta ont comencé à changer la flash interne, mais ce n'était pas loin de ce que Numworks faisait à l'origine
 
 Delta a introduit les applis externes, qui ont été réutilisées dans Omega. Elles sont installées dans la flash externe avec le firmware. Un système similaire a été ajouté à Epsilon plus tard.
 
@@ -65,7 +65,7 @@ Maintenant que vous comprenez comment fonctionne la flash interne, voyons commen
 ### 5 - Comment Phi fontionne-t-il ?
 
 :::note
-Phi n'est **PAS** un programme ou un exploit qui permet directement de lancer un CFW et ne fait rien une fois que la calculatrice est débloquée.
+Phi n'est **PAS** un programme ou un exploit qui permet directement de lancer un OS Custom et ne fait rien une fois que la calculatrice est débloquée.
 :::
 
 Phi est une appli qui peut débloquer les calculatrices fonctionnant sous Epsilon entre 16.3.0 et 18.2.0 (hors 16.4.3)
@@ -85,10 +85,10 @@ Le processus dans le guide est maintenant facile à comprendre:
 ### 7 - Pourquoi la n0120 ne peut pas être débloquée ?
 
 La n0120 est dans un cas particulier:
-Elle peut être débloquée avec des modifications matérielles, mais la raison pour laquelle on ne dit pas comment le faire dans ce guide c'est car il n'y a aucun CFW que vous pouvez installer dessus.
+Elle peut être débloquée avec des modifications matérielles, mais la raison pour laquelle on ne dit pas comment le faire dans ce guide c'est car il n'y a aucun OS Custom que vous pouvez installer dessus.
 La n0120 a été publiée en premier avec Epsilon 16, mais une version patchés qui ne peut pas être débloquée avec Phi. Donc il n'y a aucune n0120 qui peut être débloquée sans matériel.
 
-Aussi, depuis Epsilon 16, Numworks a arrêté de donner les drivers pour le MCU, ces drivers sont nécessaires pour créer le bootloader. Les Développeurs peuvent les récupérer depuis Epsilon 15 pour n0100 et n0110, mais pour n0120, ils n'ont jamais été publiés (et ne peuvent pas être extraits d'Epsilon), donc ils doivent être développés depuis zéro ce qui est difficile et long. C'est pourquoi il n'y a pas de CFW pour n0120, et qu'on ne peut pas vous dire comment la débloquer
+Aussi, depuis Epsilon 16, Numworks a arrêté de donner les drivers pour le MCU, ces drivers sont nécessaires pour créer le bootloader. Les Développeurs peuvent les récupérer depuis Epsilon 15 pour n0100 et n0110, mais pour n0120, ils n'ont jamais été publiés (et ne peuvent pas être extraits d'Epsilon), donc ils doivent être développés depuis zéro ce qui est difficile et long. C'est pourquoi il n'y a pas de OS Custom pour n0120, et qu'on ne peut pas vous dire comment la débloquer
 
 :::info
 Maintenant vous comprenez tout sur comment le débloquage de calculatrice fonctionne.

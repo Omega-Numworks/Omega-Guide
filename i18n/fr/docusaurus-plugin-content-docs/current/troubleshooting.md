@@ -10,11 +10,11 @@ pagination_prev: null
 Tout va bien : un écran noir et une led rouge signifient que votre calculatrice est en mode Recovery, elle attend de recevoir un firmware, elle est donc débloquée. 
 **ATTENTION : Dans ce mode, Si vous faites une mise à jour depuis le site de Numworks, vous allez faire une re-installation complète de la calculatrice avec la dernière version du système de gestion de Numworks. Vous allez alors verrouiller la calculatrice : les installations de Custom Firmwares tels que Omega ou Opsilon seront bloquées.**
 
-[Choisissez un CFW](/docs/cfw/choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, installez d'abord à ce stade un CFW compatible, puis installer Epsilon en veillant à ne pas être en mode recovery)
+[Choisissez un OS Custom](/docs/cfw/choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, installez d'abord à ce stade un OS Custom compatible, puis installer Epsilon en veillant à ne pas être en mode recovery)
 
 ### Écran noir, cable jaune, et `numworks.com/rescue`
 
-C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est verrouillée (blocage de l'installation des CFW) et que vous avez lancé le mode recovery en maintenant 6 et en appuyant sur reset. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
+C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est verrouillée (blocage de l'installation des OS Custom) et que vous avez lancé le mode recovery en maintenant 6 et en appuyant sur reset. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
 
 Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](/docs/n0110/phi/install-epsilon-18-2-0).
 
@@ -66,14 +66,14 @@ Essayez d'utiliser le bon mode, pour des applications externes lancez juste en m
 
 ### "Unable to claim interface"
 
-Cette erreur arrive quand vous essayez de connecter votre calculatrice mais elle est déjà utilisée par un autre onglet ou logiciel. Cela arrive habituellement quand vous essayez d'installer des applications externes mais que l'onglet que vous avec utilisé pour unstaller votre CFW est toujours ouvert.
+Cette erreur arrive quand vous essayez de connecter votre calculatrice mais elle est déjà utilisée par un autre onglet ou logiciel. Cela arrive habituellement quand vous essayez d'installer des applications externes mais que l'onglet que vous avec utilisé pour installer votre OS Custom est toujours ouvert.
 
 Ça peut facilement être réglé si vous fermez l'onglet ou le logiciel déjà connecté à la calculatrice.
 Il ne peut y avoir qu'un seul onglet (ou logiciel) établissant une connexion à la calculatrice.
 
 ### "Could not detect the calculator model" / "N????"
 
-Cela veut dire que votre calculatrice est verrouillée contre l'installation de CFW. Si vous voulez installer un CFW, vous avec besoin de la débloquer.
+Cela veut dire que votre calculatrice est verrouillée contre l'installation de OS Custom. Si vous voulez installer un OS Custom, vous avez besoin de la débloquer.
 
 Suivez [ce guide](intro) pour la débloquer.
 
@@ -81,13 +81,13 @@ Suivez [ce guide](intro) pour la débloquer.
 
 Cela peut arriver quand le bootloader custom est trop ancien.
 
-Pour le mettre à jour : allez sur le site de votre CFW, mettez la calculatrice en mode Recovery (en maintenant 6 et en appuyant sur reset au dos de la calculatrice), connectez-la à l'ordinateur, puis choisissez "Restauration" (recovery) sur le site de votre CFW.
+Pour le mettre à jour : allez sur le site de votre OS Custom, mettez la calculatrice en mode Recovery (en maintenant 6 et en appuyant sur reset au dos de la calculatrice), connectez-la à l'ordinateur, puis choisissez "Restauration" (recovery) sur le site de votre OS Custom.
 
 ### Écran et LED clignottants
 
 Vous essayez de démarrer Epsilon 19 sur un ancian bootloader custom.
 
-Mettez à jour le bootloader : allez sur le site de votre CFW, mettez la calculatrice en mode Recovery (en maintenant 6 et en appuyant sur reset au dos de la calculatrice), connectez-la à l'ordinateur, puis choisissez "Restauration" (recovery) sur le site de votre CFW.
+Mettez à jour le bootloader : allez sur le site de votre OS Custom, mettez la calculatrice en mode Recovery (en maintenant 6 et en appuyant sur reset au dos de la calculatrice), connectez-la à l'ordinateur, puis choisissez "Restauration" (recovery) sur le site de votre OS Custom.
 
 ### L'installation n'a pas de fin (installation infinie)
 
@@ -101,7 +101,7 @@ Vous essayez de flasher la partition externe mais la calculatrice n'est pas dans
 
 Vous devez flasher avec l'écran de bootloader Numworks, le bootloader custom ou le flasher du mode recovery (l'écran indiquant "Recovery mode" en installant Omega en mode Recovery)
 
-### La calculatrice redémarre en essayant d'installer un CFW
+### La calculatrice redémarre en essayant d'installer un OS Custom
 
 Votre calculatrice est sous Epsilon 19 ou plus, cela peut arriver quand la calculatrice est bloquée ou que vous l'exécutez depuis un bootloader custom.
 

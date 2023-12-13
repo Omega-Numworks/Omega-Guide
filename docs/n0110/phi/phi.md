@@ -77,5 +77,5 @@ The "Write flash" stage can take a bit of time. You'll be put back on the main m
 Press 4, then OK. You should now boot back into Epsilon.
 
 :::info
-If you don't boot back into Epsilon, don't worry, installing a CFW will fix it later.
+If you don't boot back into Epsilon, don't worry, installing a Custom OS will fix it later.
 :::

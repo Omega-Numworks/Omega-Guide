@@ -25,7 +25,7 @@ phones can be used with an USB OTG cable.
 
 # Post-Installation FAQ
 
-**Q:** *Is it safe to update Epsilon while having a CFW installed ?*
+**Q:** *Is it safe to update Epsilon while having a Custom OS installed ?*
 
 **A:** At the moment, Numworks' installer doesn't check for modded bootloaders, neither does
 Epsilon, so yes (unless you don't have a bootloader which is probably not the case).

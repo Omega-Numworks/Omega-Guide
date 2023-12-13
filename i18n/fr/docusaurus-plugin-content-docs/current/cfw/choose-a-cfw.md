@@ -1,5 +1,5 @@
 ---
-title: "Choisir un CFW"
+title: "Choisir un OS Custom"
 sidebar_position: 1
 pagination_next: null
 pagination_prev: null
@@ -11,9 +11,9 @@ Vous avez besoin d’une calculatrice débloquée. [Pour la débloquer continuez
 
 :::
 
-Il y a plusieurs CFWs que vous pouvez installer sur votre calculatrice, la plupart s’installent de la même manière. En voici certains
+Il y a plusieurs OS Custom que vous pouvez installer sur votre calculatrice, la plupart s’installent de la même manière. En voici certains
 
-| CFW | Avantages |
+| OS | Avantages |
 |-----|-----------|
-| [Omega](/docs/cfw/omega) | Le CFW le plus populaire pour Numworks, basé sur Epsilon 15.5.0. Il restaure le calcul symbolique, permet l'installation d'applications externes, et ajoute des libraries Python |
+| [Omega](/docs/cfw/omega) | L'OS Custom le plus populaire pour Numworks, basé sur Epsilon 15.5.0. Il restaure le calcul symbolique, permet l'installation d'applications externes, et ajoute des libraries Python |
 | [Upsilon](/docs/cfw/upsilon) | Basé sur Omega, Upsilon apporte plus de fonctions et de confort comparé à Omega, comme une liseuse LaTeX, plus de stockage pour les scripts Python, et un meilleur bootloader |
