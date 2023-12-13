@@ -28,7 +28,7 @@
     "description": "The generated-index page description for category Phi in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.No CFW": {
-    "message": "Pas de CFW",
+    "message": "Pas d'OS Custom",
     "description": "The label for category No CFW in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.No CFW.link.generated-index.description": {
@@ -36,11 +36,11 @@
     "description": "The generated-index page description for category No CFW in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.CFW": {
-    "message": "CFW",
+    "message": "OS Custom",
     "description": "The label for category CFW in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.CFW.link.generated-index.description": {
-    "message": "Qu'est-il possible avec un CFW ?",
+    "message": "Qu'est-il possible avec un OS Custom ?",
     "description": "The generated-index page description for category CFW in sidebar tutorialSidebar"
   }
 }
