@@ -44,6 +44,6 @@ Vous devriez maintenant voir la version 18.2.0 dans Paramètres > À propos.
 
 :::caution
 
-Si ce n'est pas le cas ou que votre Numworks ne démarre pas, vous pouvez toujours utiliser une [méthode alternative](/docs/unlock/n0110-is-locked#alternate-methods).
+Si ce n'est pas le cas ou que votre Numworks ne démarre pas, vous pouvez toujours utiliser une [méthode alternative](../n0110-is-locked#alternate-methods).
 
 :::
