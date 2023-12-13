@@ -1,0 +1,8 @@
+{
+  "label": "OS Custom",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Ce qui est possible avec un OS Custom"
+  }
+}
