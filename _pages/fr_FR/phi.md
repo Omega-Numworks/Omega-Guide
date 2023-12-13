@@ -30,7 +30,7 @@ L'exploit utilisé pour le moment est compatible avec Epsilon 16.3.0 à 18.2.0.
 2. Appuyez sur la touche OK
 3. L'écran devrait clignoter et vous devriez voir un écran similaire à celui-ci :
 
-![Phi launch screen](images/screenshots/phi-launch.png)
+![Phi launch screen](/images/screenshots/phi-launch.png)
 
 Si l'écran devient jaune, la version d'Epsilon que vous utilisez n'est pas encore prise en charge. Vous pourriez avoir besoin de [changer de version](check-version-change-eligibility).
 {: .notice--warning}
