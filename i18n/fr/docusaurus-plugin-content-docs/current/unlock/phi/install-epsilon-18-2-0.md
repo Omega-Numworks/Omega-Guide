@@ -8,7 +8,7 @@ sidebar_position: 2
 Nous allons maintenant installer Epsilon 18.2.0
 
 :::info
-Si vous n'êtes pas sur que vous puissiez installer Epsilon 18.2.0, allez voir [cette page](/docs/n0110/phi/check-version-change-eligibility)
+Si vous n'êtes pas sur que vous puissiez installer Epsilon 18.2.0, allez voir [cette page](/docs/unlock/phi/check-version-change-eligibility)
 :::
 
 ### Ce dont vous avez besoin
@@ -44,6 +44,6 @@ Vous devriez maintenant voir la version 18.2.0 dans Paramètres > À propos.
 
 :::caution
 
-Si ce n'est pas le cas ou que votre Numworks ne démarre pas, vous pouvez toujours utiliser une [méthode alternative](/docs/n0110/n0110-is-locked#alternate-methods).
+Si ce n'est pas le cas ou que votre Numworks ne démarre pas, vous pouvez toujours utiliser une [méthode alternative](/docs/unlock/n0110-is-locked#alternate-methods).
 
 :::

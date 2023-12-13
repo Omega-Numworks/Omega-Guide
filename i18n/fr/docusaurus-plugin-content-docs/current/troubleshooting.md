@@ -16,7 +16,7 @@ Tout va bien : un écran noir et une led rouge signifient que votre calculatrice
 
 C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est verrouillée (blocage de l'installation des OS Custom) et que vous avez lancé le mode recovery en maintenant 6 et en appuyant sur reset. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
 
-Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](/docs/n0110/phi/install-epsilon-18-2-0).
+Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0).
 
 ### Écran noir, rien d'autre
 

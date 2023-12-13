@@ -9,11 +9,11 @@ Vous pourriez avoir besoin de changer la version de votre calculatrice, nous ins
 
 ### Si vous avez Epsilon 15 et avant
 
-Vous n'avez pas besoin de changer de version, continuez vers [Et maintenant ?](/docs/n0110/n0110-unlocked)
+Vous n'avez pas besoin de changer de version, continuez vers [Et maintenant ?](/docs/unlock/n0110-unlocked)
 
 ### Si vous avez Epsilon 16 à 18.2.0 (mais pas 16.4.3)
 
-Vous n'avez pas besoin de changer de version, continuez vers [Phi](/docs/n0110/phi)
+Vous n'avez pas besoin de changer de version, continuez vers [Phi](/docs/unlock/phi)
 
 ### Si vous avez Epsilon 16.4.3 ou 18.2.3
 
@@ -35,5 +35,5 @@ Si vous n'étiez pas éligible, après la manipulation, la calculatrice sera blo
 ---
 
 :::info
-Si vous n'êtes pas éligible, vous pouvez utiliser la [methode alternative](/docs/n0110/n0110-is-locked#alt-methods)
+Si vous n'êtes pas éligible, vous pouvez utiliser la [methode alternative](/docs/unlock/n0110-is-locked#alt-methods)
 :::

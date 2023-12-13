@@ -26,7 +26,7 @@ If you see a screen like this one, you can proceed :
 
 :::caution
 
-If the screen stays black and the LED turns red, STOP - your calculator is already unlocked! Continue from [here](/docs/n0110/n0110-unlocked).
+If the screen stays black and the LED turns red, STOP - your calculator is already unlocked! Continue from [here](/docs/unlock/n0110-unlocked).
 
 :::
 

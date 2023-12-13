@@ -9,7 +9,7 @@ We will now install Epsilon 18.2.0
 
 :::info
 
-If you are not sure if you can install Epsilon 18.2.0, go check [this page](/docs/n0110/phi/check-version-change-eligibility)
+If you are not sure if you can install Epsilon 18.2.0, go check [this page](/docs/unlock/phi/check-version-change-eligibility)
 
 :::
 

@@ -15,7 +15,7 @@ Your calculator is in Recovery mode, it's waiting to receive a firmware, so it's
 
 This is Numworks' bootloader. It shows up when the calculator is locked and you started the Recovery mode by holding 6 and pressing reset, or when the calculator couldn't start.
 
-If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](/docs/n0110/phi/install-epsilon-18-2-0).
+If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0).
 
 ### Black screen, nothing else
 
