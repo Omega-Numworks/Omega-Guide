@@ -274,13 +274,13 @@
     "message": "Tout pour prendre le contrôle de votre calculatrice"
   },
   "home.page.cfw.title": {
-    "message": "CFW"
+    "message": "OS Custom"
   },
   "home.page.cfw.text1": {
-    "message": "Les CFW (Custom Firmware) sont des modifications logicielles pour la Numworks. Ces modifications vous permettent de faire tout ce qu'il est possible physiquement avec la Numworks, et pas seulement ce que Numworks décide ce qu'il est possible de faire avec son matériel"
+    "message": "Les OS Custom sont des modifications logicielles pour la Numworks. Ces modifications vous permettent de faire tout ce qu'il est possible physiquement avec la Numworks, et pas seulement ce que Numworks décide ce qu'il est possible de faire avec son matériel"
   },
   "home.page.cfw.text2": {
-    "message": "Les utilisation communes des CFW sont:"
+    "message": "Les utilisation communes des OS Custom sont:"
   },
   "home.page.cfw.possibilities.1": {
     "message": "Executer des logiciels et jeux fait-maison (Homebrew) fait ou portés sur la Numworks"
@@ -298,7 +298,7 @@
     "message": "Installer "
   },
   "home.page.cfw.possibilities.4.part2": {
-    "message": "d'autres CFW"
+    "message": "d'autres OS Custom"
   },
   "home.page.cfw.possibilities.4.part3": {
     "message": ", comme "
@@ -316,7 +316,7 @@
     "message": "Débloquer votre calculatrice si besoin"
   },
   "home.page.whatContent.list.2": {
-    "message": "Installer un CFW sur votre calculatrice"
+    "message": "Installer un OS Custom sur votre calculatrice"
   },
   "home.page.whatContent.list.3": {
     "message": "Installer un bootloader customisé"
