@@ -27,7 +27,7 @@ Si vous voyez un écran comme celui-ci, vous pouvez procéder :
 
 :::caution
 
-Si l'écran reste noir et que la LED devient rouge, **STOP** - votre calculatrice est déjà déverrouillée ! Continuez à partir d'[ici](/docs/n0110/n0110-unlocked).
+Si l'écran reste noir et que la LED devient rouge, **STOP** - votre calculatrice est déjà déverrouillée ! Continuez à partir d'[ici](/docs/unlock/n0110-unlocked).
 
 :::
 

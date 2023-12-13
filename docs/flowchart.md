@@ -41,11 +41,11 @@ flowchart TD
     install_18_2_0 --> phi
     phi & hardware_method --> calc_unlocked_n0110
 
-    click check_version_n0110 "./n0110/n0110-is-locked"
-    click downgrade_check "./n0110/phi/check-version-change-eligibility"
-    click install_18_2_0 "./n0110/phi/install-epsilon-18-2-0"
-    click phi "./n0110/phi"
-    click hardware_method "./n0110/hardware/n0110-hardware-unlock"
+    click check_version_n0110 "./unlock/n0110-is-locked"
+    click downgrade_check "./unlock/phi/check-version-change-eligibility"
+    click install_18_2_0 "./unlock/phi/install-epsilon-18-2-0"
+    click phi "./unlock/phi"
+    click hardware_method "./unlock/hardware/n0110-hardware-unlock"
     click calc_locked_n0110 "./no-custom/what-to-do-locked"
     click calc_unlocked_n0110 "./cfw/choose-a-cfw"
 

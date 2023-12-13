@@ -1,7 +1,7 @@
 ---
 title: "Installer Phi"
 sidebar_position: 3
-pagination_next: n0110/n0110-unlocked
+pagination_next: unlock/n0110-unlocked
 ---
 
 ### Lecture obligatoire
@@ -33,7 +33,7 @@ L'exploit utilisé pour le moment est compatible avec Epsilon 16.3.0 à 18.2.0.
 ![Phi launch screen](/img/phi-launch.png)
 
 :::info
-Si l'écran devient jaune, la version d'Epsilon que vous utilisez n'est pas encore prise en charge. Vous pourriez avoir besoin de [changer de version](/docs/n0110/phi/check-version-change-eligibility).
+Si l'écran devient jaune, la version d'Epsilon que vous utilisez n'est pas encore prise en charge. Vous pourriez avoir besoin de [changer de version](/docs/unlock/phi/check-version-change-eligibility).
 :::
 
 :::caution
