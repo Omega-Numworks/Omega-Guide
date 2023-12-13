@@ -122,7 +122,7 @@ Vous n'utilisez peut-être pas le bon WebDFU, vérifiez que vous utiliser le [We
 Cela peut arriver sur Windows et Linux
 - Sur Linux ça veut dire que vous n'avez pas installé le fichier de configuration, [La page de mise à jour Numworks](https://numworks.com/update/) vous le donnera
 - Sur Windows cela veut dire que vous êtes en mode Recovery et que le mauvais driver est sélectionné, il y a quelques étapes que vous pouvez suivre pour régler ça.
-  1. S'il n'est pas installé, installez le driver depuis [La page de mise à jour Numworks](https://numworks.com/update/)
+  1. S'il n'est pas installé, installez le driver depuis [La page de récupération Numworks](https://numworks.com/rescue/)
   2. Ouvrez le Gestionnaire de Périphériques, appuyez sur Win+R, tappez `devmgmt.msc`, et appuyez sur Entrée
   3. Recherchez un appareil avec "STM" dans le nom
   4. Faites clic droit dessus, et cliquez sur "Mettre à jour le driver"

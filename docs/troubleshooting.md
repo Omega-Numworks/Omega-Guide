@@ -37,7 +37,7 @@ There are 2 possible reasons:
 
 it means the driver or config file isn't installed on Windows or Linux.
 
-Open the [Update page](https://numworks.com/update/) on Numworks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it**
+Open the [Rescue page](https://numworks.com/rescue/) on Numworks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it**
 
 If you are using Linux, it may still not be detected. It can happen if your web browser is installed as a flatpak.
 
@@ -114,7 +114,7 @@ You may not be using the right WebDFU, make sure you are using [TI-Planet's WebD
 This can happen on Windows and Linux:
 - On Linux it means you haven't installed the config file, [Numworks' update page](https://numworks.com/update/) will give it to you.
 - On Windows it means you are in recovery mode and the wrong driver is selected, there are a few steps you can follow to fix this
-  1. If it's not installed, install the driver from [Numworks' update page](https://numworks.com/update/)
+  1. If it's not installed, install the driver from [Numworks' rescue page](https://numworks.com/rescue/)
   2. Open Device manager, press Win+R, type `devmgmt.msc`, and press enter
   3. Search for a device with STM in the name
   4. Right click on it, and press "Update Driver"
