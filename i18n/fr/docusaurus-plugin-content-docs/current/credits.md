@@ -20,6 +20,7 @@ Si nous vous avons oublié ici, [contactez-nous](https://github.com/Omega-Numwor
 + darthnithin
 + hdboye
 + M4x1m3
++ orkeilius
 + Rathmox
 + siim0n
 + Syycorax
