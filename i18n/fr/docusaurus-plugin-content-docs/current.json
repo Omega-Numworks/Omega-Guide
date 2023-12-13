@@ -3,13 +3,13 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.N0110": {
-    "message": "N0110",
+  "sidebar.tutorialSidebar.category.unlock": {
+    "message": "Débloquage avant installation",
     "description": "The label for category N0110 in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.N0110.link.generated-index.description": {
-    "message": "Comment personnaliser sa Numworks N0110",
-    "description": "The generated-index page description for category N0110 in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.unlock.link.generated-index.description": {
+    "message": "Comment débloquer sa Numworks pour installer un OS Custom",
+    "description": "The generated-index page description for category unlock in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Hardware method": {
     "message": "Méthode Hardware",
@@ -28,7 +28,7 @@
     "description": "The generated-index page description for category Phi in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.No CFW": {
-    "message": "Pas de CFW",
+    "message": "Pas d'OS Custom",
     "description": "The label for category No CFW in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.No CFW.link.generated-index.description": {
@@ -36,11 +36,11 @@
     "description": "The generated-index page description for category No CFW in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.CFW": {
-    "message": "CFW",
+    "message": "OS Custom",
     "description": "The label for category CFW in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.CFW.link.generated-index.description": {
-    "message": "Qu'est-il possible avec un CFW ?",
+    "message": "Qu'est-il possible avec un OS Custom ?",
     "description": "The generated-index page description for category CFW in sidebar tutorialSidebar"
   }
 }
