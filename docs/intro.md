@@ -23,7 +23,7 @@ This guide will refer to some names, before starting you have to know what these
 
 :::info
 
-If you don't want to deeply modify your calculator, [there are still a few things you can do](no-custom/what-to-do-locked).
+If you don't want to deeply modify your calculator, [there are still a few things you can do](cannot-unlock/what-to-do-locked).
 
 :::
 
@@ -46,4 +46,4 @@ If you don't want to deeply modify your calculator, [there are still a few thing
 |------------------|-------------------------------------------------------------------------------------------------|
 | N0100            | [Your calculator is already unlocked. Choose a Custom OS](/docs/cfw/choose-a-cfw)                     |
 | N0110            | [Check if your calculator is locked](/docs/unlock/n0110-is-locked)                               |
-| N0115 - N0120    | [You can't install a Custom OS on it. But there are still a few things you can do](/docs/no-custom/what-to-do-locked) |
+| N0115 - N0120    | [You can't install a Custom OS on it. But there are still a few things you can do](/docs/cannot-unlock/what-to-do-locked) |

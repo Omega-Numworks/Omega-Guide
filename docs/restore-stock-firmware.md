@@ -1,4 +1,5 @@
 ---
+sidebar_position: 10
 title: "Restore Stock Firmware"
 pagination_next: null
 pagination_prev: null

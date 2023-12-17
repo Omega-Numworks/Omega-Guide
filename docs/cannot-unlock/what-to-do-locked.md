@@ -1,4 +1,5 @@
 ---
+sidebar_position: 11
 title: "What to do on a locked calculator ?"
 pagination_next: null
 pagination_prev: intro
