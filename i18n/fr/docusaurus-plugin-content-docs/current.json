@@ -27,14 +27,6 @@
     "message": "Comment débloquer sa Numworks pour installer un OS Custom",
     "description": "The generated-index page description for category Unlock before installation in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Cannot unlock your calculator": {
-    "message": "Impossible de débloquer votre calculatrice",
-    "description": "The label for category Cannot unlock your calculator in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Cannot unlock your calculator.link.generated-index.description": {
-    "message": "Si vous ne pouvez pas débloquer votre calculatrice",
-    "description": "The generated-index page description for category Cannot unlock your calculator in sidebar tutorialSidebar"
-  },
   "sidebar.tutorialSidebar.category.Installing an OS": {
     "message": "Installer un OS",
     "description": "The label for category Custom OS in sidebar tutorialSidebar"
