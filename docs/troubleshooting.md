@@ -19,11 +19,12 @@ If you want to unlock your calculator, don't go to the `numworks.com/rescue` web
 
 ### Black screen, nothing else
 
-There are 4 possible reasons:
+There are 5 possible reasons:
 - Your calculator is in sleep mode, press the power button to turn it back on.
-- Your calculator may have any wierd bug, try pressign the reset button on the back.
+- Your calculator may have any wierd bug, try pressing the reset button on the back.
 - Your calculator may be discharged, try letting it charge a few minutes.
 - The battery is disconnected, you may need to open your calculator to plug it back in.
+- If you have an n0100, you may be in Recovery Mode, unplug the cable, and press the reset button on the back.
 
 If this doesn't solve the problem, contact Numworks.
 
