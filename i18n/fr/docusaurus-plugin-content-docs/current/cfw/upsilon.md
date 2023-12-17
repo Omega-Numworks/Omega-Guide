@@ -56,7 +56,7 @@ Pour mettre à jour le bootloader, démarrez en mode recovery en cliquant sur re
 
 Maintenant qu'Upsilon est installé, il y a certaines choses que vous pouvez faire:
 
-#### Applis externes (uniquement pour N0110)
+#### Applis externes (pas pour n0100)
 
 Upsilon supporte les applis externes, il y en a quelques unes mais elles sont utiles. Voici comment les installer:
 1. Ouvrez la [page des applis externes](https://upsilonnumworks.github.io/Upsilon-External/)
@@ -65,7 +65,16 @@ Upsilon supporte les applis externes, il y en a quelques unes mais elles sont ut
 4. Ajoutez un fond d'écran si vous le souhaitez
 5. Cliquez sur installer
 
-#### Installer Epsilon (uniquement pour N0110)
+#### Lisuse (pas pour n0100)
+
+Upsilon a une appli Liseuse. Elle peut afficher des fichiers texte et des expressions LaTeX.
+
+N'importe quel fichier avec l'extension `.txt` peut être lu, mais si vous voulez utiliser des expressions LaTex, vous devez changer l'extension en `.urt`. Le contenu du fichier reste le même mais Upsilon va afficher les expressions LaTeX
+Toutes les expressions LaTeX sont documentées [ici](https://getupsilon.web.app/doc/reader).
+
+Pour transférer votre fichier, envoyez-le avec la [page des applis externes](https://upsilonnumworks.github.io/Upsilon-External/).
+
+#### Installer Epsilon (pas pour n0100)
 
 Vous pouvez installer Epsilon sur bootloader sans bloquer le calculatrice.
 

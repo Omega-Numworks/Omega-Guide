@@ -58,7 +58,7 @@ Omega supporte les applis externes, il y en a quelques unes mais elles sont util
 5. Activez le support des icones si vous voulez de jolies icones sur vos applis
 6. Cliquez sur installer
 
-#### Installer Epsilon (Non compatible avec la n0100)
+#### Installer Epsilon (pas pour n0100)
 
 Vous pouvez installer Epsilon sur bootloader sans bloquer le calculatrice.
 
