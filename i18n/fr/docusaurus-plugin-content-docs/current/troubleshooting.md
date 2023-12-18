@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 95
 title: "Dépannage"
 pagination_next: null
 pagination_prev: null
@@ -20,11 +20,12 @@ Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numwor
 
 ### Écran noir, rien d'autre
 
-Il y a 4 raisons possibles:
+Il y a 5 raisons possibles:
 - Votre calculatrice est en mode veille, appuyez sur le bouton power pour la rallumer.
 - Votre calculatrice est peut-être victime d'un bug, appuyez sur reset au dos.
 - Votre calculatrice est peut-être déchargée, essayez de la laisser charger quelques minutes.
 - La batterie est déconnectée, vous pourriez avoir besoin d'ouvrir votre calculatrice pour la rebrancher.
+- Si vous avec une n0100, vous êtes peut-être en mode Recovery, débranchez le cable, et appuyez sur reset au dos?.
 
 Si cela ne résout pas le problème, contactez Numworks.
 

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 10
 title: "Restaurer le firmware officiel"
 pagination_next: null
 pagination_prev: null

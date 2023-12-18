@@ -1,5 +1,6 @@
 ---
-title: "Que faire d'une calculatrice bloquée ?"
+sidebar_position: 20
+title: "Déblocage impossible ?"
 pagination_next: null
 pagination_prev: intro
 ---

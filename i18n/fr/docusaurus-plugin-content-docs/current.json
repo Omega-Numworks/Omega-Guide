@@ -27,19 +27,11 @@
     "message": "Comment débloquer sa Numworks pour installer un OS Custom",
     "description": "The generated-index page description for category Unlock before installation in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.No Custom OS": {
-    "message": "Pas d'OS Custom",
-    "description": "The label for category No Custom OS in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.No Custom OS.link.generated-index.description": {
-    "message": "What you can do with a locked calculator",
-    "description": "The generated-index page description for category No Custom OS in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Custom OS": {
-    "message": "OS Custom",
+  "sidebar.tutorialSidebar.category.Installing an OS": {
+    "message": "Installer un OS",
     "description": "The label for category Custom OS in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Custom OS.link.generated-index.description": {
+  "sidebar.tutorialSidebar.category.Installing an OS.link.generated-index.description": {
     "message": "Qu'est-il possible avec un OS Custom ?",
     "description": "The generated-index page description for category Custom OS in sidebar tutorialSidebar"
   }

@@ -22,7 +22,7 @@ Ce guide va utiliser certains noms, avant de commencer vous devez savoir à qui 
 5. Bootloader ("softloader"): C'est un menu auquel vous pouvez accéder de différentes manières, cela dépend de l'OS Custom que vous choisissez. Il vous permet de réinstaller le firmware et peut vous empêcher de bloquer votre calculatrice si vous la mettez à jour. Phi vous permet d'en installer un si vous le souhaitez
 
 :::info
-Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujours certaines choses que vous pouvez faire](no-custom/what-to-do-locked)
+Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujours certaines choses que vous pouvez faire](what-to-do-locked)
 :::
 
 #### Préréquis
@@ -42,6 +42,6 @@ Si vous ne voulez pas profondément modifier votre calculatrice, [il y a toujour
 
 | Modèle de calculatrice | Que faut-il faire ? |
 |------------------|----------------------------------------------------------------|
-| N0100            | [Votre calculatrice est déja dévérouillée, choisisez un OS Custom](/docs/cfw/choose-a-cfw) |
-| N0110            | [Vérifiez si votre calculatrice est verrouillée](/docs/unlock/n0110-is-locked) |
-| N0115 - N0120    | [Vous ne pouvez pas installer d'OS Custom dessus. Mais il y a toujours certaines choses que vous pouvez faire](/docs/no-custom/what-to-do-locked) |
+| N0100            | [Votre calculatrice est déja dévérouillée, choisisez un OS Custom](cfw/choose-a-cfw) |
+| N0110            | [Vérifiez si votre calculatrice est verrouillée](unlock/n0110-is-locked) |
+| N0115 - N0120    | [Vous ne pouvez pas installer d'OS Custom dessus. Mais il y a toujours certaines choses que vous pouvez faire](what-to-do-locked) |

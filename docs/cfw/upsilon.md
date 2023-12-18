@@ -69,6 +69,15 @@ Upsilon support external apps, there are a few but they are useful. Here is how 
 4. Add a wallpaper if you want
 5. Click install
 
+#### Reader (not for n0100)
+
+Upsilon has a reader app. It can display text files and LaTeX expressions.
+
+Any file with the `.txt` extension can be read, however if you want to use LaTeX expressions, you need to change the extension to `.urt`. What is inside the file stays the same but Upsilon will display LaTeX expressions.
+All the LaTeX expressions are documented [here](https://getupsilon.web.app/doc/reader).
+
+To transfer your file, send it through the [External apps page](https://upsilonnumworks.github.io/Upsilon-External/).
+
 #### Installing Epsilon (not for n0100)
 
 You can install Epsilon on the bootloader without locking the calculator.

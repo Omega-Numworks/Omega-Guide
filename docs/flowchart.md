@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 50
 title: "Site map"
 pagination_next: null
 pagination_prev: null
@@ -22,7 +22,7 @@ flowchart TD
     model_number --Other--> goto_discord([Go to Omega Discord server])
 
     click model_number "./intro"
-    click calc_locked_no_modif "./no-custom/what-to-do-locked"
+    click calc_locked_no_modif "./what-to-do-locked"
     click calc_unlocked "./cfw/choose-a-cfw"
     click goto_discord "https://discord.gg/X2TWhh9"
 
@@ -46,12 +46,12 @@ flowchart TD
     click install_18_2_0 "./unlock/phi/install-epsilon-18-2-0"
     click phi "./unlock/phi"
     click hardware_method "./unlock/hardware/n0110-hardware-unlock"
-    click calc_locked_n0110 "./no-custom/what-to-do-locked"
+    click calc_locked_n0110 "./what-to-do-locked"
     click calc_unlocked_n0110 "./cfw/choose-a-cfw"
 
     end
 
     calc_locked_new_calcs([Your calculator is locked, but you can do other things with it])
 
-    click calc_locked_new_calcs "./no-custom/what-to-do-locked"
+    click calc_locked_new_calcs "./what-to-do-locked"
 ```
