@@ -16,8 +16,16 @@
   }
 }
 
+
 .buttons {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
