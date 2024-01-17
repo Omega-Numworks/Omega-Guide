@@ -9,11 +9,11 @@ Vous pourriez avoir besoin de changer la version de votre calculatrice, nous ins
 
 ### Si vous avez Epsilon 15 et avant
 
-Vous n'avez pas besoin de changer de version, continuez vers [Et maintenant ?](/docs/unlock/n0110-unlocked)
+Vous n'avez pas besoin de changer de version, continuez vers [Et maintenant ?](./n0110-unlocked)
 
 ### Si vous avez Epsilon 16 à 18.2.0 (mais pas 16.4.3)
 
-Vous n'avez pas besoin de changer de version, continuez vers [Phi](/docs/unlock/phi)
+Vous n'avez pas besoin de changer de version, continuez vers [Phi](./phi)
 
 ### Si vous avez Epsilon 16.4.3 ou 18.2.3
 
