@@ -44,6 +44,6 @@ If you don't want to deeply modify your calculator, [there are still a few thing
 
 | Calculator Model | What to do                                                                                      |
 |------------------|-------------------------------------------------------------------------------------------------|
-| N0100            | [Your calculator is already unlocked. Choose a Custom OS](cfw/choose-a-cfw)                     |
-| N0110            | [Check if your calculator is locked](unlock/n0110-is-locked)                               |
-| N0115 - N0120    | [You can't install a Custom OS on it. But there are still a few things you can do](what-to-do-locked) |
+| N0100            | [Your calculator is already unlocked. Choose a Custom OS](../cfw/choose-a-cfw)                     |
+| N0110            | [Check if your calculator is locked](../unlock/n0110-is-locked)                               |
+| N0115 - N0120    | [You can't install a Custom OS on it. But there are still a few things you can do](../what-to-do-locked) |
