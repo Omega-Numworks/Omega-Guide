@@ -54,4 +54,4 @@ If possible, you should follow one of the software methods listed above.
 
 Otherwise, methods that work on all versions are available, but require additional hardware:
 
-1. [Hardware Unlock](hardware/n0110-hardware-unlock) - requires special tools
+1. [Hardware Unlock](./hardware/n0110-hardware-unlock) - requires special tools
