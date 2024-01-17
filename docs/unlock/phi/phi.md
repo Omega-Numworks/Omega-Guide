@@ -33,7 +33,7 @@ The exploit used at the moment is compatible with Epsilon 16.3.0 trough 18.2.0.
 ![Phi launch screen](/img/phi-launch.png)
 
 :::info
-If the screen turns Yellow, the version or Epsilon you're using isn't yet supported. You may need to [change your version](/docs/unlock/phi/check-version-change-eligibility).
+If the screen turns Yellow, the version or Epsilon you're using isn't yet supported. You may need to [change your version](./phi/check-version-change-eligibility).
 :::
 
 :::caution

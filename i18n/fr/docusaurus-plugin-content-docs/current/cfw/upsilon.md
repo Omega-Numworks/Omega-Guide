@@ -6,7 +6,7 @@ pagination_prev: cfw/choose-a-cfw
 ---
 
 :::info
-Vous avez besoin d'une calculatrice débloquée. [Pour la débloquer continuez ici](/docs/intro)
+Vous avez besoin d'une calculatrice débloquée. [Pour la débloquer continuez ici](../intro)
 :::
 
 tte page expliquera comment installer Upsilon, en considérant que vous avez une calculatrice débloquée
@@ -78,7 +78,7 @@ Pour transférer votre fichier, envoyez-le avec la [page des applis externes](ht
 
 Vous pouvez installer Epsilon sur bootloader sans bloquer le calculatrice.
 
-Allez voir [Installer Epsilon depuis le Softloader](/docs/cfw/install-epsilon-from-softloader)
+Allez voir [Installer Epsilon depuis le Softloader](./install-epsilon-from-softloader)
 
 #### Créer votre propre version
 

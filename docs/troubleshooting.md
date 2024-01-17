@@ -15,7 +15,7 @@ Your calculator is in Recovery mode, it's waiting to receive a firmware, so it's
 
 This is Numworks' bootloader. It shows up when the calculator is locked and you started the Recovery mode by holding 6 and pressing reset, or when the calculator couldn't start.
 
-If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0).
+If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](./unlock/phi/install-epsilon-18-2-0).
 
 ### Black screen, nothing else
 
@@ -64,7 +64,7 @@ This can easily be fixed if you close the tab or software already connected to i
 
 This means your calculator is protected against CFM installation. If you want to install a Custom OS, you need to unlock it.
 
-Follow [this guide](intro) to unlock it.
+Follow [this guide](./intro) to unlock it.
 
 ### Recovery mode (Black Screen + Red Led), calculator not recognized
 

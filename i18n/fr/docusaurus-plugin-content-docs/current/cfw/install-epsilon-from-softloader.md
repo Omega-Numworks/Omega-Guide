@@ -24,11 +24,11 @@ Nous allons maintenant installer Epsilon sur un slot de la calculatrice, en cons
 ### Ce dont vous avez besoin
 
 - Un PC avec un navigateur basé Chromium (on recommande d'utiliser directement [chromium](https://www.chromium.org/chromium-projects/))
-- Un bootloader custom compatible installé (si vous ne savez pas, regardez [cette page](/docs/cfw/choose-a-cfw))
+- Un bootloader custom compatible installé (si vous ne savez pas, regardez [cette page](./choose-a-cfw))
 
 ### Section I - Ouvrir le bootloader
 
-Si votre CFW inclut un bootloader qui permet d'installer un firmware depuis celui-ci, vous devriez donc ouvrir le bootloader et le rendre prêt à installer quoi que ce soit. De l'aide eut être trouvée sur [cette page](/docs/cfw/choose-a-cfw)
+Si votre CFW inclut un bootloader qui permet d'installer un firmware depuis celui-ci, vous devriez donc ouvrir le bootloader et le rendre prêt à installer quoi que ce soit. De l'aide eut être trouvée sur [cette page](./choose-a-cfw)
 
 ### Section II - Installation
 

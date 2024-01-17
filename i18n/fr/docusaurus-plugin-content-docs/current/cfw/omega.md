@@ -6,7 +6,7 @@ pagination_prev: cfw/choose-a-cfw
 ---
 
 :::info
-Vous avez besoin d'une calculatrice débloquée. [Pour la débloquer continuez ici](/docs/intro)
+Vous avez besoin d'une calculatrice débloquée. [Pour la débloquer continuez ici](../intro)
 :::
 
 Cette page expliquera comment installer Omega, en considérant que vous avez une calculatrice débloquée
@@ -62,7 +62,7 @@ Omega supporte les applis externes, il y en a quelques unes mais elles sont util
 
 Vous pouvez installer Epsilon sur bootloader sans bloquer le calculatrice.
 
-Allez voir [Installer Epsilon depuis le Softloader](/docs/cfw/install-epsilon-from-softloader)
+Allez voir [Installer Epsilon depuis le Softloader](./install-epsilon-from-softloader)
 
 #### Créer votre propre version
 
