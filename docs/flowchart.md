@@ -22,7 +22,7 @@ flowchart TD
     model_number --Other--> goto_discord([Go to Omega Discord server])
 
     click model_number "./intro"
-    click calc_locked_no_modif "./what-to-do-locked"
+    click calc_locked_no_modif "./unlock/what-to-do-locked"
     click calc_unlocked "./cfw/choose-a-cfw"
     click goto_discord "https://discord.gg/X2TWhh9"
 
@@ -53,5 +53,5 @@ flowchart TD
 
     calc_locked_new_calcs([Your calculator is locked, but you can do other things with it])
 
-    click calc_locked_new_calcs "./what-to-do-locked"
+    click calc_locked_new_calcs "./unlock/what-to-do-locked"
 ```
