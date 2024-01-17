@@ -69,7 +69,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/embed-img.png',
+      image: 'img/embed-img.jpg',
       navbar: {
         title: 'Numworks Guide',
         logo: {
