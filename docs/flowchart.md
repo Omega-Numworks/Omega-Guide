@@ -53,5 +53,5 @@ flowchart TD
 
     calc_locked_new_calcs([Your calculator is locked, but you can do other things with it])
 
-    click calc_locked_new_calcs "./what-to-do-locked"
+    click calc_locked_new_calcs "../what-to-do-locked"
 ```
