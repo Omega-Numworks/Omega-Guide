@@ -15,5 +15,5 @@ Il y a plusieurs OS Custom que vous pouvez installer sur votre calculatrice, la 
 
 | OS | Avantages |
 |-----|-----------|
-| [Omega](/docs/cfw/omega) | L'OS Custom le plus populaire pour Numworks, basé sur Epsilon 15.5.0. Il restaure le calcul symbolique, permet l'installation d'applications externes, et ajoute des libraries Python |
-| [Upsilon](/docs/cfw/upsilon) | Basé sur Omega, Upsilon apporte plus de fonctions et de confort comparé à Omega, comme une liseuse LaTeX, plus de stockage pour les scripts Python, et un meilleur bootloader |
+| [Omega](./omega) | L'OS Custom le plus populaire pour Numworks, basé sur Epsilon 15.5.0. Il restaure le calcul symbolique, permet l'installation d'applications externes, et ajoute des libraries Python |
+| [Upsilon](./upsilon) | Basé sur Omega, Upsilon apporte plus de fonctions et de confort comparé à Omega, comme une liseuse LaTeX, plus de stockage pour les scripts Python, et un meilleur bootloader |
