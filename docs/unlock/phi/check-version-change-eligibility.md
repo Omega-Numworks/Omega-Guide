@@ -9,11 +9,11 @@ You may need to change Epsilon's version to unlock your calculator, we usually i
 
 ### If you have Epsilon 15 or lower
 
-You don't need to change your version, just go to [Now What ?](/docs/unlock/n0110-unlocked)
+You don't need to change your version, just go to [Now What ?](../n0110-unlocked)
 
 ### If you have Epsilon 16 to 18.2.0 (but not 16.4.3)
 
-You don't need to change your version, just go to [Phi](/docs/unlock/phi)
+You don't need to change your version, just go to [Phi](../phi)
 
 ### If you have Epsilon 16.4.3 or 18.2.3
 
