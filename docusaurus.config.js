@@ -69,11 +69,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/embed-img.png',
       navbar: {
         title: 'Numworks Guide',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Numworks Guide',
           src: 'img/favicon.ico',
         },
         items: [
