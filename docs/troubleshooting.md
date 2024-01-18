@@ -126,6 +126,12 @@ This can happen on Windows and Linux:
   5. Dont search automatically for drivers, Search for it manually. Then decide to choose in a list.
   6. Select the Numworks driver, then press next
   7. The driver should be correctly installed, you can now connect in recovery mode and it should work.
+  
+  :::note
+  
+  Some software like music production ones may keep reinstalling the wrong driver. If it happens, close these softwares to be able to change the driver.
+  
+  :::
 
 ### Crash when starting Upsilon
 
