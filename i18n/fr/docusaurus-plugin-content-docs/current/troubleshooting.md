@@ -134,6 +134,12 @@ Cela peut arriver sur Windows et Linux
   5. Ne recherchez pas automatiquement un driver, cherchez-le manuellement, puis décidez de choisir dans une liste.
   6. Sélectionnez le driver Numworks, puis cliquer sur "Suivant"
   7. Le driver devrait être correctement installé, vous pouvez maintenant connecter en mode Recovery et cela devrait marcher.
+  
+  :::note
+
+  Certains logiciels comme ceux de production musicale pourraient réinstaller en boucle le mauvais driver. Si cela arrive, fermez ces logiciels pour pouvoir changer le driver.
+  
+  :::
 
 ### Plantage en lançant Upsilon
 
