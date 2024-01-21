@@ -40,12 +40,12 @@ Use the version table below to select a method. A few things to note:
 
 | System Version | What to do                                                           |
 |----------------|----------------------------------------------------------------------|
-| 11.2.0-16.2.0  | [Now what ?](./n0110-unlocked)                                         |
-| 16.3.0-16.4.2  | [Phi](./phi)                                                           |
-| 16.4.3         | [Install Epsilon 18.2.0](./phi/install-epsilon-18-2-0)                     |
-| 17.0.0-18.2.0  | [Phi](./phi)                                                           |
-| 18.2.3         | [Install Epsilon 18.2.0](./phi/install-epsilon-18-2-0)                     |
-| 19.0.0-22.2.0  | [Check version change eligibility](./phi/check-version-change-eligibility) |
+| 11.2.0-16.2.0  | [Now what ?](../n0110-unlocked)                                         |
+| 16.3.0-16.4.2  | [Phi](../phi)                                                           |
+| 16.4.3         | [Install Epsilon 18.2.0](../phi/install-epsilon-18-2-0)                     |
+| 17.0.0-18.2.0  | [Phi](../phi)                                                           |
+| 18.2.3         | [Install Epsilon 18.2.0](../phi/install-epsilon-18-2-0)                     |
+| 19.0.0-22.2.0  | [Check version change eligibility](../phi/check-version-change-eligibility) |
 
 ---
 #### Alternate Methods {#alt-methods}
