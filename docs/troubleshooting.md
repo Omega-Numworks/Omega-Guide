@@ -72,6 +72,10 @@ Your calculator looks like it's in recovery mode but it isn't.
 
 Hold 6 and click reset to start it in recovery mode, it will look the same but this time, it will be recognized.
 
+### "Invalid" Slot in bootloader
+
+This means the slot does not contain any working OS. You have to reinstall it yourself if you want to use it.
+
 ### "Memory is corrupted" when adding python scripts
 
 It can happen when the custom bootloader is too old. To update it : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer, then select "recovery" on custom firmware's website.
@@ -122,6 +126,12 @@ This can happen on Windows and Linux:
   5. Dont search automatically for drivers, Search for it manually. Then decide to choose in a list.
   6. Select the Numworks driver, then press next
   7. The driver should be correctly installed, you can now connect in recovery mode and it should work.
+  
+  :::note
+  
+  Some software like music production ones may keep reinstalling the wrong driver. If it happens, close these softwares to be able to change the driver.
+  
+  :::
 
 ### Crash when starting Upsilon
 

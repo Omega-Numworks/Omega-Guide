@@ -53,12 +53,6 @@ Dans le cas du Snap, exécutez la commande: `snap connect [Application ID]:raw-u
 
 Notez bien que redémarrer le navigateur risque d'être nécessaire si vous débranchez et rebranchez la calculatrice.
 
-### Mode Recovery (écran noir + LED rouge), mais calculatrice non reconnue sur l'ordinateur.
-
-Votre calculatrice a l'air d'être en mode Recovery mais elle ne l'est pas
-
-Maintenez 6 et cliquez sur reset pour la démarrer en mode Recovery, ça aura l'air d'être pareil mais cette fois, elle sera reconnue.
-
 ### "CommandName is not defined"
 
 Vous essayer de faire quelque chose avec la calculatrice alors qu'elle n'est pas dans le bon mode, comme essayer d'installer des applications avec la calculatrice en mode Recovery ou sur n0100.
@@ -77,6 +71,16 @@ Il ne peut y avoir qu'un seul onglet (ou logiciel) établissant une connexion à
 Cela veut dire que votre calculatrice est verrouillée contre l'installation de OS Custom. Si vous voulez installer un OS Custom, vous avez besoin de la débloquer.
 
 Suivez [ce guide](./intro) pour la débloquer.
+
+### Mode Recovery (écran noir + LED rouge), mais calculatrice non reconnue sur l'ordinateur.
+
+Votre calculatrice a l'air d'être en mode Recovery mais elle ne l'est pas
+
+Maintenez 6 et cliquez sur reset pour la démarrer en mode Recovery, ça aura l'air d'être pareil mais cette fois, elle sera reconnue.
+
+### Slot "Invalid" dans le bootloader
+
+Cela veut dire que le slot ne comtient pas d'OS fonctionnel. Vous devez le réinstaller vous-même si vous voulez l'utiliser.
 
 ### "Mémoire corrompue" en essayant d'ajouter des scripts Python
 
@@ -130,6 +134,12 @@ Cela peut arriver sur Windows et Linux
   5. Ne recherchez pas automatiquement un driver, cherchez-le manuellement, puis décidez de choisir dans une liste.
   6. Sélectionnez le driver Numworks, puis cliquer sur "Suivant"
   7. Le driver devrait être correctement installé, vous pouvez maintenant connecter en mode Recovery et cela devrait marcher.
+  
+  :::note
+
+  Certains logiciels comme ceux de production musicale pourraient réinstaller en boucle le mauvais driver. Si cela arrive, fermez ces logiciels pour pouvoir changer le driver.
+  
+  :::
 
 ### Plantage en lançant Upsilon
 
