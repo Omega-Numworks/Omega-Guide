@@ -10,7 +10,7 @@ Un grand merci à:
 - M4x1m3, le créateur original du guide
 - Rathmox d'avoir complété le guide.
 - WonderHunter pour la traduction en Français.
-- Rathmox and BloomyInDev d'avoir porté le guide à [Docusaurus](https://docusaurus.io/)
+- Rathmox et BloomyInDev d'avoir porté le guide à [Docusaurus](https://docusaurus.io/)
 :::
 
 Si nous vous avons oublié ici, [contactez-nous](https://github.com/Omega-Numworks/Omega-Guide) et nous vous ajouterons dans la liste des contributeurs

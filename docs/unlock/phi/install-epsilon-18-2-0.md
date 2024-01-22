@@ -48,6 +48,6 @@ You should now see version 18.2.0 in Settings > About.
 
 :::caution
 
-If it is not the case or your Numworks doesn't boot, you can only use an [alternate method](../n0110-is-locked#alt-methods).
+If it is not the case or your Numworks doesn't boot, you can only use an [alternate method](/docs/unlock/n0110-is-locked#alt-methods).
 
 :::
