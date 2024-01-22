@@ -27,7 +27,7 @@ Si vous voyez un écran comme celui-ci, vous pouvez procéder :
 
 :::caution
 
-Si l'écran reste noir et que la LED devient rouge, **STOP** - votre calculatrice est déjà déverrouillée ! Continuez à partir d'[ici](./n0110-unlocked).
+Si l'écran reste noir et que la LED devient rouge, **STOP** - votre calculatrice est déjà déverrouillée ! Continuez à partir d'[ici](/docs/unlock/n0110-unlocked).
 
 :::
 
@@ -41,12 +41,12 @@ Utilisez le tableau des versions ci-dessous pour sélectionner une méthode. Que
 
 | Version du système | Que faire                                                        |
 |--------------------|------------------------------------------------------------------|
-| 11.2.0-16.2.0  | [Et maintenant ?](./n0110-unlocked)                                         |
-| 16.3.0-16.4.2  | [Phi](./phi)                                                           |
-| 16.4.3         | [Installer Epsilon 18.2.0](./phi/install-epsilon-18-2-0)                     |
-| 17.0.0-18.2.0  | [Phi](./phi)                                                           |
-| 18.2.3         | [Installer Epsilon 18.2.0](./phi/install-epsilon-18-2-0)                     |
-| 19.0.0-22.2.0  | [Vérifier l'éligibilité au changement de version](./phi/check-version-change-eligibility) |
+| 11.2.0-16.2.0  | [Et maintenant ?](/docs/unlock/n0110-unlocked)                                         |
+| 16.3.0-16.4.2  | [Phi](/docs/unlock/phi)                                                           |
+| 16.4.3         | [Installer Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0)                     |
+| 17.0.0-18.2.0  | [Phi](/docs/unlock/phi)                                                           |
+| 18.2.3         | [Installer Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0)                     |
+| 19.0.0-22.2.0  | [Vérifier l'éligibilité au changement de version](/docs/unlock/phi/check-version-change-eligibility) |
 
 ---
 #### Méthodes alternatives {#alt-methods}

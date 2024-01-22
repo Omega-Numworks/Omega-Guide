@@ -30,11 +30,11 @@ We will now install Epsilon on one slot of your calculator, assuming you have a 
 ### What You Need
 
 - A PC with a chromium-based browser (we recommend using [chromium](https://www.chromium.org/chromium-projects/) directly)
-- A compatible custom bootloader installed (if you don't know, see [this page](./choose-a-cfw))
+- A compatible custom bootloader installed (if you don't know, see [this page](/docs/cfw/choose-a-cfw))
 
 ### Section I - Open the bootloader
 
-If your Custom OS includes a custom bootloader that allows installing a firmware from it, you should now open the bootloader and make it ready to install anything. Some help can be found on [this page](./choose-a-cfw)
+If your Custom OS includes a custom bootloader that allows installing a firmware from it, you should now open the bootloader and make it ready to install anything. Some help can be found on [this page](/docs/cfw/choose-a-cfw)
 
 ### Section II - Install
 
