@@ -8,7 +8,7 @@ sidebar_position: 2
 Nous allons maintenant installer Epsilon 18.2.0
 
 :::info
-Si vous n'êtes pas sur que vous puissiez installer Epsilon 18.2.0, allez voir [cette page](/docs/unlock/phi/check-version-change-eligibility)
+Si vous n'êtes pas sur que vous puissiez installer Epsilon 18.2.0, allez voir [cette page](./check-version-change-eligibility)
 :::
 
 ### Ce dont vous avez besoin

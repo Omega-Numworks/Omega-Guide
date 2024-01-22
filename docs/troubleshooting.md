@@ -15,7 +15,7 @@ Your calculator is in Recovery mode, it's waiting to receive a firmware, so it's
 
 This is Numworks' bootloader. It shows up when the calculator is locked and you started the Recovery mode by holding 6 and pressing reset, or when the calculator couldn't start.
 
-If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0).
+If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](./unlock/phi/install-epsilon-18-2-0).
 
 ### Black screen, nothing else
 
@@ -64,13 +64,17 @@ This can easily be fixed if you close the tab or software already connected to i
 
 This means your calculator is protected against CFM installation. If you want to install a Custom OS, you need to unlock it.
 
-Follow [this guide](intro) to unlock it.
+Follow [this guide](./intro) to unlock it.
 
 ### Recovery mode (Black Screen + Red Led), calculator not recognized
 
 Your calculator looks like it's in recovery mode but it isn't.
 
 Hold 6 and click reset to start it in recovery mode, it will look the same but this time, it will be recognized.
+
+### "Invalid" Slot in bootloader
+
+This means the slot does not contain any working OS. You have to reinstall it yourself if you want to use it.
 
 ### "Memory is corrupted" when adding python scripts
 
@@ -122,6 +126,12 @@ This can happen on Windows and Linux:
   5. Dont search automatically for drivers, Search for it manually. Then decide to choose in a list.
   6. Select the Numworks driver, then press next
   7. The driver should be correctly installed, you can now connect in recovery mode and it should work.
+  
+  :::note
+  
+  Some software like music production ones may keep reinstalling the wrong driver. If it happens, close these softwares to be able to change the driver.
+  
+  :::
 
 ### Crash when starting Upsilon
 
