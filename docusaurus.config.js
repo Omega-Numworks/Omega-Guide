@@ -21,8 +21,8 @@ const config = {
   organizationName: 'Omega-Numworks', // Usually your GitHub org/user name.
   projectName: 'Omega-Guide', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'throw',
   
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -69,7 +69,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/embed-img.jpg',
       navbar: {
         title: 'Numworks Guide',
         logo: {

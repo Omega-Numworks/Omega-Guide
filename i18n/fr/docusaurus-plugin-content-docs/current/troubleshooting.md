@@ -10,13 +10,13 @@ pagination_prev: null
 Tout va bien : un écran noir et une led rouge signifient que votre calculatrice est en mode Recovery, elle attend de recevoir un firmware, elle est donc débloquée. 
 **ATTENTION : Dans ce mode, Si vous faites une mise à jour depuis le site de Numworks, vous allez faire une re-installation complète de la calculatrice avec la dernière version du système de gestion de Numworks. Vous allez alors verrouiller la calculatrice : les installations de Custom Firmwares tels que Omega ou Opsilon seront bloquées.**
 
-[Choisissez un OS Custom](./cfw/choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, installez d'abord à ce stade un OS Custom compatible, puis installer Epsilon en veillant à ne pas être en mode recovery)
+[Choisissez un OS Custom](/docs/cfw/choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, installez d'abord à ce stade un OS Custom compatible, puis installer Epsilon en veillant à ne pas être en mode recovery)
 
 ### Écran noir, cable jaune, et `numworks.com/rescue`
 
 C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est verrouillée (blocage de l'installation des OS Custom) et que vous avez lancé le mode recovery en maintenant 6 et en appuyant sur reset. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
 
-Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](./unlock/phi/install-epsilon-18-2-0).
+Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0).
 
 ### Écran noir, rien d'autre
 
@@ -70,7 +70,7 @@ Il ne peut y avoir qu'un seul onglet (ou logiciel) établissant une connexion à
 
 Cela veut dire que votre calculatrice est verrouillée contre l'installation de OS Custom. Si vous voulez installer un OS Custom, vous avez besoin de la débloquer.
 
-Suivez [ce guide](./intro) pour la débloquer.
+Suivez [ce guide](/docs/intro) pour la débloquer.
 
 ### Mode Recovery (écran noir + LED rouge), mais calculatrice non reconnue sur l'ordinateur.
 
