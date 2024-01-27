@@ -10,7 +10,7 @@ Suivre ce guide peut mettre en danger votre calculatrice. Installer Epsilon de l
 :::
 
 :::caution
-La dernière version d'Epsilon pourrait ne pas être sûre, vérifiez la dernière version [pour n0110](https://my.numworks.com/firmwares/n0110/stable.json) (connexion au compte Numworks nécessaire). Dernière version sûre connue: **22.2.0**
+La dernière version d'Epsilon pourrait ne pas être sûre, vérifiez la dernière version. Dernière version sûre connue: **22.2.0**
 :::
 
 :::info
