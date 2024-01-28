@@ -60,7 +60,7 @@ Omega supporte les applis externes, il y en a quelques unes mais elles sont util
 
 #### Installer Epsilon (pas pour n0100)
 
-Vous pouvez installer Epsilon sur bootloader sans bloquer le calculatrice.
+Vous pouvez installer Epsilon sur bootloader sans bloquer la calculatrice.
 
 Allez voir [Installer Epsilon depuis le Softloader](/docs/cfw/install-epsilon-from-softloader)
 
