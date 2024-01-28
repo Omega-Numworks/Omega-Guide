@@ -76,7 +76,7 @@ Pour transférer votre fichier, envoyez-le avec la [page des applis externes](ht
 
 #### Installer Epsilon (pas pour n0100)
 
-Vous pouvez installer Epsilon sur bootloader sans bloquer le calculatrice.
+Vous pouvez installer Epsilon sur bootloader sans bloquer la calculatrice.
 
 Allez voir [Installer Epsilon depuis le Softloader](/docs/cfw/install-epsilon-from-softloader)
 
