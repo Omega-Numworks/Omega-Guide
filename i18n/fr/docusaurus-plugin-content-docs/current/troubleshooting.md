@@ -6,7 +6,7 @@ pagination_prev: null
 ---
 Cette page liste toutes les erreurs connues que vous pouvez rencontrer en modifiant votre Numworks.
 
-## Sur n'importe quelel calculatrice
+## Sur n'importe quelle calculatrice
 
 ### Écran noir et LED rouge
 
