@@ -5,6 +5,10 @@ pagination_next: null
 pagination_prev: null
 ---
 
+This pages lists all knows errors you can get when modding your Numworks. 
+
+## On any Calculator
+
 ### Black screen and red LED
 
 Your calculator is in Recovery mode, it's waiting to receive a firmware, so it's unlocked. **If you update from Numworks' website, your calculator will be locked**
@@ -34,6 +38,8 @@ There are 2 possible reasons:
 - You have enabled the clock in the settings, some custom firmwares include it. The clock consumes a lot of battery and it's highly recommended to disable it.
 - Your calculator keeps the led green. This is a hardware issue that tricks the calculator into thinking it's constantly charging and so fully charged while it's not the case. You should contact Numworks to replace your calculator
 
+## Connecting your calculator to your computer
+
 ### Calculator not detected
 
 it means the driver or config file isn't installed on Windows or Linux.
@@ -48,71 +54,17 @@ You can also run this command: `flatpak override --user --filesystem=/run/udev [
 
 Don't forget that you may need to restart your web browser if you unplug and replug the calculator.
 
-### "CommandName is not defined"
-
-You are trying to do something with the calculator but the calculator isn't in the right mode, like trying to install apps with the calculator in Recovery Mode or on n0100.
-
-Try to use the right mode, for external apps just run it in normal mode.
-
-### "Unable to claim interface"
-
-This error is displayed when you try to connect your calculator but it's already used by another tab or software. It usually happens when you try to install external apps but the tab you used to install your custom firmware is still open.
-
-This can easily be fixed if you close the tab or software already connected to it. Only one tab (or software) at a time can establish the connection to the calculator.
-
-### "Could not detect the calculator model" / "N????"
-
-This means your calculator is protected against CFM installation. If you want to install a Custom OS, you need to unlock it.
-
-Follow [this guide](./intro) to unlock it.
-
 ### Recovery mode (Black Screen + Red Led), calculator not recognized
 
 Your calculator looks like it's in recovery mode but it isn't.
 
 Hold 6 and click reset to start it in recovery mode, it will look the same but this time, it will be recognized.
 
-### "Invalid" Slot in bootloader
+### "Unable to claim interface"
 
-This means the slot does not contain any working OS. You have to reinstall it yourself if you want to use it.
+This error is displayed when you try to connect your calculator but it's already used by another tab or software. It usually happens when you try to install external apps but the tab you used to install your custom firmware is still open.
 
-### "Memory is corrupted" when adding python scripts
-
-It can happen when the custom bootloader is too old. To update it : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer, then select "recovery" on custom firmware's website.
-
-### Screen and led blinking
-
-You are trying to run Epsilon 19 with an old custom bootloader.
-
-Update the bootloader : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer,  then select "recovery" on custom firmware's website.
-
-### Installation takes infinite amout of time
-
-This can happen on Omega's website and on Numworks' website. Unless your calculator is locked, the firmware is already installed but the website is trying to boot the calculator and it can't.
-
-Just click reset on the calculator and it should be fixed
-
-### "Address 0x90000000 outside of memory map"
-
-You are trying to flash the external partition but the calculator is not in the right mode. This can't work.
-
-You need to flash while in Numworks' bootloader, the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when installing Omega in Recovery mode)
-
-### Calculator restarts when trying to install custom firmware
-
-Your calculator is running Epsilon 19 or higher, it can happen when the calculator is locked or when you are running it from custom bootloader.
-
-Just restart the calculator in bootloader or any other firmware that isn't Epsilon 19 or higher
-
-### "ControlTransferIn" / "ControlTransferOut"
-
-Something interrupted the connection with the calculator.
-
-Make sure you are in the right mode and no other app or tab is using the calculator.
-
-### "DFU DOWNLOAD FAILED"
-
-You may not be using the right WebDFU, make sure you are using [TI-Planet's WebDFU](https://ti-planet.github.io/webdfu_numworks/n0110/)
+This can easily be fixed if you close the tab or software already connected to it. Only one tab (or software) at a time can establish the connection to the calculator.
 
 ### "Access Denied" when trying to connect the calculator in Recovery mode
 
@@ -132,6 +84,68 @@ This can happen on Windows and Linux:
   Some software like music production ones may keep reinstalling the wrong driver. If it happens, close these softwares to be able to change the driver.
   
   :::
+
+### "Could not detect the calculator model" / "N????"
+
+This means your calculator is protected against CFM installation. If you want to install a Custom OS, you need to unlock it.
+
+Follow [this guide](./intro) to unlock it.
+
+## Modifying the calculator
+
+### Installation takes infinite amout of time
+
+This can happen on Omega's website and on Numworks' website. Unless your calculator is locked, the firmware is already installed but the website is trying to boot the calculator and it can't.
+
+Just click reset on the calculator and it should be fixed
+
+### "CommandName is not defined"
+
+You are trying to do something with the calculator but the calculator isn't in the right mode, like trying to install apps with the calculator in Recovery Mode or on n0100.
+
+Try to use the right mode, for external apps just run it in normal mode.
+
+### Calculator restarts when trying to install custom firmware
+
+Your calculator is running Epsilon 19 or higher, it can happen when the calculator is locked or when you are running it from custom bootloader.
+
+Just restart the calculator in bootloader or any other firmware that isn't Epsilon 19 or higher
+
+### "ControlTransferIn" / "ControlTransferOut"
+
+Something interrupted the connection with the calculator.
+
+Make sure you are in the right mode and no other app or tab is using the calculator.
+
+### "DFU DOWNLOAD FAILED"
+
+You may not be using the right WebDFU, make sure you are using [TI-Planet's WebDFU](https://ti-planet.github.io/webdfu_numworks/n0110/)
+
+### "Address 0x90000000 outside of memory map"
+
+You are trying to flash the external partition but the calculator is not in the right mode. This can't work.
+
+You need to flash while in Numworks' bootloader, the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when installing Omega in Recovery mode)
+
+### Address 90a687ff outside of memory map
+
+You are trying to install more than what the calculator can support.
+
+## On modded calculators
+
+### "Invalid" Slot in bootloader
+
+This means the slot does not contain any working OS. You have to reinstall it yourself if you want to use it.
+
+### Screen and led blinking
+
+You are trying to run Epsilon 19 with an old custom bootloader.
+
+Update the bootloader : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer,  then select "recovery" on custom firmware's website.
+
+### "Memory is corrupted" when adding python scripts
+
+It can happen when the custom bootloader is too old. To update it : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer, then select "recovery" on custom firmware's website.
 
 ### Crash when starting Upsilon
 
