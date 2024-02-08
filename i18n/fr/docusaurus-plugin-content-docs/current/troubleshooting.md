@@ -4,6 +4,9 @@ title: "Dépannage"
 pagination_next: null
 pagination_prev: null
 ---
+Cette page liste toutes les erreurs connues que vous pouvez rencontrer en modifiant votre Numworks.
+
+## Sur n'importe quelel calculatrice
 
 ### Écran noir et LED rouge
 
@@ -35,6 +38,8 @@ Il y a 2 raisons possibles:
 - Vous avez activé l'horloge dans les paramètres, certains firmwares en contiennent une. L'horloge consome beaucoup de batterie et il est fartement recommandé de la désactiver.
 - Votre calculatrice garde la LED verte. C'est un problème matériel qui fait penser à la calulatrice qu'elle est constemment en train de charger et donc batterie pleine alors que ce n'est pas le cas. Vous devriez contacter Numworks pour remplacer votre calculatrice.
 
+## Connecter votre calculatrice à votre ordinateur
+
 ### Calculatrice non détectée
 
 Il ya plusieurs raisons possibles: Soit vous ne cliquez pas sur le bon bouton, soit le driver ou le fichier de configuration n'est pas installé sur Windows ou Linux
@@ -53,11 +58,11 @@ Dans le cas du Snap, exécutez la commande: `snap connect [Application ID]:raw-u
 
 Notez bien que redémarrer le navigateur risque d'être nécessaire si vous débranchez et rebranchez la calculatrice.
 
-### "CommandName is not defined"
+### Mode Recovery (écran noir + LED rouge), mais calculatrice non reconnue sur l'ordinateur.
 
-Vous essayer de faire quelque chose avec la calculatrice alors qu'elle n'est pas dans le bon mode, comme essayer d'installer des applications avec la calculatrice en mode Recovery ou sur n0100.
+Votre calculatrice a l'air d'être en mode Recovery mais elle ne l'est pas
 
-Essayez d'utiliser le bon mode, pour des applications externes lancez juste en mode normal.
+Maintenez 6 et cliquez sur reset pour la démarrer en mode Recovery, ça aura l'air d'être pareil mais cette fois, elle sera reconnue.
 
 ### "Unable to claim interface"
 
@@ -65,62 +70,6 @@ Cette erreur arrive quand vous essayez de connecter votre calculatrice mais elle
 
 Ça peut facilement être réglé si vous fermez l'onglet ou le logiciel déjà connecté à la calculatrice.
 Il ne peut y avoir qu'un seul onglet (ou logiciel) établissant une connexion à la calculatrice.
-
-### "Could not detect the calculator model" / "N????"
-
-Cela veut dire que votre calculatrice est verrouillée contre l'installation de OS Custom. Si vous voulez installer un OS Custom, vous avez besoin de la débloquer.
-
-Suivez [ce guide](/docs/intro) pour la débloquer.
-
-### Mode Recovery (écran noir + LED rouge), mais calculatrice non reconnue sur l'ordinateur.
-
-Votre calculatrice a l'air d'être en mode Recovery mais elle ne l'est pas
-
-Maintenez 6 et cliquez sur reset pour la démarrer en mode Recovery, ça aura l'air d'être pareil mais cette fois, elle sera reconnue.
-
-### Slot "Invalid" dans le bootloader
-
-Cela veut dire que le slot ne comtient pas d'OS fonctionnel. Vous devez le réinstaller vous-même si vous voulez l'utiliser.
-
-### "Mémoire corrompue" en essayant d'ajouter des scripts Python
-
-Cela peut arriver quand le bootloader custom est trop ancien.
-
-Pour le mettre à jour : allez sur le site de votre OS Custom, mettez la calculatrice en mode Recovery (en maintenant 6 et en appuyant sur reset au dos de la calculatrice), connectez-la à l'ordinateur, puis choisissez "Restauration" (recovery) sur le site de votre OS Custom.
-
-### Écran et LED clignottants
-
-Vous essayez de démarrer Epsilon 19 sur un ancian bootloader custom.
-
-Mettez à jour le bootloader : allez sur le site de votre OS Custom, mettez la calculatrice en mode Recovery (en maintenant 6 et en appuyant sur reset au dos de la calculatrice), connectez-la à l'ordinateur, puis choisissez "Restauration" (recovery) sur le site de votre OS Custom.
-
-### L'installation n'a pas de fin (installation infinie)
-
-Cela peut arriver sur le site d'Omega et le site de Numworks. A moins que votre calculatrice soit bloquée, le firmware est déjà installé mais le site essaie de démarrer la calculatrice et il n'y arrive pas.
-
-Appuyez juste sur reset sur la calculatrice et ça devrait être réglé.
-
-### "Address 0x90000000 outside of memory map"
-
-Vous essayez de flasher la partition externe mais la calculatrice n'est pas dans le bon mode. Ça ne peut pas marcher.
-
-Vous devez flasher avec l'écran de bootloader Numworks, le bootloader custom ou le flasher du mode recovery (l'écran indiquant "Recovery mode" en installant Omega en mode Recovery)
-
-### La calculatrice redémarre en essayant d'installer un OS Custom
-
-Votre calculatrice est sous Epsilon 19 ou plus, cela peut arriver quand la calculatrice est bloquée ou que vous l'exécutez depuis un bootloader custom.
-
-Redémarrez juste la calculatrice dans le bootloader ou n'importe quel autre firmware qui n'est pas Epsilon 19 ou plus.
-
-### "ControlTransferIn" / "ControlTransferOut"
-
-Quelque chose a interrompu la connextion avec la calculatrice.
-
-Vérifiez que vous êtes dans le bon mode et qu'aucune autre appli ou onglet utilise la calculatrice.
-
-### "DFU DOWNLOAD FAILED"
-
-Vous n'utilisez peut-être pas le bon WebDFU, vérifiez que vous utiliser le [WebDFU de TI-Planet](https://ti-planet.github.io/webdfu_numworks/n0110/)
 
 ### "Acces refusé" en essayant de se connecter à la calculatrice en mode Recovery
 
@@ -141,11 +90,75 @@ Cela peut arriver sur Windows et Linux
   
   :::
 
+### "Could not detect the calculator model" / "N????"
+
+Cela veut dire que votre calculatrice est verrouillée contre l'installation de OS Custom. Si vous voulez installer un OS Custom, vous avez besoin de la débloquer.
+
+Suivez [ce guide](/docs/intro) pour la débloquer.
+
+## Modifier la calculatrice
+
+### L'installation n'a pas de fin (installation infinie)
+
+Cela peut arriver sur le site d'Omega et le site de Numworks. A moins que votre calculatrice soit bloquée, le firmware est déjà installé mais le site essaie de démarrer la calculatrice et il n'y arrive pas.
+
+Appuyez juste sur reset sur la calculatrice et ça devrait être réglé.
+
+### La calculatrice redémarre en essayant d'installer un OS Custom
+
+Votre calculatrice est sous Epsilon 19 ou plus, cela peut arriver quand la calculatrice est bloquée ou que vous l'exécutez depuis un bootloader custom.
+
+Redémarrez juste la calculatrice dans le bootloader ou n'importe quel autre firmware qui n'est pas Epsilon 19 ou plus.
+
+### "CommandName is not defined"
+
+Vous essayer de faire quelque chose avec la calculatrice alors qu'elle n'est pas dans le bon mode, comme essayer d'installer des applications avec la calculatrice en mode Recovery ou sur n0100.
+
+Essayez d'utiliser le bon mode, pour des applications externes lancez juste en mode normal.
+
+### "ControlTransferIn" / "ControlTransferOut"
+
+Quelque chose a interrompu la connextion avec la calculatrice.
+
+Vérifiez que vous êtes dans le bon mode et qu'aucune autre appli ou onglet utilise la calculatrice.
+
+### "DFU DOWNLOAD FAILED"
+
+Vous n'utilisez peut-être pas le bon WebDFU, vérifiez que vous utiliser le [WebDFU de TI-Planet](https://ti-planet.github.io/webdfu_numworks/n0110/)
+
+### "Address 0x90000000 outside of memory map"
+
+Vous essayez de flasher la partition externe mais la calculatrice n'est pas dans le bon mode. Ça ne peut pas marcher.
+
+Vous devez flasher avec l'écran de bootloader Numworks, le bootloader custom ou le flasher du mode recovery (l'écran indiquant "Recovery mode" en installant Omega en mode Recovery)
+
+### Address 90a687ff outside of memory map
+
+Vous essayez d'installer plus de fichiers que ce que la calculatrice peut supporter.
+
+## Sur les calculatrices modifiées
+
+### Slot "Invalid" dans le bootloader
+
+Cela veut dire que le slot ne comtient pas d'OS fonctionnel. Vous devez le réinstaller vous-même si vous voulez l'utiliser.
+
+### Écran et LED clignottants
+
+Vous essayez de démarrer Epsilon 19 sur un ancian bootloader custom.
+
+Mettez à jour le bootloader : allez sur le site de votre OS Custom, mettez la calculatrice en mode Recovery (en maintenant 6 et en appuyant sur reset au dos de la calculatrice), connectez-la à l'ordinateur, puis choisissez "Restauration" (recovery) sur le site de votre OS Custom.
+
+### "Mémoire corrompue" en essayant d'ajouter des scripts Python
+
+Cela peut arriver quand le bootloader custom est trop ancien.
+
+Pour le mettre à jour : allez sur le site de votre OS Custom, mettez la calculatrice en mode Recovery (en maintenant 6 et en appuyant sur reset au dos de la calculatrice), connectez-la à l'ordinateur, puis choisissez "Restauration" (recovery) sur le site de votre OS Custom.
+
 ### Plantage en lançant Upsilon
 
 Upsilon a tendance à planter quand vous le lancez et que la calculatrice est connectée à un PC. Déconnectez la avant de le lancer.
 
-### Plantage au lancement de KhiCAS
+### En Dual boot, KhiCAS fait planter la calculatrice
 
 KhiCAS est une appli lourde, et le dual-boot avec cette appli installée est impossible.
 
