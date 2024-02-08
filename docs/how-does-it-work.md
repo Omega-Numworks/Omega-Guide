@@ -17,7 +17,7 @@ There are currently 4 models of Numworks calculators: N0100, N0110, N0115, N0120
 The calculator uses a MCU (Microcontroller Unit) made by ST Microelectronics to do all the work.
 - The MCU used in N0100 is the [STM32F412](https://www.st.com/en/microcontrollers-microprocessors/stm32f412.html). This one has one storage partition, named "flash" because it's flash memory.
 - The MCU used in N0110 and N0115 is the [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). This one has 2 flashs. Named "internal" and "external"
-- The MCU used in N0120 is the [STM32H725](https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735.html). This one also has 2 flashs, but is also more powerful than n0110's one
+- The MCU used in N0120 is the [STM32H725](https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735.html). This one also has 2 flashs, but is also more powerful than N0110's one
 
 So we can make 2 categories:
 - N0100: With internal flash only
@@ -25,7 +25,7 @@ So we can make 2 categories:
 
 :::note
 
-Every calculator, thanks to the MCU, has a recovery mode. It can usually be accessed by holding 6 while the calculator is starting (on n0100 it has to be plugged into a PC when it starts, you don't need to hold 6). It's represented by a black screen with the LED turned on red. But if you try it may not behave like this, we will understand why later.
+Every calculator, thanks to the MCU, has a recovery mode. It can usually be accessed by holding 6 while the calculator is starting (on N0100 it has to be plugged into a PC when it starts, you don't need to hold 6). It's represented by a black screen with the LED turned on red. But if you try it may not behave like this, we will understand why later.
 
 :::
 
@@ -43,7 +43,7 @@ The internal flash used to store a simple program that just starts the firmware 
 Since Epsilon 16, the internal flash now contains a bootloader that is used to lock the calculator.
 - **How does it do that ?** It check is the firmware installed is signed by Numworks, if it isn't, the bootloader doesn't start the firmware.
 - **Can't the recovery mode help ?** Numworks thought about that, they configured the MCU to prevent writing in the internal flash and they put a message to tell that it's in recovery mode while it acually isn't.
-- **Why isn't the n0100 locked ?** The n0100 has only one flash, and may need to be updated. So locking it was stupid as it would prevent updating it without special debugging tools.
+- **Why isn't the N0100 locked ?** The N0100 has only one flash, and may need to be updated. So locking it was stupid as it would prevent updating it without special debugging tools.
 
 :::note
 
@@ -89,14 +89,14 @@ The process in the guide is now easy to understand:
 - on N0100 we just start in recovery mode then erase the internal flash
 - on N0110 we erase the internal flash, unlock and re-enable the recovery mode to install whatever we want on both flashs
 
-### 7 - Why n0120 can't be unlocked ?
+### 7 - Why N0120 can't be unlocked ?
 
-The n0120 is in a particular case:
+The N0120 is in a particular case:
 It can be unlocked with a hardware modification, but the reason why we don't advertize it in this guide is because there is no Custom OS you can install on it.
 
-The n0120 was released first with Epsilon 16, but a patched version that can't be unlocked with Phi. So there is no n0120 that can currently be unlocked without hardware.
+The N0120 was released first with Epsilon 16, but a patched version that can't be unlocked with Phi. So there is no N0120 that can currently be unlocked without hardware.
 
-Also, since Epsilon 16, Numworls stopped giving the drivers for the MCU, these drivers are requiered to create a bootloader. Developers can get them from Epsilon 15 for n0100 and N0110, but for N0120, they just never got released publically (and they can't get extracted from Epsilon), so they need to be developed from scratch which is really hard and long. This is why there is no Custom OS for N0120, and we can't tell you how to unlock it.
+Also, since Epsilon 16, Numworks stopped giving the drivers for the MCU, these drivers are requiered to create a bootloader. Developers can get them from Epsilon 15 for N0100 and N0110, but for N0120, they just never got released publically (and they can't get extracted from Epsilon), so they need to be developed from scratch which is really hard and long. This is why there is no Custom OS for N0120, and we can't tell you how to unlock it.
 
 :::note
 
