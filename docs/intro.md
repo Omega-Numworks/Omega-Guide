@@ -35,7 +35,7 @@ If you don't want to deeply modify your calculator, [there are still a few thing
 ### Model check
 
 1. Turn your calculator around
-2. On its back, there should be a little writing, either N0120, N0110 or N0100. This is your model number.
+2. On its back, there should be a little writing starting with an "N". This is your model number.
 3. If you can't read that:
     1. Turn the calculator on
     2. Go in the settings app
