@@ -91,7 +91,7 @@ The process in the guide is now easy to understand:
 
 ### 7 - Why can the n0120 not be unlocked?
 
-The n0120 is a particular model:
+The N0120 is a particular model:
 It can be unlocked with a hardware modification, but the reason why we don't advertize it in this guide is because there is no Custom OS you can install on it.
 
 The n0120 was released first with Epsilon 16, but a patched version that can't be unlocked with Phi. So there is no n0120 that can currently be unlocked without hardware.
