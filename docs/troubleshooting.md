@@ -105,6 +105,12 @@ You are trying to do something with the calculator but the calculator isn't in t
 
 Try to use the right mode, for external apps just run it in normal mode.
 
+### Calculator restarts when trying to install custom firmware
+
+Your calculator is running Epsilon 19 or higher, it can happen when the calculator is locked or when you are running it from custom bootloader.
+
+Just restart the calculator in bootloader or any other firmware that isn't Epsilon 19 or higher
+
 ### "ControlTransferIn" / "ControlTransferOut"
 
 Something interrupted the connection with the calculator.
@@ -121,17 +127,25 @@ You are trying to flash the external partition but the calculator is not in the 
 
 You need to flash while in Numworks' bootloader, the custom bootloader or recovery mode flasher (the screen saying "Recovery mode" when installing Omega in Recovery mode)
 
-### Calculator restarts when trying to install custom firmware
-
-Your calculator is running Epsilon 19 or higher, it can happen when the calculator is locked or when you are running it from custom bootloader.
-
-Just restart the calculator in bootloader or any other firmware that isn't Epsilon 19 or higher
-
 ### Address 90a687ff outside of memory map
 
 You are trying to install more than what the calculator can support.
 
 ## On modded calculators
+
+### "Invalid" Slot in bootloader
+
+This means the slot does not contain any working OS. You have to reinstall it yourself if you want to use it.
+
+### Screen and led blinking
+
+You are trying to run Epsilon 19 with an old custom bootloader.
+
+Update the bootloader : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer,  then select "recovery" on custom firmware's website.
+
+### "Memory is corrupted" when adding python scripts
+
+It can happen when the custom bootloader is too old. To update it : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer, then select "recovery" on custom firmware's website.
 
 ### Crash when starting Upsilon
 
@@ -144,20 +158,6 @@ KhiCAS is a heavy app and dual-booting with this app installed is not possible.
 You may have installed KhiCAS, then Epsilon, which erased a part of KhiCAS, preventing it from starting.
 
 If you want to use KhiCAS, you will need to reinstall it.
-
-### "Invalid" Slot in bootloader
-
-This means the slot does not contain any working OS. You have to reinstall it yourself if you want to use it.
-
-### "Memory is corrupted" when adding python scripts
-
-It can happen when the custom bootloader is too old. To update it : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer, then select "recovery" on custom firmware's website.
-
-### Screen and led blinking
-
-You are trying to run Epsilon 19 with an old custom bootloader.
-
-Update the bootloader : go to your custom firmware's website, put the calculator in recovery mode (holding 6 and clicking reset on the calculator's back), connect the calculator to the computer,  then select "recovery" on custom firmware's website.
 
 ___
 
