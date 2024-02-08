@@ -16,7 +16,7 @@ There are currently 4 models of Numworks calculators: N0100, N0110, N0115, N0120
 
 The calculator uses a MCU (Microcontroller Unit) made by ST Microelectronics to do all the work.
 - The MCU used in N0100 is the [STM32F412](https://www.st.com/en/microcontrollers-microprocessors/stm32f412.html). This one has one storage partition, named "flash" because it's flash memory.
-- The MCU used in N0110 and N0115 is the [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). This one has 2 flashs. Named "internal" and "external"
+- The MCU used the in N0110 and N0115 is the [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). This one has 2 flashs. Named "internal" and "external"
 - The MCU used in N0120 is the [STM32H725](https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735.html). This one also has 2 flashs, but is also more powerful than n0110's one
 
 So we can make 2 categories:
@@ -31,7 +31,7 @@ Every calculator, thanks to the MCU, has a recovery mode. It can usually be acce
 
 ### 2 - How is the hardware used?
 
-With 1 flash, it's easy to understand, everything is in the flash, this is the case on N0100. But with 2 flashs, it's more complicated:
+With 1 flash, it's easy to understand, everything is in the flash, this is the case on N0100. But with 2 flashes, it becomes more complicated:
 
 - The External flash: It contains the firmware, what you usually know about, the interface, the calculation program, and everything you use from this calculator.
 - The Internal flash: It contains a small program made to start what is installed in the External flash. It's the first thing run by the calculator, if the internal flash is empty, the calculator won't start, and the LED turns red.
