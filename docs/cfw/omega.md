@@ -7,7 +7,7 @@ pagination_prev: cfw/choose-a-cfw
 
 :::info
 
-You need an unlocked calculator. [To unlock it go here](/docs/intro)
+You need an unlocked calculator. [To unlock it go here](/docs/intro).
 
 :::
 
@@ -20,7 +20,7 @@ This page will explain how to install Omega, assuming you already have an unlock
 
 ### Section I - Prepare recovery mode
 
-If your model is N0110, enter recovery mode by holding "6" and pressing "RESET".<br>
+If your model is N0110, enter recovery mode by holding "6" and pressing "RESET".<br/>
 If your model is N0100, enter recovery mode by plugging your calculator and pressing "RESET".
 
 ### Section II - Install Omega
@@ -33,7 +33,7 @@ If your model is N0100, enter recovery mode by plugging your calculator and pres
 
 ### Section III - How to use your new calculator (not for N0100)
 
-There are new features to your calculator now, you need to know them<br>
+There are new features to your calculator now, you need to know them.<br/>
 There is a new "Slot" system. Your calculator has 2 slots, so it can store 2 firmwares. They can't be run at the same time, but by using the RESET button you can switch between them:
 - Hold 1 and press RESET to start Slot A (containing Omega by default)
 - Hold 2 and press RESET to start Slot B (may be empty or contains Epsilon)

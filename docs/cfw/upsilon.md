@@ -7,7 +7,7 @@ pagination_prev: cfw/choose-a-cfw
 
 :::info
 
-You need an unlocked calculator. [To unlock it go here](/docs/intro)
+You need an unlocked calculator. [To unlock it go here](/docs/intro).
 
 :::
 
@@ -20,14 +20,14 @@ This page will explain how to install Upsilon, assuming you have an unlocked cal
 
 ### Section I - Prepare recovery mode
 
-If your model is N0110, enter recovery mode by holding "6" and pressing "RESET".
+If your model is N0110, enter recovery mode by holding "6" and pressing "RESET".<br/>
 If your model is N0100, enter recovery mode by plugging your calculator and pressing RESET.
 
 ### Section II - Install Upsilon
 
 1. Open the [Upsilon website](https://getupsilon.web.app/install).
 2. Click "Recovery" and select "STM32 BOOTLOADER".
-3. Wait a bit until the calculator shows "Recovery Mode" on the screen.
+3. Wait a bit until the calculator displays "Recovery Mode".
 4. If the calculator doesn't get automatically connected, click "Connect" and select "NumWorks Calculator"
 5. Select your settings, like the theme. For the slot, if you don't know which one to choose, select "A".
 6. You can now click "Install Upsilon" and in a few seconds Upsilon should be installed on your calculator.
