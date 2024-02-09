@@ -16,7 +16,7 @@ There are currently 4 models of NumWorks calculators: N0100, N0110, N0115 and N0
 
 The calculator uses a MCU (Microcontroller Unit) made by ST Microelectronics to do all the work.
 - The MCU used in N0100 is the [STM32F412](https://www.st.com/en/microcontrollers-microprocessors/stm32f412.html). This one has one storage partition, named "flash" because it's flash memory.
-- The MCU used in the N0110 and N0115 is the [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). This one has 2 flashes. Named "internal" and "external".
+- The MCU used in the N0110 and N0115 is the [STM32F730](https://www.st.com/en/microcontrollers-microprocessors/stm32f730r8.html). This one has 2 flashes, named "internal" and "external".
 - The MCU used in the N0120 is the [STM32H725](https://www.st.com/en/microcontrollers-microprocessors/stm32h725-735.html). This one also has 2 flashes, but is also more powerful than N0110's ones.
 
 So we can make 2 categories:

@@ -9,18 +9,18 @@ This page will tell you if you need to unlock your calculator and how.
 
 #### Section I - Epsilon Version check
 
-1. Power on your device
-2. Go in the settings app
-3. Go in "about"
+1. Power on your device.
+2. Go in the Settings app.
+3. Go in "About"
 4. Look at the "Software version" or "Epsilon version" field.
 5. This is your Epsilon version.
 
 #### Section II - Flash lock check
 
 1. Press the "6" key
-2. While pressing the "6" key, press the reset button at the back of the device.
+2. While pressing the "6" key, press the RESET button at the back of the device.
 
-If you see a screen like this one, you can proceed :
+If you see a screen like this one, you can proceed:
 
 ![Epsilon 16 bootloader](/img/e16bl.png)
 
@@ -30,7 +30,7 @@ If the screen stays black and the LED turns red, STOP - your calculator is alrea
 
 :::
 
-Press the reset button at the back of the calculator to return to the firmware.
+Press the RESET button at the back of the calculator to return to the firmware.
 
 #### Section III - Select a Method {#principal-methods}
 
