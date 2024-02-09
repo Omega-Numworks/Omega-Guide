@@ -277,13 +277,13 @@
     "message": "OS Custom"
   },
   "home.page.cfw.text1": {
-    "message": "Les OS Custom sont des modifications logicielles pour la Numworks. Ces modifications vous permettent de faire tout ce qu'il est possible physiquement avec la Numworks, et pas seulement ce que Numworks décide ce qu'il est possible de faire avec son matériel"
+    "message": "Les OS Custom sont des modifications logicielles pour la NumWorks. Ces modifications vous permettent de faire tout ce qu'il est possible physiquement avec la NumWorks, et pas seulement ce que NumWorks décide ce qu'il est possible de faire avec son matériel"
   },
   "home.page.cfw.text2": {
     "message": "Les utilisation communes des OS Custom sont:"
   },
   "home.page.cfw.possibilities.1": {
-    "message": "Executer des logiciels et jeux fait-maison (Homebrew) fait ou portés sur la Numworks"
+    "message": "Éxecuter des logiciels et jeux fait-maison (Homebrew) fait ou portés sur la NumWorks"
   },
   "home.page.cfw.possibilities.2": {
     "message": "Installer des applications comme des émulateurs"
