@@ -48,7 +48,11 @@ In this menu you can:
 - Choose your slot. There are 3 in total, 2 of which can store a standard firmware. You can select them by pressing 1 for Slot A or 3 for Slot B. The 3rd, selected by pressing 2, is meant for very specific use cases, most people don't need it.
 - By pressing 4 you can open Install mode. There are 2 options: Flash Slots (press 1), that allows you to safely install any other firmware on your calculator, and Flash Bootloader (press 2), that allows you to update the bootloader by getting you to recovery mode (it may not work, to access recovery mode you can still use 6 + RESET).
 
-Also note that once plugged into the PC, (unless in recovery mode) your calculator will be named "Upsilon Calculator" or "Upsilon Bootloader" instead of the usual "NumWorks Calculator".
+:::note
+
+Once plugged into the PC, (unless in recovery mode) your calculator may be named "Upsilon Calculator" or "Upsilon Bootloader" instead of the usual "NumWorks Calculator".
+
+:::
 
 ### Section IV - How to update Upsilon ?
 
