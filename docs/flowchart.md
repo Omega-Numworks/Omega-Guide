@@ -28,7 +28,7 @@ flowchart TD
 
     subgraph n0110 [Branch N0110]
     style n0110 fill:transparent,stroke-width:4px
-    calc_locked_n0110([Your calculator is locked, but you can do other things with it])
+    calc_locked_n0110([Your calculator is locked, but you can still do other things with it])
     calc_unlocked_n0110([Your calculator is unlocked, yay!])
     check_version_n0110[Which version ?]
     check_version_n0110 --11.2.0 to 16.2.0--> calc_unlocked_n0110
@@ -51,7 +51,7 @@ flowchart TD
 
     end
 
-    calc_locked_new_calcs([Your calculator is locked, but you can do other things with it])
+    calc_locked_new_calcs([Your calculator is locked, but you can still do other things with it])
 
     click calc_locked_new_calcs "./unlock/what-to-do-locked"
 ```

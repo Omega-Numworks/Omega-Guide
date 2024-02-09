@@ -14,9 +14,9 @@ Restoring your calculator to stock firmware **WILL LOCK IT** and you won't be ab
 
 This page will tell you how to go back to a fully stock firmware and therefore locking your calculator.
 
-1. Open [Numworks' restore page](https://numworks.com/rescue)
-2. Put your calculator in Recovery Mode holding 6 and pressing "reset" at the same time
-3. Plug your calculator in your computer
+1. Open [NumWorks' restore page](https://numworks.com/rescue).
+2. Put your calculator in Recovery Mode holding 6 and pressing "RESET" at the same time.
+3. Plug your calculator to your computer.
 4. follow the instructions to restore stock firmware.
 
-You now have a fully stock Numworks calculator.
+You now have a fully stock NumWorks calculator.

@@ -7,10 +7,10 @@ pagination_prev: null
 
 :::note
 Special thanks to:
-- M4x1m3, the original creator the guide
+- M4x1m3, the original creator of the guide.
 - Rathmox for completing the guide.
-- WonderHunter for the french translation
-- Rathmox and BloomyInDev for porting the guide to docusaurus
+- WonderHunter for the french translation.
+- Rathmox and BloomyInDev for porting the guide to Docusaurus.
 :::
 
 If we forgot you here, [contact us](https://github.com/Omega-Numworks/Omega-Guide) and we will add your name.
@@ -21,6 +21,7 @@ If we forgot you here, [contact us](https://github.com/Omega-Numworks/Omega-Guid
 + hdboye
 + M4x1m3
 + orkeilius
++ PetitFrapo
 + Rathmox
 + siim0n
 + Syycorax
