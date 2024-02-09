@@ -21,6 +21,7 @@ Si nous vous avons oublié ici, [contactez-nous](https://github.com/Omega-Numwor
 + hdboye
 + M4x1m3
 + orkeilius
++ PetitFrapo
 + Rathmox
 + siim0n
 + Syycorax
