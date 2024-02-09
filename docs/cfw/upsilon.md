@@ -11,7 +11,7 @@ You need an unlocked calculator. [To unlock it go here](/docs/intro).
 
 :::
 
-This page will explain how to install Upsilon, assuming you have an unlocked calculator.
+This page will explain how to install Upsilon, assuming you already have an unlocked calculator.
 
 ### What you need
 
