@@ -26,7 +26,7 @@ Si votre modèle est n0110, entrez le mode Recovery en branchant votre calculatr
 1. Ouvrez [le site web d'Upsilon](https://getupsilon.web.app/install)
 2. Cliquez sur "Mode de récupération" et sélectionnez "STM32 BOOTLOADER"
 3. Attendez un peu jusqu'a ce que la calculatrice affiche "Recovery Mode" sur l'écran
-4. Si la calculatrice n'est pas connectée automatiquement, cliquez sur "Connecter" et sélectionnez "Numworks Calculator"
+4. Si la calculatrice n'est pas connectée automatiquement, cliquez sur "Connecter" et sélectionnez "NumWorks Calculator"
 5. Sélectionnez vos paramètres comme le thème. Pour le slot, si vous ne savez pas lequel choisir, sélectionnez "A"
 6. Maintenant vous pouvez cliquer sur "Installer Upsilon" et au bout de quelques secondes, Upsilon devrait être installé sur votre calculatrice.
 
@@ -44,7 +44,11 @@ Dans ce menu vous pouvez:
 - Chosir votre slot. Il y en a 3, 2 d'entre eux peuvent accepter un firmware classique, vous pouvez les sélectionner en appuyant sur 1 pour le Slot A ou 3 pour Slot B. Le 3ème, sélectionné en appuyant sur 2, est conçu pour des cas très spécifiques, la plupart des gens n'en ont pas besoin.
 - Ouvrir "Install mode". Il y a 2 modes: Flash Slots, qui permet d'installer n'importe quel autre firmware en toute sécurité, et Flash Bootloader, qui permer de mettre à jour le bootloader en lançant le mode Recovery (il pourrait ne pas marcher, pour accéder au mide Recovery vous pouvez toujours utiliser 6 + reset)
 
-Notez aussi qu'une fois votre calculatrice branchée à un PC, (a moins qu'elle soit en mode Recovery) votre calculatrice sera nommée "Upsilon Calculator" ou "Upsilon Bootloader" au lieu de "NumWorks Calculator".
+:::note
+
+Une fois votre calculatrice branchée à un PC, (a moins qu'elle soit en mode Recovery) votre calculatrice pourrait être nommée "Upsilon Calculator" ou "Upsilon Bootloader" au lieu de "NumWorks Calculator".
+
+:::
 
 #### Section IV - Comment mettre à jour ?
 
