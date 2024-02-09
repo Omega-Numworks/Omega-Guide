@@ -40,7 +40,7 @@ There is a new "Slot" system. Your calculator has 2 slots, so it can store 2 fir
 - Hold 4 and press RESET to open the bootloader, you will be able to see which slot contain which firmware and also be able to install any firmware without locking the calculator.
 - You can’t start another firmware if you enable exam mode, you have to disable it to do so.
 
-### Section IV - How to update Omega?
+### Section IV - How to update Omega ?
 
 To update Omega, open the bootloader by holding 4 and pressing RESET, plug your calculator to your PC, go to the [Omega website](https://getomega.dev/), and install it normally.
 
