@@ -8,7 +8,7 @@ pagination_prev: null
 This page is made to explain how the calculator works and what happens when we unlock it.
 You will also learn a bit from the history of the calculator.
 
-### 1 - How is the calculator made?
+### 1 - How is the calculator made ?
 
 First, understand that the power button of the calculator only puts the calculator in sleep mode, instead of powering it down completely. The calculator powers on automatically when the battery is connected to a power source. The RESET button on the back only cuts the power while it's held. When you release it, the calculator powers on.
 
@@ -29,21 +29,21 @@ Every calculator, thanks to the MCU, has a recovery mode. It can usually be acce
 
 :::
 
-### 2 - How is the hardware used?
+### 2 - How is the hardware used ?
 
 With one flash, it's easy to understand, everything is in the flash. This is the case on N0100. But with 2 flashes, it becomes more complicated:
 
 - The External flash: It contains the firmware, what you usually know about, the interface, the calculation program, and everything you use from this calculator.
 - The Internal flash: It contains a small program made to start what is installed in the External flash. It's the first thing run by the calculator, if the internal flash is empty, the calculator won't start, and the LED turns red.
 
-### 3 - What is installed in the flashes?
+### 3 - What is installed in the flashes ?
 
 The internal flash is used to store a simple program that simply starts the firmware installed in the external flash. But, nowadays, since Epsilon 16, it's more complicated:
 
 Since Epsilon 16, the internal flash contains a bootloader that is used to lock the calculator.
-- **How does it do that?** It checks if the firmware installed is signed by NumWorks, if not, the bootloader will not start the firmware.
-- **Can't the recovery mode help?** NumWorks thought of that, they configured the MCU to prevent writing in the internal flash and they put a message saying the calculator is in recovery mode while it acually isn't.
-- **Why isn't the N0100 locked?** The N0100 has only one flash, and may need to be updated. So locking it would be stupid, as it would prevent updating it without special debugging tools.
+- **How does it do that ?** It checks if the firmware installed is signed by NumWorks, if not, the bootloader will not start the firmware.
+- **Can't the recovery mode help ?** NumWorks thought of that, they configured the MCU to prevent writing in the internal flash and they put a message saying the calculator is in recovery mode while it acually isn't.
+- **Why isn't the N0100 locked ?** The N0100 has only one flash, and may need to be updated. So locking it would be stupid, as it would prevent updating it without special debugging tools.
 
 :::note
 
@@ -51,7 +51,7 @@ Now that we know how NumWorks uses the calculator, let's go over how custom firm
 
 :::
 
-### 4 - What changes with a Custom OS?
+### 4 - What changes with a Custom OS ?
 
 Originally, a Custom OS simply consisted of replacing the external flash. To bypass some limitations, some Custom OSes like Omega and Delta started changing the internal flash, but it was not far from what NumWorks originally did.
 
@@ -67,7 +67,7 @@ Now that you understand how the internal flash works, let's understand how Phi w
 
 :::
 
-### 5 - How does Phi work?
+### 5 - How does Phi work ?
 
 :::info
 
@@ -83,13 +83,13 @@ It can also install a simple bootloader.
 
 NumWorks patched it by releasing Epsilon 18.2.3.
 
-### 6 - So, what happens when you follow the guide?
+### 6 - So, what happens when you follow the guide ?
 
 The process in the guide is now easy to understand:
 - on N0100 we just start in recovery mode then erase the internal flash.
 - on N0110 we erase the internal flash, unlock and re-enable the recovery mode to install whatever we want on both flashes.
 
-### 7 - Why can the N0120 not be unlocked?
+### 7 - Why can the N0120 not be unlocked ?
 
 The N0120 is a particular model:
 It can be unlocked with a hardware modification, but the reason why we don't advertize it in this guide is because there is no Custom OS you can install on it.
