@@ -10,7 +10,7 @@ Special thanks to:
 - M4x1m3, the original creator of the guide.
 - Rathmox for completing the guide.
 - WonderHunter for the french translation.
-- Rathmox and BloomyInDev for porting the guide to Docusaurus.
+- Rathmox and BloomyInDev for porting the guide to [Docusaurus](https://docusaurus.io/).
 :::
 
 If we forgot you here, [contact us](https://github.com/Omega-Numworks/Omega-Guide) and we will add your name.
