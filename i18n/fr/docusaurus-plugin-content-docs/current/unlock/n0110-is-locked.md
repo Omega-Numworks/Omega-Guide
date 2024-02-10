@@ -5,21 +5,21 @@ pagination_next: null
 pagination_prev: intro
 ---
 
-Cette page vous dire si vous devez déverrouiller votre calculatrice et comment.
+Cette page vous aidera à savoir si vous devez déverrouiller votre calculatrice et comment.
 
 #### Section I - Vérification de la version Epsilon
 
-1. Allumez votre calculatrice
-2. Allez dans "Paramètres"
-3. Allez dans "À propos"
+1. Allumez votre calculatrice.
+2. Allez dans "Paramètres".
+3. Allez dans "À propos".
 4. Regardez le champ "Version du logiciel" ou "Version d'Epsilon".
-5. Ceci est votre version Epsilon.
+5. Ceci est votre version d'Epsilon.
 
-#### Section II - Vérification du verrouillage du flash
+#### Section II - Vérification du verrouillage de la flash
 
-1. Éteignez votre calculatrice
-2. Appuyez sur la touche "6"
-3. Tout en appuyant sur la touche "6", appuyez sur le bouton reset à l'arrière de l'appareil.
+1. Éteignez votre calculatrice.
+2. Appuyez sur la touche "6".
+3. Tout en appuyant sur la touche "6", appuyez sur le bouton RESET à l'arrière de la calculatrice.
 
 Si vous voyez un écran comme celui-ci, vous pouvez procéder :
 
@@ -31,11 +31,11 @@ Si l'écran reste noir et que la LED devient rouge, **STOP** - votre calculatric
 
 :::
 
-Appuyez sur le bouton reset à l'arrière de la calculatrice pour revenir au micrologiciel.
+Appuyez sur le bouton RESET à l'arrière de la calculatrice pour revenir à Epsilon.
 
 #### Section III - Sélectionnez une méthode {#principal-methods}
 
-Utilisez le tableau des versions ci-dessous pour sélectionner une méthode. Quelques points à noter :
+Utilisez le tableau des versions ci-dessous pour sélectionner une méthode.<br/>Quelques points à noter :
   + Le tableau des versions ci-dessous est *inclusif*. Par exemple, "de 16.3.0 à 18.0.0" inclus 16.3.0, 18.0.0, et toutes les versions entre celles-ci.
   + La version 16.4.3 ne suit pas cette règle.
 

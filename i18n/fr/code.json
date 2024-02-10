@@ -277,13 +277,13 @@
     "message": "OS Custom"
   },
   "home.page.cfw.text1": {
-    "message": "Les OS Custom sont des modifications logicielles pour la NumWorks. Ces modifications vous permettent de faire tout ce qu'il est possible physiquement avec la NumWorks, et pas seulement ce que NumWorks décide ce qu'il est possible de faire avec son matériel"
+    "message": "Les OS Custom sont des modifications logicielles pour la NumWorks. Ces modifications vous permettent de faire tout ce qu'il est possible physiquement avec la NumWorks, et pas seulement ce que NumWorks décide ce qu'il est possible de faire avec son matériel."
   },
   "home.page.cfw.text2": {
     "message": "Les utilisation communes des OS Custom sont:"
   },
   "home.page.cfw.possibilities.1": {
-    "message": "Éxecuter des logiciels et jeux fait-maison (Homebrew) fait ou portés sur la NumWorks"
+    "message": "Exécuter des logiciels et jeux fait-maison (Homebrew) fait ou portés sur la NumWorks"
   },
   "home.page.cfw.possibilities.2": {
     "message": "Installer des applications comme des émulateurs"
@@ -328,7 +328,7 @@
     "message": "Les méthodes utilisées ici sont à leur débuts. Il y a une petite chance que ces méthodes briquent votre calculatrice. Nous ne sommes dans aucun cas responsable de tout problème lié à votre calculatrice."
   },
   "home.page.whatKnow.text2": {
-    "message": "Ce guide est compatible avec tout les modèles de calculatrices Numworks vendus"
+    "message": "Ce guide est compatible avec tous les modèles de calculatrices NumWorks vendus."
   },
   "home.page.goto.guide": {
     "message": "Démarrer"

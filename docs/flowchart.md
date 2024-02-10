@@ -21,9 +21,9 @@ flowchart TD
     model_number ---->|N0115 or N0120| calc_locked_new_calcs
     model_number --Other--> goto_discord([Go to Omega Discord server])
 
-    click model_number "./intro"
-    click calc_locked_no_modif "./unlock/what-to-do-locked"
-    click calc_unlocked "./cfw/choose-a-cfw"
+    click model_number "intro"
+    click calc_locked_no_modif "unlock/what-to-do-locked"
+    click calc_unlocked "cfw/choose-a-cfw"
     click goto_discord "https://discord.gg/X2TWhh9"
 
     subgraph n0110 [Branch N0110]
@@ -41,13 +41,13 @@ flowchart TD
     install_18_2_0 --> phi
     phi & hardware_method --> calc_unlocked_n0110
 
-    click check_version_n0110 "./unlock/n0110-is-locked"
-    click downgrade_check "./unlock/phi/check-version-change-eligibility"
-    click install_18_2_0 "./unlock/phi/install-epsilon-18-2-0"
+    click check_version_n0110 "unlock/n0110-is-locked"
+    click downgrade_check "unlock/phi/check-version-change-eligibility"
+    click install_18_2_0 "unlock/phi/install-epsilon-18-2-0"
     click phi "./unlock/phi"
-    click hardware_method "./unlock/hardware/n0110-hardware-unlock"
-    click calc_locked_n0110 "./what-to-do-locked"
-    click calc_unlocked_n0110 "./cfw/choose-a-cfw"
+    click hardware_method "unlock/hardware/n0110-hardware-unlock"
+    click calc_locked_n0110 "what-to-do-locked"
+    click calc_unlocked_n0110 "cfw/choose-a-cfw"
 
     end
 

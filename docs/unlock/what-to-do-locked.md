@@ -25,4 +25,4 @@ Once you enable exam mode or press "RESET" they will be disabled.
 Epsilon is still partially open-source, you can modify the code to create your own version and install it, however it's userland only and if you reset it will be removed and you are back to stock. You will also have a popup telling you that you are running a modified software.
 Note that since Epsilon 16, sharing a modified version is illegal. You should never share the version you created yourself.
 
-[NumWorks' instructions](https://www.numworks.com/resources/engineering/software/build/)
+In order to build an OS in userland, you can follow [NumWorks' instructions](https://www.numworks.com/resources/engineering/software/build/).

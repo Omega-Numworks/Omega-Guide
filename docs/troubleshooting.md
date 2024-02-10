@@ -46,9 +46,9 @@ It means the driver or config file isn't installed on Windows or Linux.
 
 Open the [Rescue page](https://numworks.com/rescue/) on NumWorks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it.**
 
-If you are using Linux, it may still not be detected. It can happen if your web browser is installed as a flatpak.
+If you are using Linux, it may still not be detected. It can happen if your web browser is installed as a flatpak or snap.
 
-In this case, you will need to install [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), select your web browser, and add `/run/udev` in the "Other files" into the "Filesystem" category.
+If you're using flatpak, you will need to install [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), select your web browser, and add `/run/udev` in the "Other files" into the "Filesystem" category.
 
 You can also run this command: `flatpak override --user --filesystem=/run/udev [Application ID]` (Replace `[Application ID]` with your web browser's ID, try to run `flatpak list` to find it).
 

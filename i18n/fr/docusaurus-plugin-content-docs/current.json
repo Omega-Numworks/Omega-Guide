@@ -24,7 +24,7 @@
     "description": "The label for category Unlock before installation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Unlock before installation.link.generated-index.description": {
-    "message": "Comment débloquer sa Numworks pour installer un OS Custom",
+    "message": "Comment débloquer sa NumWorks pour installer un OS Custom",
     "description": "The generated-index page description for category Unlock before installation in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Installing an OS": {
