@@ -64,6 +64,8 @@ Votre calculatrice a l'air d'être en mode Recovery mais elle ne l'est pas.
 
 Maintenez 6 et cliquez sur RESET pour la démarrer en mode Recovery, l'apparence sera la même mais cette fois, elle sera reconnue.
 
+Il se peut aussi que vous n'ayez pas le driver our le fichier de configuration installé, allez voir la [page de récupération](https://numworks.com/rescue/) sur le site de Numworks et il va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatrice pour être sûr de ne pas la bloquer.**
+
 ### "Unable to claim interface"
 
 Cette erreur arrive quand vous essayez de connecter votre calculatrice mais elle est déjà utilisée par un autre onglet ou logiciel. Cela arrive habituellement quand vous essayez d'installer des applications externes mais que l'onglet que vous avec utilisé pour installer votre OS Custom est toujours ouvert.
