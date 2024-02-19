@@ -42,7 +42,7 @@ There are 2 possible reasons:
 
 ### Calculator not detected
 
-There are multiple possible causes: whether you didn't click on the right button, or the driver or config file isn't installed on Windows or Linux.
+There are multiple possible causes: you either didn't click on the right button, or the driver or config file isn't installed on Windows or Linux.
 
 Make sure you are selecting the right option, if you are in Recovery mode, press "Recovery" and not "Detect Calculator".
 
