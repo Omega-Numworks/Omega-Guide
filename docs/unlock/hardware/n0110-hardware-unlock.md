@@ -17,5 +17,5 @@ There are multiple methods.
 
 We recommend [this post](https://tiplanet.org/forum/viewtopic.php?f=113&t=25191&p=263495), it is very complete and will guide you very well.
 
-If you have another way to get to Recovery mode, you can follow it instead.<br/>**We are not responsible for anything that goes wrong with your device**.
+If you have another way to get to Recovery mode, you can follow it instead.<br/>**We are not responsible for anything that goes wrong with your device.**
 

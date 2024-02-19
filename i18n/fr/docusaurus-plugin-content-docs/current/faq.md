@@ -5,11 +5,11 @@ pagination_next: null
 pagination_prev: null
 ---
 
-# Pre-Installation FAQ
+# FAQ pré-installation
 
 **Q:** *Ce guide annulera-t-il ma garantie ?*
 
-**A:** Non, du moins pas en Europe. Il s'agit d'une modification logicielle, si Numworks vous refuse une demande de garantie légitime après cela, poursuivez-les en justice.
+**A:** Non, du moins pas en Europe. Il s'agit d'une modification logicielle, si NumWorks vous refuse une demande de garantie légitime après cela, poursuivez-les en justice.
 
 **Q:** *Quel est le risque de jailbreaker ma Numworks ?*
 
@@ -20,8 +20,8 @@ pagination_prev: null
 **A:** Tout ce dont vous avez besoin est un appareil capable d'exécuter un navigateur Web prenant en charge WebUSB.
 Les téléphones Android peuvent être utilisés avec un câble USB OTG.
 
-# Post-Installation FAQ
+# FAQ post-installation
 
 **Q:** *Est-il sûr de mettre à jour Epsilon tout en ayant un bootloader custom installé ?*
 
-**A:** Pour le moment, le programme d'installation de Numworks ne vérifie pas les bootloaders modifiés, ni Epsilon, donc oui. (À moins que vous n'ayez pas un bootloader ce qui n'est probablement pas le cas)
+**A:** Pour le moment, le programme d'installation de NumWorks ne vérifie pas les bootloaders modifiés, et Epsilon non plus, donc oui (à moins que vous n'ayez pas de bootloader ce qui n'est probablement pas le cas).

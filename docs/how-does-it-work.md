@@ -26,6 +26,7 @@ So we can make 2 categories:
 :::note
 
 Every calculator, thanks to the MCU, has a recovery mode. It can usually be accessed by holding 6 while the calculator is starting (on N0100 it has to be plugged into a PC when it starts, you don't need to hold 6). It's represented by a black screen with the LED turned on red. But if you try to access the recovery mode, it may not behave like this, we will understand why later.
+On N0115, Recovery Mode is not accessible this way.
 
 :::
 
@@ -91,7 +92,7 @@ The process in the guide is now easy to understand:
 
 ### 7 - Why can the N0120 not be unlocked ?
 
-The N0120 is a particular model:
+The N0120 is a particular model:<br/>
 It can be unlocked with a hardware modification, but the reason why we don't advertize it in this guide is because there is no Custom OS you can install on it.
 
 The N0120 was released first with Epsilon 16, but a patched version that can't be unlocked with Phi. So there is no N0120 that can currently be unlocked without hardware.

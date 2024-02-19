@@ -34,7 +34,7 @@ Press the RESET button at the back of the calculator to return to the firmware.
 
 #### Section III - Select a Method {#principal-methods}
 
-Use the version table below to select a method. A few things to note:
+Use the version table below to select a method.<br/>A few things to note:
   + The version table below is *inclusive*. For example, "from 16.3.0 to 18.0.0" includes 16.3.0, 18.0.0, and all versions in between.
   + Version 16.4.3 does not follow this rule.
 

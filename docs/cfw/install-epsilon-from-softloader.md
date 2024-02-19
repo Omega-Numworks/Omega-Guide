@@ -51,4 +51,4 @@ It's recommended to keep your Custom OS in Slot A.
 
 ### GG
 
-You now have Epsilon and your Custom OS at the same time, Epsilon on one slot, your Custom OS on the other. You can now switch between them whenever you want, it works differently depending on your Custom OS but the goal is just to switch between slots.
+You now have Epsilon and your Custom OS at the same time, Epsilon on one slot, your Custom OS on the other. You can now switch between them whenever you want, it works differently depending on your CFW's bootloader but the goal is just to switch between slots.
