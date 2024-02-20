@@ -42,9 +42,9 @@ There are 2 possible reasons:
 
 ### Calculator not detected
 
-There are multiple possible causes: Weather you don't click on the right button, or the driver or config file isn't installed on Windows or Linux.
+There are multiple possible causes: you either didn't press on the right button, or the driver or config file isn't installed on Windows or Linux.
 
-Make sure you are pressing the right button, if you are in recovery mode, press "Recovery" and not "Detect Calculator".
+Make sure you are pressing the right button, if you are in Recovery mode, press "Recovery" and not "Detect Calculator".
 
 Open the [Rescue page](https://numworks.com/rescue/) on NumWorks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it.**
 
