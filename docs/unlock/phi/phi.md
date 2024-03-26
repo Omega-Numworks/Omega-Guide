@@ -66,8 +66,8 @@ The "Erase flash" stage can take a bit of time. You'll be put back on the main m
 
 ### Section V - Installing a custom bootloader
 
-1. Press 3
-2. Press OK to confirm
+1. Press 3.
+2. Press OK to confirm.
 3. You should see something like this:
 
 ![Phi launch screen](/img/phi-write.png)
@@ -75,6 +75,12 @@ The "Erase flash" stage can take a bit of time. You'll be put back on the main m
 The "Write flash" stage can take a bit of time. You'll be put back on the main menu after a second, when the flashing is done.
 
 Press 4, then OK. You should now boot back into Epsilon.
+
+### Section VI - Finalizing unlocking
+
+1. Press 4.
+2. Press OK to confirm.
+3. The calculator restarts on Epsilon and Phi has disappeared.
 
 :::info
 If you don't boot back into Epsilon, don't worry, installing a Custom OS will fix it later.
