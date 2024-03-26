@@ -74,7 +74,7 @@ L'étape "Erase flash" peut prendre un peu de temps, Vous serez remis sur le men
 
 L'étape "Write Flash" peut prendre un peu de temps. Vous serez remis sur le menu principal après une seconde, quand la flash sera écrite.
 
-### Section VI - Finalisation du débloquage
+### Section VI - Finalisation du déverrouillage
 
 1. Appuyez sur 4.
 2. Appuyez sur OK pour confirmer.
