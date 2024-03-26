@@ -42,7 +42,9 @@ There are 2 possible reasons:
 
 ### Calculator not detected
 
-It means the driver or config file isn't installed on Windows or Linux.
+There are multiple possible causes: you either didn't press on the right button, or the driver or config file isn't installed on Windows or Linux.
+
+Make sure you are pressing the right button, if you are in Recovery mode, press "Recovery" and not "Detect Calculator".
 
 Open the [Rescue page](https://numworks.com/rescue/) on NumWorks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it.**
 
@@ -61,6 +63,8 @@ Don't forget that you may need to restart your web browser if you unplug and rep
 Your calculator looks like it's in recovery mode but it isn't.
 
 Hold 6 and click RESET to start it in recovery mode, it will look the same but this time, it will be recognized.
+
+You may also not have the driver or config file installed, check the [Rescue page](https://numworks.com/rescue/) on NumWorks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it.**
 
 ### "Unable to claim interface"
 

@@ -11,13 +11,13 @@ Cette page liste toutes les erreurs connues que vous pouvez rencontrer en modifi
 ### Écran noir et LED rouge
 
 Tout va bien : un écran noir et une LED rouge signifient que votre calculatrice est en mode Recovery, elle attend de recevoir un firmware, elle est donc débloquée. 
-**ATTENTION : Dans ce mode, Si vous faites une mise à jour depuis le site de Numworks, vous allez faire une re-installation complète de la calculatrice avec la dernière version du système de gestion de Numworks. Vous allez alors verrouiller la calculatrice : les installations de Custom Firmwares tels que Omega ou Upsilon seront bloquées.**
+**ATTENTION : Dans ce mode, Si vous faites une mise à jour depuis le site de NumWorks, vous allez faire une réinstallation complète de la calculatrice avec la dernière version du système de gestion de NumWorks. Vous allez alors verrouiller la calculatrice : les installations de Custom Firmwares tels que Omega ou Upsilon seront bloquées.**
 
 [Choisissez un OS Custom](/docs/cfw/choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, installez d'abord à ce stade un OS Custom compatible, puis installer Epsilon en veillant à ne pas être en mode Recovery)
 
 ### Écran noir, cable jaune, et `numworks.com/rescue`
 
-C'est l'écran du bootloader de Numworks. Il s'affiche quand la calculatrice est verrouillée (blocage de l'installation des OS Custom) et que vous avez lancé le mode Recovery en maintenant 6 et en appuyant sur RESET. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
+C'est l'écran du bootloader de NumWorks. Il s'affiche quand la calculatrice est verrouillée (blocage de l'installation des OS Custom) et que vous avez lancé le mode Recovery en maintenant 6 et en appuyant sur RESET. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
 
 Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0).
 
@@ -35,8 +35,8 @@ Si cela ne résout pas le problème, contactez NumWorks.
 ### Consommation de batterie élevée
 
 Il y a 2 raisons possibles:
-- Vous avez activé l'horloge dans les paramètres, certains CFW en contiennent une. L'horloge consome beaucoup de batterie et il est fortement recommandé de la désactiver.
-- Votre calculatrice garde la LED verte. C'est un problème matériel qui fait penser à la calulatrice qu'elle est constemment en train de charger et donc batterie pleine alors que ce n'est pas le cas. Vous devriez contacter NumWorks pour remplacer votre calculatrice.
+- Vous avez activé l'horloge dans les paramètres, certains CFW en contiennent une. L'horloge consomme beaucoup de batterie et il est fortement recommandé de la désactiver.
+- Votre calculatrice garde la LED verte. C'est un problème matériel qui fait penser à la calculatrice qu'elle est constemment en train de charger et donc batterie pleine alors que ce n'est pas le cas. Vous devriez contacter NumWorks pour remplacer votre calculatrice.
 
 ## Connecter votre calculatrice à votre ordinateur
 
@@ -46,7 +46,7 @@ Il y a plusieurs raisons possibles : soit vous ne cliquez pas sur le bon bouton,
 
 Soyez sûr d'utiliser le bon bouton, si votre calculatrice est en mode Recovery, appuyez sur le bouton "Récupération" et pas "Détecter la calculatrice".
 
-Pour récupérer le driver ouvrez la [page de récupération](https://numworks.com/rescue/) sur le site de Numworks et il va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatrice pour être sûr de ne pas la bloquer.**
+Pour récupérer le driver ouvrez la [page de récupération](https://numworks.com/rescue/) sur le site de NumWorks et il va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatrice pour être sûr de ne pas la bloquer.**
 
 Si vous êtes sur Linux, il se peut qu'elle ne soit toujours pas détectée. Cela arrive si votre navigateur web est installé au format flatpak ou snap.
 
@@ -63,6 +63,8 @@ Notez bien que redémarrer le navigateur risque d'être nécessaire si vous déb
 Votre calculatrice a l'air d'être en mode Recovery mais elle ne l'est pas.
 
 Maintenez 6 et cliquez sur RESET pour la démarrer en mode Recovery, l'apparence sera la même mais cette fois, elle sera reconnue.
+
+Il se peut aussi que vous n'ayez pas le driver our le fichier de configuration installé, allez voir la [page de récupération](https://numworks.com/rescue/) sur le site de NumWorks et il va vous le donner et vous dire comment l'installer. **Ne branchez pas votre calculatrice pour être sûr de ne pas la bloquer.**
 
 ### "Unable to claim interface"
 
@@ -156,7 +158,7 @@ Pour le mettre à jour : allez sur le site de votre OS Custom, mettez la calcula
 
 ### Plantage en lançant Upsilon
 
-Upsilon a tendance à planter quand vous le lancez et que la calculatrice est connectée à un PC. Déconnectez la avant de lancer Upsilon.
+Upsilon a tendance à planter quand vous le lancez et que la calculatrice est connectée à un PC. Déconnectez-la avant de lancer Upsilon.
 
 ### En Dual boot, KhiCAS fait planter la calculatrice
 
