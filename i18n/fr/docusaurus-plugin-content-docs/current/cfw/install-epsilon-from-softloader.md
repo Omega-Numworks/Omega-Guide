@@ -37,6 +37,12 @@ Si votre CFW inclut un bootloader qui permet d'installer un firmware depuis celu
 3. Suivez les instructions du site, cependant s'il vous demande de faire quoi que ce soit sur votre calculatrice, ne le faites pas à moins que ce soit de la connecter à votre PC. Le site devrait voir la version 0.0.0.
 4. À la fin l'installeur sera bloqué et affichera peut-être un message d'erreur, c'est car il ne parvient pas à redémarrer la calculatrice. Ne vous inquiétez pas, Epsilon est installé, appuyez simplement sur RESET et tout est bon.
 
+:::tip
+
+Si Epsilon a été installé uniquement sur le slot A, recommencez cette section et il devrait être installé sur les deux slots.
+
+:::
+
 Maintenant vous avez Epsilon avec un bootloader custom donc votre calculatrice n'est pas bloquée.
 
 Epsilon a normalement été installé sur les deux slots. Donc, si vous aviez un CFW, il a été effacé, et seul son bootloader reste. Pour le réinstaller vous pouvez le faire comme la première fois depuis le bootloader ou en mode Recovery, cependant si vous choisissez de le faire en mode Recovery faites attention de ne pas installer Epsilon à la place, car cela bloquerait votre calculatrice à nouveau.
