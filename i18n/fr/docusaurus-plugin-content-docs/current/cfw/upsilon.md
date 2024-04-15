@@ -50,7 +50,7 @@ Une fois votre calculatrice branchée à un PC (à moins qu'elle soit en mode Re
 
 :::
 
-#### Section IV - Comment mettre à jour ?
+### Section IV - Comment mettre à jour ?
 
 Pour mettre à jour Upsilon, ouvrez le "Install Mode" puis "Flash Slots" (voir ci-dessus pour savoir comment faire). Branchez votre calculatrice au PC, ouvrez le site web d'Upsilon, et installez-le normalement.
 
