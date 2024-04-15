@@ -43,6 +43,12 @@ If your Custom OS includes a custom bootloader that allows installing a firmware
 3. Follow instructions but if it asks you to do anything on your calculator, do not do it unless it's connecting it to your PC. The website should see version 0.0.0.
 4. At the end the installer will get stuck and may even fail, it's because it fails to reboot the calculator. Don't worry, Epsilon is installed, simply press RESET and you are good to go.
 
+:::tip
+
+If Epsilon has only been installed on slot A, restart this section and it should work.
+
+:::
+
 Now you have Epsilon with a custom bootloader so your calculator isn't locked.
 
 Epsilon has normally been installed on both slots. So if you had a Custom OS, it has been erased, only the bootloader is remaining. To reinstall it you can do it normally from the bootloader or in recovery mode, though if you use recovery mode make sure you are not installing Epsilon again, as this would lock the calculator.
