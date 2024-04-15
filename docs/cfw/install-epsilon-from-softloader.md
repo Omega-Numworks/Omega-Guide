@@ -45,7 +45,7 @@ If your Custom OS includes a custom bootloader that allows installing a firmware
 
 :::tip
 
-If Epsilon has only been installed on slot A, restart this section and it should work.
+If Epsilon has only been installed on slot A, restart this section and it should be installed on both slots.
 
 :::
 
