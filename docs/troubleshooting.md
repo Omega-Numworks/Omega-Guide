@@ -44,17 +44,21 @@ There are 2 possible reasons:
 
 There are multiple possible causes:
 
+---
+
 #### All platforms:
 
 <Tabs
   defaultValue="button"
   values={[
-    {label: 'You didn't press on the right button', value: 'button'},
-    {label: 'The driver or config file isn't installed on Windows or Linux', value: 'driver'},
+    {label: "You didn't press on the right button", value: 'button'},
+    {label: "The driver or config file isn't installed on Windows or Linux", value: 'driver'},
   ]}>
   <TabItem value="button">Make sure you are pressing the right button, if you are in Recovery mode, press "Recovery" and not "Detect Calculator".</TabItem>
-  <TabItem value="driver">Open the [Rescue page](https://numworks.com/rescue/) on NumWorks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it.**</TabItem>
+  <TabItem value="driver">Open the <a href="https://numworks.com/rescue/">Rescue page</a> on NumWorks' website and it will give it and tell you how to install it. **Don't plug in your calculator to make sure you don't lock it.**</TabItem>
 </Tabs>
+
+---
 
 #### Linux specific cases:
 
@@ -66,11 +70,13 @@ If you are using Linux, it may still not be detected. It can happen if your web 
     {label: 'Flatpak', value: 'flatpak'},
     {label: 'Snap (usually on Ubuntu)', value: 'snap'},
   ]}>
-  <TabItem value="button">You will need to install [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), select your web browser, and add `/run/udev` in the "Other files" into the "Filesystem" category.<br>
+  <TabItem value="flatpak">You will need to install <a href="https://flathub.org/apps/com.github.tchx84.Flatseal">Flatseal</a>, select your web browser, and add `/run/udev` in the "Other files" into the "Filesystem" category.<br/><br/>
 You can also run this command: `flatpak override --user --filesystem=/run/udev [Application ID]` (Replace `[Application ID]` with your web browser's ID, try to run `flatpak list` to find it).
 </TabItem>
-  <TabItem value="driver">Run the following command: `snap connect [Application ID]:raw-usb` (Replace `[Application ID]` with your web browser's ID, try to run `snap list` to find it).</TabItem>
+  <TabItem value="snap">Run the following command: `snap connect [Application ID]:raw-usb` (Replace `[Application ID]` with your web browser's ID, try to run `snap list` to find it).</TabItem>
 </Tabs>
+
+---
 
 Don't forget that you may need to restart your web browser if you unplug and replug the calculator.
 
