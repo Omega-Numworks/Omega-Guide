@@ -42,7 +42,7 @@ There are 2 possible reasons:
 
 ### Calculator not detected
 
-There are multiple possible causes:
+There are multiple possible causes: you either didn't press on the right button, or the driver or config file isn't installed on Windows or Linux.
 
 ---
 

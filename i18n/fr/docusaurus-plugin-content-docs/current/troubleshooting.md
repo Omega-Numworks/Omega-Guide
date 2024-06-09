@@ -42,7 +42,7 @@ Il y a 2 raisons possibles:
 
 ### Calculatrice non détectée
 
-Il y a plusieurs raisons possibles:
+Il y a plusieurs raisons possibles : soit vous ne cliquez pas sur le bon bouton, soit le driver ou le fichier de configuration n'est pas installé sur Windows ou Linux.
 
 ---
 
