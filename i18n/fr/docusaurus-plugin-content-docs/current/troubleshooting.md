@@ -66,7 +66,7 @@ Si vous êtes sur Linux, il se peut qu'elle ne soit toujours pas détectée. Cel
     {label: 'Flatpak', value: 'flatpak'},
     {label: 'Snap (couremment sur Ubuntu)', value: 'snap'},
   ]}>
-  <TabItem value="button">Il vous faudra installer l'application [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), sélectionner votre navigateur, et ajouter `/run/udev` dans les "Autres fichiers" dans la catégorie "Filesystem".
+  <TabItem value="button">Il vous faudra installer l'application [Flatseal](https://flathub.org/apps/com.github.tchx84.Flatseal), sélectionner votre navigateur, et ajouter `/run/udev` dans les "Autres fichiers" dans la catégorie "Filesystem".<br>
   Vous pouvez également exécuter la commande: `flatpak override --user --filesystem=/run/udev [Application ID]` (Remplacez `[Application ID]` par l'ID de votre navigateur, n'hésitez pas à faire `flatpak list` pour le trouver).
   </TabItem>
   <TabItem value="driver">Exécutez la commande: `snap connect [Application ID]:raw-usb` (Remplacez `[Application ID]` par l'ID de votre navigateur, n'hésitez pas à faire `snap list` pour le trouver).</TabItem>
