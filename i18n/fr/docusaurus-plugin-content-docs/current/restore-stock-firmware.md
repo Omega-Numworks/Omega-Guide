@@ -7,6 +7,10 @@ pagination_prev: null
 
 ## Méthode 1 : Firmware officiel 18.2.0 (pas pour N0100) {#methode-1}
 
+:::caution
+Il y a toujours un risque que les mises à jour verrouillent le bootloader, cette méthode n'est donc pas sûre à 100% si vous souhaitez downgrade par la suite. Nous vous conseillons donc vivement d'utiliser le dernier bootloader Upsilon et d'[installer Epsilon depuis le Softloader](/docs/cfw/install-epsilon-from-softloader) pour à nouveau utiliser les dernières versions sans bloquer votre calculatrice.
+:::
+
 Avec cette méthode, vous installerez la dernière version du firmware officiel compatible avec Phi (afin de garder la possibilité d'obtenir à nouveau un CFW).
 
 1. Suivez à nouveau les étapes pour obtenir les fichiers external.bin et internal.bin de Epsilon 18.2.0.
@@ -20,10 +24,6 @@ Vous devriez normalement démarrer automatiquement sur Epsilon 18.2.0.
 Vous avez maintenant une calculatrice avec le dernier firmware d'origine compatible avec Phi.
 Vous pouvez faire quelques tests (mode examen, RESET physique) pour vous assurer de son bon fonctionnement.
 Le menu 6+RESET devrait maintenant afficher numworks.com/rescue.
-
-:::caution
-Il y a toujours un risque que les mises à jour verrouillent le bootloader, cette méthode n'est donc pas sûre à 100% si vous souhaitez downgrade par la suite.
-:::
 
 ## Méthode 2 : Firmware officiel E15 {#methode-2}
 
