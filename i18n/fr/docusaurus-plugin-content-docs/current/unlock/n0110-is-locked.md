@@ -46,7 +46,7 @@ Utilisez le tableau des versions ci-dessous pour sélectionner une méthode.<br/
 | 16.4.3         | [Installer Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0)                     |
 | 17.0.0-18.2.0  | [Phi](/docs/unlock/phi)                                                           |
 | 18.2.3         | [Installer Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0)                     |
-| 19.0.0-22.2.0  | [Vérifier l'éligibilité au changement de version](/docs/unlock/phi/check-version-change-eligibility) |
+| 19.0.0-23.2.3  | [Vérifier l'éligibilité au changement de version](/docs/unlock/phi/check-version-change-eligibility) |
 
 ---
 #### Méthodes alternatives {#alt-methods}
