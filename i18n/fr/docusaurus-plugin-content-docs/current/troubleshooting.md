@@ -124,6 +124,8 @@ Quelque chose a interrompu la connexion avec la calculatrice.
 
 Vérifiez que vous êtes dans le bon mode et qu'aucune autre appli ou onglet utilise la calculatrice.
 
+Vous pouvez aussi essayer de prendre un cable USB différent pour connecter la calculatrice à votre appareil.
+
 ### "DFU DOWNLOAD FAILED"
 
 Vous n'utilisez peut-être pas le bon WebDFU, vérifiez que vous utilisez bien le [WebDFU de TI-Planet](https://ti-planet.github.io/webdfu_numworks/n0110/).
