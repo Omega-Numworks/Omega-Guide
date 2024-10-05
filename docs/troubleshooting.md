@@ -123,6 +123,8 @@ Something interrupted the connection with the calculator.
 
 Make sure you are in the right mode and no other app or tab is using the calculator.
 
+You can also try using a different USB cable to connect the calculator to your device.
+
 ### "DFU DOWNLOAD FAILED"
 
 You may not be using the right WebDFU, make sure you are using [TI-Planet's WebDFU](https://ti-planet.github.io/webdfu_numworks/n0110/).
