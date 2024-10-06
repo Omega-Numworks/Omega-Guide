@@ -21,7 +21,7 @@ Nous allons simplement installer Upsilon depuis un fichier binaire.
 
 Le fichier binaire d'Upsilon, téléchargeable sur [le site d'Upsilon](https://getupsilon.web.app/), en bas de la page.
 
-1: Ouvrir le [WebDFU n0100](https://ti-planet.github.io/webdfu_numworks/n0100/)
+1: Ouvrir le [WebDFU N0100](https://ti-planet.github.io/webdfu_numworks/n0100/)
 2: Connecter la calculatrice en mode Recovery en la branchant à votre appareil puis en appuyant sur RESET.
 3. Sélectionner le fichier binaire d'Upsilon que vous avez téléchargé
 4. Cliquer sur "Flash". Attendre la fin du chargement
