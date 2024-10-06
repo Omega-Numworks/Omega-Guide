@@ -32,6 +32,6 @@ Le fichier binaire d'Upsilon, téléchargeable sur [le site d'Upsilon](https://g
 Vous avez maintenant Upsilon sur votre calculatrice, mais si jamais vous souhaitez un autre OS Custom ou une configuration différente, continuez vers la page suivante.
 :::
 
-### Si vous avec Epsilon 18 ou moins
+### Si vous avec Epsilon 18 ou moins:
 
 Aucune étape supplémentaire nécessaire, vous pouvez continuer.
