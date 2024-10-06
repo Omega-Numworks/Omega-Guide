@@ -11,13 +11,13 @@ La N0100 n'est pas bloquée, cependant, depuis Epsilon 19, un bug empêche d'ins
 
 Tout dépend de la version d'Epsilon installée sur la calculatrice.
 
-### Si vous avez Epsilon 19 ou plus:
+### Si vous avez Epsilon 19 ou plus
 
 Il va y avoir quelques étapes supplémentaires, cela ne sera pas long:
 
 Nous allons simplement installer Upsilon depuis un fichier binaire.
 
-#### Préréquis:
+#### Préréquis
 
 Le fichier binaire d'Upsilon, téléchargeable sur [le site d'Upsilon](https://getupsilon.web.app/), en bas de la page.
 
@@ -32,6 +32,6 @@ Le fichier binaire d'Upsilon, téléchargeable sur [le site d'Upsilon](https://g
 Vous avez maintenant Upsilon sur votre calculatrice, mais si jamais vous souhaitez un autre OS Custom ou une configuration différente, continuez vers la page suivante.
 :::
 
-### Si vous avec Epsilon 18 ou moins:
+### Si vous avec Epsilon 18 ou moins
 
 Aucune étape supplémentaire nécessaire, vous pouvez continuer.
