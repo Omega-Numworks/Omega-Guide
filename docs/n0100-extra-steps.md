@@ -29,7 +29,9 @@ The Upsilon binary file, downloadable on [Upsilon website](https://getupsilon.we
 6. Your calculator now runs Upsilon.
 
 :::info
+
 You now have Upsilon on your calculator, but if you wanted another Custom OS or a different config, continue to the next page.
+
 :::
 
 ### If you have Epsilon 18 or before
