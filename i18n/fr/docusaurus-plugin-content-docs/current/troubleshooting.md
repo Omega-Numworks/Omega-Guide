@@ -10,14 +10,19 @@ Cette page liste toutes les erreurs connues que vous pouvez rencontrer en modifi
 
 ### Écran noir et LED rouge
 
-Tout va bien : un écran noir et une LED rouge signifient que votre calculatrice est en mode Recovery, elle attend de recevoir un firmware, elle est donc débloquée. 
-**ATTENTION : Dans ce mode, Si vous faites une mise à jour depuis le site de NumWorks, vous allez faire une réinstallation complète de la calculatrice avec la dernière version du système de gestion de NumWorks. Vous allez alors verrouiller la calculatrice : les installations de Custom Firmwares tels que Omega ou Upsilon seront bloquées.**
+Tout va bien : votre calculatrice est en mode Recovery, elle attend de recevoir un firmware, elle est donc débloquée. 
+
+:::warning
+
+Dans ce mode, si vous faites une mise à jour depuis le site de NumWorks, vous allez verrouiller la calculatrice et ne pourrez plus installer d'OS Custom.
+
+:::
 
 [Choisissez un OS Custom](/docs/cfw/choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, installez d'abord à ce stade un OS Custom compatible, puis installer Epsilon en veillant à ne pas être en mode Recovery)
 
 ### Écran noir, cable jaune, et `numworks.com/rescue`
 
-C'est l'écran du bootloader de NumWorks. Il s'affiche quand la calculatrice est verrouillée (blocage de l'installation des OS Custom) et que vous avez lancé le mode Recovery en maintenant 6 et en appuyant sur RESET. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
+C'est l'écran du bootloader de NumWorks. Il s'affiche quand la calculatrice est verrouillée et que vous avez lancé le mode Recovery en maintenant 6 et en appuyant sur RESET. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
 
 Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0).
 
