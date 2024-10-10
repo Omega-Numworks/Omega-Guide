@@ -20,6 +20,10 @@ Dans ce mode, si vous faites une mise à jour depuis le site de NumWorks, vous a
 
 [Choisissez un OS Custom](/docs/cfw/choose-a-cfw) à installer sur votre calculatrice. (Si vous voulez installer Epsilon sans bloquer la calculatrice, installez d'abord à ce stade un OS Custom compatible, puis installer Epsilon en veillant à ne pas être en mode Recovery)
 
+Pour sortir du mode Recovery:
+- Si vous avez une N0100, vous devez débrancher le cable de votre calculatrice, puis appuyer sur RESET.
+- Si vous avez tout autre modèle, appuyez simplement sur RESET (la calculatrice pourrait cependant toujours avoir l'air d'être en mode Recovery si vous n'avez pas d'OS installé).
+
 ### Écran noir, cable jaune, et `numworks.com/rescue`
 
 C'est l'écran du bootloader de NumWorks. Il s'affiche quand la calculatrice est verrouillée et que vous avez lancé le mode Recovery en maintenant 6 et en appuyant sur RESET. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
