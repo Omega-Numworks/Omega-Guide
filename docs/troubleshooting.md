@@ -19,6 +19,8 @@ In this mode, if you update from NumWorks' website, your calculator will be lock
 
 :::
 
+[Choose a Custom OS](/docs/cfw/choose-a-cfw) to install on your calculator. (If you want to install Epsilon without locking your calculator, install a compatible Custom OS before, then install Epsilon while making sure you are not in Recovery mode)
+
 ### Black screen, yellow cable, and `numworks.com/rescue`
 
 This is NumWorks' bootloader. It shows up when the calculator is locked and you started the Recovery mode by holding 6 and pressing reset, or when the calculator couldn't start.
