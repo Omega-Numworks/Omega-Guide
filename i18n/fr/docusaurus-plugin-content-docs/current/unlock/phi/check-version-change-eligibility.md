@@ -23,7 +23,7 @@ Vous êtes éligible, vous pouvez continuer normalement.
 
 Cela dépend de la version que vous aviez avant de mettre à jour vers Epsilon 19 et plus.
 
-- Si vous aviez 15 ou avant, Omega, ou Upsilon : Vous ne pouvez pas changer de version.
+- Si vous aviez 15 ou avant, ou tout OS autre qu'Epsilon : Vous ne pouvez pas changer de version.
 - Si vous aviez 16 à 18.2.3 (sauf 16.4.3) : Vous pouvez changer de version.
 - Si vous aviez 16.4.3, 19 ou plus: Vous ne pouvez pas changer de version.
 
