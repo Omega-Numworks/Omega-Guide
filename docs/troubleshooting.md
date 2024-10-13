@@ -11,9 +11,19 @@ This page lists all knows errors you can get when modding your NumWorks calculat
 
 ### Black screen and red LED
 
-Your calculator is in Recovery mode, it's waiting to receive a firmware, so it's unlocked. **If you update from NumWorks' website, your calculator will be locked**
+Everything is fine : your calculator is in Recovery mode, it's waiting to receive a firmware, so it's unlocked. 
 
-[Choose a Custom OS](./cfw/choose-a-cfw) to install on your calculator (if you want to install Epsilon without locking your calculator, install first a compatible Custom OS while in recovery mode, then install Epsilon while **NOT** in recovery mode).
+:::warning
+
+In this mode, if you update from NumWorks' website, your calculator will be locked and you won't be able to install any Custon OS anymore.
+
+:::
+
+[Choose a Custom OS](/docs/cfw/choose-a-cfw) to install on your calculator. (If you want to install Epsilon without locking your calculator, install a compatible Custom OS before, then install Epsilon while making sure you are not in Recovery mode)
+
+To get out of Recovery mode:
+- If you have a N0100, you need to unplug the cable from your calculator, then press RESET.
+- If you have any other model, just press RESET (the calculator may still look like it is in Recovery mode if you have no OS installed).
 
 ### Black screen, yellow cable, and `numworks.com/rescue`
 
@@ -122,6 +132,8 @@ Just restart the calculator in bootloader or any other firmware that isn't Epsil
 Something interrupted the connection with the calculator.
 
 Make sure you are in the right mode and no other app or tab is using the calculator.
+
+You can also try using a different USB cable to connect the calculator to your device.
 
 ### "DFU DOWNLOAD FAILED"
 

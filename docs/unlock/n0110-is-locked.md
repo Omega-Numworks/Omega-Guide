@@ -45,7 +45,7 @@ Use the version table below to select a method.<br/>A few things to note:
 | 16.4.3         | [Install Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0)                     |
 | 17.0.0-18.2.0  | [Phi](/docs/unlock/phi)                                                           |
 | 18.2.3         | [Install Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0)                     |
-| 19.0.0-22.2.0  | [Check version change eligibility](/docs/unlock/phi/check-version-change-eligibility) |
+| 19.0.0-23.2.3  | [Check version change eligibility](/docs/unlock/phi/check-version-change-eligibility) |
 
 ---
 #### Alternate Methods {#alt-methods}
