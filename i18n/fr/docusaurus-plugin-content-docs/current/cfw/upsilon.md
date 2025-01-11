@@ -69,7 +69,7 @@ Upsilon prend en charge les applis externes, il n'y en a que quelques unes mais 
 4. Ajoutez un fond d'écran si vous le souhaitez.
 5. Cliquez sur "Installer".
 
-#### Lisuse (pas pour N0100)
+#### Liseuse (pas pour N0100)
 
 Upsilon a une appli Liseuse. Elle peut afficher des fichiers texte et des expressions LaTeX.
 
