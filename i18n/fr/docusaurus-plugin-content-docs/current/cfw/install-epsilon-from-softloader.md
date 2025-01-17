@@ -6,7 +6,7 @@ pagination_prev: cfw/choose-a-cfw
 ---
 
 :::danger
-Suivre ce guide peut mettre en danger votre calculatrice. Installer Epsilon de la mauvaise manière sur votre calculatrice pourrait la bloquer.. Suivez **STRICTEMENT** ce qui est dit sur cette page pour être sur que votre calculatrice n'est pas en danger.
+Suivre ce guide peut mettre en danger votre calculatrice. Installer Epsilon de la mauvaise manière sur votre calculatrice pourrait la bloquer. Suivez **STRICTEMENT** ce qui est dit sur cette page pour être sur que votre calculatrice n'est pas en danger.
 :::
 
 :::caution
