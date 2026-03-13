@@ -1,8 +1,10 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+
+const themes = require("prism-react-renderer").themes;
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -22,8 +24,7 @@ const config = {
   projectName: 'Omega-Guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
-  
+
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -35,6 +36,9 @@ const config = {
   // Activate Mermaid Graphs in Markdown
   markdown: {
     mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    }
   },
   themes: ['@docusaurus/theme-mermaid'],
 
@@ -49,15 +53,15 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
         },
-       /*
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-       */
+        /*
+         blog: {
+           showReadingTime: true,
+           // Please change this to your repo.
+           // Remove this to remove the "edit this page" links.
+           editUrl:
+             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+         },
+        */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -82,7 +86,7 @@ const config = {
             position: 'left',
             label: 'Guide',
           },
-//          {to: '/blog', label: 'Blog', position: 'left'},
+          //          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/Omega-Numworks/Omega-Guide',
             label: 'GitHub',
@@ -92,7 +96,7 @@ const config = {
             type: 'localeDropdown',
             position: 'right',
           },
-          
+
         ],
       },
       footer: {
