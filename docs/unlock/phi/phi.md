@@ -21,13 +21,22 @@ The exploit used at the moment is compatible with Epsilon 16.3.0 through 26.4.0.
 3. Plug your device into a computer.
 4. Open Chromium.
 5. Go to the [Phi Installer](https://phi.getomega.dev/).
-6. Click "Connect to Numworks calculator" and select "STM32 BOOTLOADER". (Make sure no other tab is using USB, such as NumWorks or Omega/Upsilon.)
+6. Select the right model (written on the lower back of your numworks calculator).
+7. Click "Connect to Numworks calculator" and select "Numworks Calculator". (Make sure no other tab is using USB, such as NumWorks or Omega/Upsilon.)
 
 ### Section II - Running Phi
 
 1. Phi is run automatically after installation. This screen should show up. Press OK to continue. 
 
 ![Phi welcome screen](/img/phi-launch.png)
+
+
+:::caution
+If you see the NumWorks' rescue screen, Phi has failed. Please open a thread in [Omega's Discord server](https://discord.gg/X2TWhh9)
+
+![NumWorks rescue screen](/img/e16bl.png)
+
+:::
 
 
 ### Section III - Unlocking the calculator
@@ -55,9 +64,3 @@ If Phi is stuck on erasing at 100% for more than 30 seconds, you can hold the "6
 :::info
 If you don't see the bootloader but you just see a black screen. Don't worry, Phi successfully unlocked your NumWorks calculator. You can hold the "6" key and press the RESET button at the back of the device. Then follow the recovery procedure of the [Upsilon's webite](https://getupsilon.web.app/install)
 :::
-
-
-:::caution
-If you see the NumWorks' rescue screen, Phi has failed. Please open a thread in [Omega's Discord server](https://discord.gg/X2TWhh9)
-
-![NumWorks rescue screen](/img/e16bl.png)
