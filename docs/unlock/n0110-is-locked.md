@@ -41,11 +41,7 @@ Use the version table below to select a method.<br/>A few things to note:
 | System Version | What to do                                                           |
 |----------------|----------------------------------------------------------------------|
 | 11.1.0-16.2.0  | [Now what ?](/docs/unlock/n0110-unlocked)                                         |
-| 16.3.0-16.4.2  | [Phi](/docs/unlock/phi)                                                           |
-| 16.4.3         | [Install Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0)                     |
-| 17.0.0-18.2.0  | [Phi](/docs/unlock/phi)                                                           |
-| 18.2.3         | [Install Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0)                     |
-| 19.0.0-23.2.5  | [Check version change eligibility](/docs/unlock/phi/check-version-change-eligibility) |
+| 16.3.0-26.4.0 | [Phi](/docs/unlock/phi)                                                           |
 
 ---
 #### Alternate Methods {#alt-methods}
