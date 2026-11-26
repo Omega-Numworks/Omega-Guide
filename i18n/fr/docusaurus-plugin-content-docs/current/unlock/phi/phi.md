@@ -7,7 +7,7 @@ pagination_next: unlock/n0110-unlocked
 ### Lecture obligatoire
 
 Phi a plusieurs points d'entrée (méthode de lancement).
-L'exploit utilisé pour le moment est compatible avec Epsilon 16.3.0 à 18.2.0 (sauf 16.3.4).
+L'exploit utilisé pour le moment est compatible avec Epsilon 16.3.0 à 26.4.0.
 
 ### Ce dont vous avez besoin
 
@@ -16,71 +16,48 @@ L'exploit utilisé pour le moment est compatible avec Epsilon 16.3.0 à 18.2.0 (
 
 ### Section I - Installer Phi
 
-1. Allumez votre calculatrice.
-2. Branchez votre calculatrice à un ordinateur.
-3. Ouvrez Chromium.
-4. Allez sur l'[installeur Phi](https://phi.getomega.dev/).
-5. Cliquez sur "Se connecter à la calculatrice NumWorks" et sélectionnez votre calculatrice.
-6. La calculatrice affichera un message indiquant "Applications tierces".
-7. Appuyez sur la touche Retour.
+1. Appuyez sur la touche "6".
+2. Tout en appuyant sur la touche "6", appuyez sur le bouton RESET à l'arrière de la calculatrice.
+3. Branchez votre calculatrice à un ordinateur.
+4. Ouvrez Chromium.
+5. Allez sur l'[installeur Phi](https://phi.getomega.dev/).
+6. Cliquez sur "Connect to Numworks calculator" et sélectionnez "STM32 BOOTLOADER". (Vérifiez qu'aucun autre onglet n'utilise l'USB, comme NumWorks ou Omega/Upsilon.)
 
 ### Section II - Exécuter Phi
 
-1. Faites défiler la liste des applications et sélectionnez "Phi Installer".
-2. Appuyez sur la touche OK.
-3. L'écran devrait clignoter et vous devriez voir un écran similaire à celui-ci :
+1. Phi se lance automatiquement après l'installation. L'écran suivant devrait apparaître. Appuyez sur OK pour continuer.
 
-![Phi launch screen](/img/phi-launch.png)
+![Écran d'accueil de Phi](/img/phi-launch.png)
 
-:::info
-Si l'écran devient jaune, la version d'Epsilon que vous utilisez n'est pas encore prise en charge. Vous pourriez avoir besoin de [changer de version](/docs/unlock/phi/check-version-change-eligibility).
-:::
-
-:::caution
-Si l'écran devient rouge, l'exploit a échoué. Réinitialisez la calculatrice et réessayez. Si cela ne fonctionne pas la deuxième fois, veuillez rejoindre le [Discord Omega](https://discord.gg/X2TWhh9).
-:::
 
 ### Section III - Déverrouiller la calculatrice
 
-Nous allons maintenant déverrouiller la flash interne et supprimer la protection en écriture :
+Nous allons maintenant lancer la procédure de déverrouillage :
 
-1. Appuyez sur 1 pour déverrouiller la flash interne.
-2. Appuyez sur OK pour confirmer.
-3. Vous devriez voir quelque chose comme ça :
+1. L'écran de licence s'affiche ensuite. Lisez-le et appuyez sur OK pour continuer.
 
-![Phi unlock screen](/img/phi-unlock.png)
+![Écran de licence de Phi](/img/phi-license.png)
 
-L'étape "Reset RDP" peut prendre un peu de temps. Vous serez remis sur le menu principal après une seconde, lorsque le déverrouillage sera terminé.
+2. Appuyez de nouveau sur OK pour lancer l'installation automatique.
 
-### Section IV - Effacement de la flash interne
+![Écran de sélection d'action de Phi](/img/phi-auto-install.png)
 
-La suppression de la protection en écriture aurait dû effacer la flash interne, mais nous allons le refaire, juste pour être sûr :
+3. Phi effectuera ensuite une étape de déverrouillage, puis une étape d'effacement.
 
-1. Appuyez sur 2 pour réinitialiser la flash interne.
-2. Appuyez sur OK pour confirmer.
-3. Vous devriez voir quelque chose comme ça :
-
-![Phi erase screen](/img/phi-erase.png)
-
-L'étape "Erase flash" peut prendre un peu de temps, Vous serez remis sur le menu principal après une seconde, quand l'effacement sera terminé.
-
-### Section V - Installation d'un bootloader custom
-
-1. Appuyez sur 3.
-2. Appuyez sur OK pour confirmer.
-3. Vous devriez voir quelque chose comme ça :
-
-![Phi launch screen](/img/phi-write.png)
-
-L'étape "Write Flash" peut prendre un peu de temps. Vous serez remis sur le menu principal après une seconde, quand la flash sera écrite.
-
-### Section VI - Finalisation du déverrouillage
-
-1. Appuyez sur 4.
-2. Appuyez sur OK pour confirmer.
-3. La calculatrice redémarre sur Epsilon et Phi a disparu.
-
+4. Le nouveau bootloader devrait maintenant être installé. Vous pouvez désormais installer un [OS Custom](/cfw/choose-a-cfw.md)
 
 :::info
-Si vous ne démarrez pas dans Epsilon, ne vous inquiétez pas, installer un OS Custom réparera cela plus tard.
+
+Si Phi reste bloqué sur l'effacement à 100 % pendant plus de 30 secondes, vous pouvez maintenir la touche "6" et appuyer sur le bouton RESET à l'arrière de la calculatrice. Suivez ensuite la procédure de récupération sur le [site d'Upsilon](https://getupsilon.web.app/install)
+
+:::
+
+:::info
+Si vous ne voyez pas le bootloader mais seulement un écran noir, ne vous inquiétez pas : Phi a bien déverrouillé votre calculatrice NumWorks. Vous pouvez maintenir la touche "6" et appuyer sur le bouton RESET à l'arrière de la calculatrice. Suivez ensuite la procédure de récupération du [site d'Upsilon](https://getupsilon.web.app/install)
+:::
+
+:::caution
+Si vous voyez l'écran de secours de NumWorks, Phi a échoué. Veuillez ouvrir un sujet sur le [Discord d'Omega](https://discord.gg/X2TWhh9)
+
+![Écran de secours NumWorks](/img/e16bl.png)
 :::

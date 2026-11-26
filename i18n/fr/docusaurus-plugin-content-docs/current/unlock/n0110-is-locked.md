@@ -42,11 +42,7 @@ Utilisez le tableau des versions ci-dessous pour sélectionner une méthode.<br/
 | Version du système | Que faire                                                        |
 |--------------------|------------------------------------------------------------------|
 | 11.1.0-16.2.0  | [Et maintenant ?](/docs/unlock/n0110-unlocked)                                         |
-| 16.3.0-16.4.2  | [Phi](/docs/unlock/phi)                                                           |
-| 16.4.3         | [Installer Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0)                     |
-| 17.0.0-18.2.0  | [Phi](/docs/unlock/phi)                                                           |
-| 18.2.3         | [Installer Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0)                     |
-| 19.0.0-23.2.5  | [Vérifier l'éligibilité au changement de version](/docs/unlock/phi/check-version-change-eligibility) |
+| 16.3.0-26.4.0  | [Phi](/docs/unlock/phi)                                                           |
 
 ---
 #### Méthodes alternatives {#alt-methods}
