@@ -28,7 +28,7 @@ Pour sortir du mode Recovery:
 
 C'est l'écran du bootloader de NumWorks. Il s'affiche quand la calculatrice est verrouillée et que vous avez lancé le mode Recovery en maintenant 6 et en appuyant sur RESET. Il s'affiche également quand la calculatrice n'a pas pu démarrer.
 
-Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide à partir de [l'installation d'Epsilon 18.2.0](/docs/unlock/phi/install-epsilon-18-2-0).
+Si vous souhaitez débloquer votre calculatrice, n'allez pas sur le site `numworks.com/rescue`, mais suivez le guide pour [installer Phi](/docs/unlock/phi/).
 
 ### Écran noir, rien d'autre
 

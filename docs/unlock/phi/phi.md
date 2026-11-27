@@ -7,7 +7,7 @@ pagination_next: unlock/n0110-unlocked
 ### Required Reading
 
 Phi has multiple entrypoints (method of launching).
-The exploit used at the moment is compatible with Epsilon 16.3.0 through 18.2.0 (except 16.4.3).
+The exploit used at the moment is compatible with Epsilon 16.3.0 through 26.4.0.
 
 ### What you need
 
@@ -16,72 +16,51 @@ The exploit used at the moment is compatible with Epsilon 16.3.0 through 18.2.0 
 
 ### Section I - Installing Phi
 
-1. Power on your device.
-2. Plug your device to a computer.
-3. Open Chromium.
-4. Go to the [Phi Installer](https://phi.getomega.dev/).
-5. Click "Connect to Numworks calculator" and select your calculator.
-6. The calculator will show a message reading "Third party applications".
-7. Press Back.
+1. Press the "6" key.
+2. While pressing the "6" key, press the RESET button at the back of the device.
+3. Plug your device into a computer.
+4. Open Chromium.
+5. Go to the [Phi Installer](https://phi.getomega.dev/).
+6. Select the right model (written on the lower back of your numworks calculator).
+7. Click "Connect to Numworks calculator" and select "Numworks Calculator". (Make sure no other tab is using USB, such as NumWorks or Omega/Upsilon.)
 
 ### Section II - Running Phi
 
-1. Scroll down in the apps list and select "Phi Installer".
-2. Press OK.
-3. The screen should blink and you should see a screen similar to this one:
+1. Phi is run automatically after installation. This screen should show up. Press OK to continue. 
 
-![Phi launch screen](/img/phi-launch.png)
+![Phi welcome screen](/img/phi-launch.png)
 
-:::info
-If the screen turns yellow, the version or Epsilon you're using isn't yet supported. You may need to [change your version](/docs/unlock/phi/check-version-change-eligibility).
-:::
 
 :::caution
-If the screen turns red, the exploit failed. RESET the calculator and try again. If it doesn't work the second time, please join the [Omega Discord](https://discord.gg/X2TWhh9).
+If you see the NumWorks' rescue screen, Phi has failed. Please open a thread in [Omega's Discord server](https://discord.gg/X2TWhh9)
+
+![NumWorks rescue screen](/img/e16bl.png)
+
 :::
+
 
 ### Section III - Unlocking the calculator
 
-We are now going to unlock the internal flash and remove the write protection:
+We are now going to begin the unlocking procedure:
 
-1. Press 1 to unlock the internal flash.
-2. Press OK to confirm
-3. You should now see something like this:
+1. The license screen then shows up. Read it and press OK to continue.
 
-![Phi unlock screen](/img/phi-unlock.png)
+![Phi license screen](/img/phi-license.png)
 
-The "Reset RDP" stage can take a bit of time. You'll be sent back to the main menu after a second, after the unlocking is done.
+2. Press OK again to trigger automatic installation.
 
-### Section IV - Erasing the internal flash
+![Phi Select action screen](/img/phi-auto-install.png)
 
-Removing the write protection should have erased the internal flash, but we are going to do it again, just to be sure:
+3. Phi will then proceed to an unlocking step, then an erasing step.
 
-1. Press 2 to reset the internal flash.
-2. Press OK to confirm.
-3. You should see something like this:
-
-![Phi erase screen](/img/phi-erase.png)
-
-The "Erase flash" stage can take a bit of time. You'll be put back on the main menu after a second, when the erasing is done.
-
-### Section V - Installing a custom bootloader
-
-1. Press 3.
-2. Press OK to confirm.
-3. You should see something like this:
-
-![Phi launch screen](/img/phi-write.png)
-
-The "Write flash" stage can take a bit of time. You'll be put back on the main menu after a second, when the flashing is done.
-
-Press 4, then OK. You should now boot back into Epsilon.
-
-### Section VI - Finalizing unlocking
-
-1. Press 4.
-2. Press OK to confirm.
-3. The calculator restarts on Epsilon and Phi has disappeared.
+4. The new bootloader should now be installed. You can now go install a [custom OS](/cfw/choose-a-cfw.md)
 
 :::info
-If you don't boot back into Epsilon, don't worry, installing a Custom OS will fix it later.
+
+If Phi is stuck on erasing at 100% for more than 30 seconds, you can hold the "6" key and press the RESET button at the back of the device. Then follow the recovery procedure on [Upsilon's website](https://getupsilon.web.app/install)
+
+:::
+
+:::info
+If you don't see the bootloader but you just see a black screen. Don't worry, Phi successfully unlocked your NumWorks calculator. You can hold the "6" key and press the RESET button at the back of the device. Then follow the recovery procedure of the [Upsilon's webite](https://getupsilon.web.app/install)
 :::

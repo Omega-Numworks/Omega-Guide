@@ -29,7 +29,7 @@ To get out of Recovery mode:
 
 This is NumWorks' bootloader. It shows up when the calculator is locked and you started the Recovery mode by holding 6 and pressing reset, or when the calculator couldn't start.
 
-If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide from [Installing Epsilon 18.2.0](./unlock/phi/install-epsilon-18-2-0).
+If you want to unlock your calculator, don't go to the `numworks.com/rescue` website, but follow the guide to [install Phi](./unlock/phi/).
 
 ### Black screen, nothing else
 
